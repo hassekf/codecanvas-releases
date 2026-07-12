@@ -3,6 +3,14 @@
     <channel>
         <title>codeCanvas</title>
         <item>
+            <title>0.9.9</title>
+            <pubDate>Sun, 12 Jul 2026 16:14:38 -0300</pubDate>
+            <sparkle:version>202607121612</sparkle:version>
+            <sparkle:shortVersionString>0.9.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v0.9.9/codeCanvas-0.9.9.dmg" length="5760529" type="application/octet-stream" sparkle:edSignature="MyjAn+DK9zbh1dqy1ODMigpIm8+dqvle9EocDB/+MiYkmN10eJRSImTwhRW31K7AV9umy5+RgeTEmQo9z5nbDg=="/>
+        </item>
+        <item>
             <title>0.9.8</title>
             <pubDate>Sun, 12 Jul 2026 15:46:45 -0300</pubDate>
             <sparkle:version>202607121544</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.9.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v0.9.7/codeCanvas-0.9.7.dmg" length="5729159" type="application/octet-stream" sparkle:edSignature="tASS9mTnGOfQ7qxMDzs33d81ozSJ/klEPh8N3HfmVM8AHphINP7OiBGoVfy7fSzowxemiwfnbYwnQHxfzAt8BA=="/>
-        </item>
-        <item>
-            <title>0.9.6</title>
-            <pubDate>Sun, 12 Jul 2026 15:19:54 -0300</pubDate>
-            <sparkle:version>202607121517</sparkle:version>
-            <sparkle:shortVersionString>0.9.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v0.9.6/codeCanvas-0.9.6.dmg" length="5723469" type="application/octet-stream" sparkle:edSignature="FYOBE8cgH0MrTNWyjtDZs7ciBYJEOuLGU/iR8XHms+cTichu7gtL6NEv5x/NN+VWfglbwsIEFn/q7/HcrjxICw=="/>
         </item>
     </channel>
 </rss>
