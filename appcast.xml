@@ -3,6 +3,18 @@
     <channel>
         <title>codeCanvas</title>
         <item>
+            <title>1.7.1</title>
+            <pubDate>Mon, 13 Jul 2026 23:15:29 -0300</pubDate>
+            <sparkle:version>202607132312</sparkle:version>
+            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li><b>O canvas abre na hora.</b> A atualização do Claude Code deixou de segurar a porta: ela acontece sozinha, em segundo plano, enquanto você já está trabalhando. Os painéis aparecem assim que o canvas abre, e não depois que a internet responde.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.7.1/codeCanvas-1.7.1.dmg" length="8315397" type="application/octet-stream" sparkle:edSignature="k/W9YnRBHLJ85hLfWX/gsw1AoF0xkuOvyLgPwLY/61SGoxPsnZtQpTWXzb1ytvNyAR17c2U4z7dKJC0wHP8FCw=="/>
+        </item>
+        <item>
             <title>1.7.0</title>
             <pubDate>Mon, 13 Jul 2026 22:35:19 -0300</pubDate>
             <sparkle:version>202607132232</sparkle:version>
@@ -45,21 +57,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.6.0/codeCanvas-1.6.0.dmg" length="8191548" type="application/octet-stream" sparkle:edSignature="duING1h9N4FtND7IrcLWNPoSTpzN9ovyzhKsnttvi5KPZnSXrK5j2T394qMMHS2/cbomEny+ZC84Q4PaIjQvDQ=="/>
-        </item>
-        <item>
-            <title>1.5.0</title>
-            <pubDate>Mon, 13 Jul 2026 18:49:38 -0300</pubDate>
-            <sparkle:version>202607131846</sparkle:version>
-            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li><b>Peça o seu papel de parede.</b> Descreva o fundo que você quer — <i>&quot;um estádio à noite, verde e dourado&quot;</i> — e escolha entre <b>procurar</b> uma imagem pronta na internet ou <b>criar</b> uma nova na hora. Funciona falando com a Nina (<i>&quot;põe um fundo da Copa do Mundo&quot;</i>) ou pelo campo na tela do projeto, que mostra as opções encontradas para você escolher.</li>
-  <li><b>As teclas passam a ser suas.</b> Os atalhos do app agora aparecem numa lista, e você troca qualquer um deles pela combinação que preferir. O que era decisão de quem escreveu o app virou escolha de quem usa.</li>
-  <li><b>Cada projeto tem a sua tela.</b> O que é do projeto — o nome, a pasta, a aparência, o Claude que roda nele — saiu do meio das preferências do app e ganhou uma folha só dele, que abre também na tela inicial, antes mesmo de existir um projeto aberto.</li>
-  <li><b>O canvas fala de todos os assistentes.</b> Com mais de um CLI ligado, o rodapé e a voz deixam de falar como se só existisse o Claude: cada agente aparece com o nome de quem realmente está rodando ali dentro.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.5.0/codeCanvas-1.5.0.dmg" length="7618361" type="application/octet-stream" sparkle:edSignature="Zf34gist7o3NdBpc96Zxhd8mMOGsjKESRUDt1EiJ6RZ9klmAeb6EOgm82vphYy9YSzhsXWFVGH8XYSXY3gPXDA=="/>
         </item>
     </channel>
 </rss>
