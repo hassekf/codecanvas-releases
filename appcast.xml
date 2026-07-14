@@ -3,6 +3,18 @@
     <channel>
         <title>codeCanvas</title>
         <item>
+            <title>1.8.0</title>
+            <pubDate>Tue, 14 Jul 2026 00:35:32 -0300</pubDate>
+            <sparkle:version>202607140032</sparkle:version>
+            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li><b>Um agente novo a uma tecla de distância.</b> ⌘N põe um Claude Code no canvas, ⇧⌘N um Codex, e ⌘T um terminal vazio — todos já com o cursor dentro, prontos para você escrever. As três funcionam mesmo enquanto você conversa com outro agente, e você pode trocar as teclas em Ajustes → Atalhos.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.8.0/codeCanvas-1.8.0.dmg" length="8324112" type="application/octet-stream" sparkle:edSignature="gCFr2ZwanCVa3fLLQzGMzO0Ycdohxe5KTojC4qIEOtwK5DCgf4GNALJ3/eALv8J5llhlIX/ZmlBRDbxOwMApAw=="/>
+        </item>
+        <item>
             <title>1.7.1</title>
             <pubDate>Mon, 13 Jul 2026 23:15:29 -0300</pubDate>
             <sparkle:version>202607132312</sparkle:version>
@@ -30,33 +42,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.7.0/codeCanvas-1.7.0.dmg" length="8312856" type="application/octet-stream" sparkle:edSignature="uF3sESicgwvJ3Ocpvev+0PFuRPerrN+FnC5nexEoXBVORZMV34dPGpKUpZeGSDaJV02N4Sp/TNeo/Cvr6UTNAw=="/>
-        </item>
-        <item>
-            <title>1.6.0</title>
-            <pubDate>Mon, 13 Jul 2026 20:58:50 -0300</pubDate>
-            <sparkle:version>202607132056</sparkle:version>
-            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li><b>O pull request de cada agente, à vista.</b> Se a branch em que um agente está trabalhando tem um PR aberto, o número dele aparece no cabeçalho do painel — verde se a CI passou, vermelho com a contagem se algum check quebrou, girando enquanto ainda roda. Você bate o olho no canvas e sabe quem está em qual PR, e qual deles quebrou o build. O mesmo selo aparece no rodapé e no painel de Git, para a branch em que <b>você</b> está.</li>
-  <li><b>Clique no selo e aja.</b> Ele abre a lista dos checks, um por um, com quanto cada um demorou — e três caminhos: abrir o PR num browser aqui dentro, ver o log do que falhou, ou <b>pedir ao próprio agente que consertar</b>. Esse último busca o log da falha e entrega ao agente que escreveu o código, que já está com ele na cabeça. O que era &quot;copiar o erro do GitHub e colar no chat&quot; virou um clique.</li>
-  <li><b>A CI quebrou? Você fica sabendo.</b> Mesmo olhando para outro projeto, um aviso conta qual agente quebrou o quê — na hora em que quebra, e não meia hora depois, quando você já mandou ele fazer outra coisa.</li>
-  <li><b>Os browsers dos agentes não dividem mais os seus logins.</b> O que um agente abre passou a viver num cofre de cookies separado do seu. Você pode logar no GitHub no browser do canvas — uma vez, e o login fica — sem que essa sessão fique ao alcance de nenhum agente.</li>
-  <li><b>Não quer nada disso na tela?</b> Em Ajustes, um botão apaga o selo, o aviso e as perguntas ao GitHub de uma vez — o canvas volta a ser exatamente o que era.</li>
-  <li><b>O canvas passa a mostrar o que ele pesa — e quem está pesando.</b> Um painel novo (⌘K → &quot;desempenho&quot;, ou &quot;lento&quot;, ou &quot;memória&quot;) mostra a memória e a CPU do app com nome de gente: não &quot;seis processos node&quot;, mas <i>o Uirapuru, 580 MB</i>. Os agentes, os servidores que eles sobem, os browsers e os terminais aparecem separados, e você vê de relance quem puxou a conta.</li>
-  <li><b>Quando algo sai do normal, o app guarda um relatório do momento — sozinho.</b> Ele aprende quanto costuma pesar no seu jeito de trabalhar; quando foge disso, grava em disco tudo o que estava acontecendo na hora: os agentes abertos, o que cada um estava fazendo, os browsers, os processos e a subida minuto a minuto. É o que responde &quot;por que travou às três da tarde?&quot; quando você já nem lembra o que estava aberto. Nada disso sai da sua máquina.</li>
-  <li><b>Um número discreto na barra, ao lado do zoom.</b> Ele fica quieto enquanto está tudo normal, e ganha cor quando não está. Clicar abre o painel.</li>
-  <li><b>Em Ajustes → Desempenho você diz só uma coisa: o quanto fora do normal quer saber.</b> Não há campo de gigabytes — o app mede sozinho quanto ele costuma pesar, e a régua acompanha. Dez agentes abertos pesam o que pesam; isso não é defeito, e não vira alarme.</li>
-  <li><b>Deixe os agentes esquecidos dormirem, e ganhe a memória de volta.</b> Ligue em Ajustes → Agentes: depois de um tempo sem nenhuma atividade (dele e sua), o processo do agente é encerrado e o painel mostra uma tela de sono com um botão grande, <b>Acordar</b>. A conversa não se perde — acordar retoma tudo de onde parou. Nunca dormem os que estão trabalhando, os que estão esperando resposta sua, e o painel que você está olhando. E você não precisa acordar ninguém à mão para falar com ele: <b>mande um prompt — por você, pela Nina ou por voz — e ele acorda sozinho, recebendo a sua mensagem assim que ficar de pé.</b> Vem desligado; quando a memória apertar e houver agentes parados, o app conta quanto eles estão custando e oferece o caminho até esse ajuste.</li>
-  <li><b>Cada canvas escolhe os servidores MCP dos seus agentes — e um agente passa a custar menos da metade.</b> Até agora, todo agente que nascia subia uma cópia de <i>todos</i> os servidores MCP que você tem configurados, mesmo os que ele nunca usaria: um agente de 190 MB carregando 215 MB de servidores nas costas, e dez agentes eram dez cópias de cada um. Agora, ao criar ou editar um canvas, abra &quot;Servidores MCP&quot; e marque só o que aquele projeto precisa — o <code>chrome-devtools</code> no canvas de front-end, nada no canvas onde ele seria peso morto. Medido aqui: <b>de 482 MB para 190 MB por agente.</b> Se você mudar a escolha com agentes abertos, eles voltam sozinhos com os servidores novos, <b>sem perder a conversa</b>.</li>
-  <li><b>Cada agente passa a dizer, numa linha, em que assunto ele está.</b> Abaixo do nome dele, no painel, há agora uma segunda barra — e quem a escreve é o próprio agente: <i>&quot;Testes de integração de pagamento&quot;</i>, <i>&quot;Vazamento de memória no player&quot;</i>. Não é um pedaço do que você pediu nem um pedaço do que ele respondeu: é o <b>assunto</b>, do jeito que uma pessoa contaria a outra. Você bate o olho em seis painéis e sabe onde cada um está, sem ler terminal nenhum.</li>
-  <li><b>E se você quiser mandar nessa linha, ela é sua.</b> Dê um duplo clique nela e escreva o que quiser: daí em diante ela é <b>sua</b>, e nenhum agente a reescreve — nem o Claude, nem o Codex. É onde cabe o <i>&quot;não mexer nisso até sexta&quot;</i> que só você sabe. Um alfinete aparece do lado. Para devolvê-la ao agente, apague o texto (ou clique com o botão direito → &quot;Devolver ao agente&quot;).</li>
-  <li><b>O verso do painel virou uma resposta, e não um placar.</b> Antes ele contava o que dava para contar — <i>&quot;editou 3 arquivos, rodou swift build&quot;</i> — e a pergunta que você faz olhando de longe nunca foi essa. Agora ele traz o que o próprio agente escreveu sobre o que está fazendo: o assunto, o contexto em duas ou três frases sem jargão, e — o que mais importa — <b>o que ele está esperando de você</b>, em destaque. Sem ler o transcript, sem abrir o painel.</li>
-  <li><b>Pergunte à Nina &quot;como estão todos?&quot; e ela responde com isso.</b> Ela deixa de improvisar um resumo a partir de contagem de ferramentas e passa a ler o que cada agente escreveu sobre si — inclusive quem está parado esperando uma resposta sua, e o que ele quer saber.</li>
-  <li><b>E o cabeçalho dos painéis passa a obedecer à sua escala de interface.</b> Se você aumentou a interface em Ajustes porque a tela é grande, o nome do agente e essa barra nova crescem junto — em vez de continuarem minúsculos e obrigarem você a dar zoom no canvas inteiro só para lê-los.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.6.0/codeCanvas-1.6.0.dmg" length="8191548" type="application/octet-stream" sparkle:edSignature="duING1h9N4FtND7IrcLWNPoSTpzN9ovyzhKsnttvi5KPZnSXrK5j2T394qMMHS2/cbomEny+ZC84Q4PaIjQvDQ=="/>
         </item>
     </channel>
 </rss>
