@@ -3,6 +3,23 @@
     <channel>
         <title>codeCanvas</title>
         <item>
+            <title>1.7.0</title>
+            <pubDate>Mon, 13 Jul 2026 22:35:19 -0300</pubDate>
+            <sparkle:version>202607132232</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li><b>Ande entre os painéis sem soltar o teclado: ⌃⌘ + as setas.</b> Você está no meio de uma conversa com um agente, quer falar com o vizinho, e não quer pegar o mouse — aperte ⌃⌘→ e o cursor está lá, pronto para você escrever. As setas andam pelo canvas como o olho anda: o painel <i>à direita</i> é o que está à direita, não o próximo de uma lista invisível. O arranjo não se mexe, o zoom não pula, e na borda a tecla simplesmente não faz nada — nada de dar a volta e jogar você no outro extremo da tela. No canvas livre, se o vizinho estiver fora de vista, a câmera vai junto. As quatro teclas são suas: troque em Ajustes → Atalhos.</li>
+  <li><b>Pedir foco agora entrega o teclado também.</b> Diga &quot;foco no Fulano&quot; e o painel não só cresce à frente — ele passa a ser onde você escreve. Antes, o agente ficava grande na sua frente e o que você digitava continuava indo para o painel anterior, sem nenhum aviso.</li>
+  <li><b>Abriu um agente e fechou sem falar com ele? O nome dele não se perde.</b> Quem trabalha chamando um agente por missão gastava um nome a cada tentativa — inclusive nas que não viraram nada. Agora um agente que sai da tela sem ter recebido um único pedido some do elenco e devolve o nome ao banco: ele nunca existiu. Quem trabalhou continua guardado, com a conversa inteira, como sempre.</li>
+  <li><b>E o banco de nomes mais que dobrou.</b> São 177 nomes de mitologias do mundo todo e de estrelas — todos curtos e fáceis de dizer, escolhidos para você gritar do outro lado da sala, com sotaque e com pressa, sem que o agente errado responda. Um projeto de meses deixa de esbarrar em &quot;Loki 2&quot;.</li>
+  <li><b>Dispense um agente de vez, quando quiser.</b> No Elenco, cada agente guardado ganhou um botão para ser esquecido: o trabalho dele já foi integrado, a conversa não interessa mais, e o nome volta a ficar livre. O app pergunta antes — não há como desfazer.</li>
+  <li>Melhorias de estabilidade: o app não fecha mais ao abrir a tela de Atalhos em Macs cuja fonte monoespaçada do sistema não responde.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.7.0/codeCanvas-1.7.0.dmg" length="8312856" type="application/octet-stream" sparkle:edSignature="uF3sESicgwvJ3Ocpvev+0PFuRPerrN+FnC5nexEoXBVORZMV34dPGpKUpZeGSDaJV02N4Sp/TNeo/Cvr6UTNAw=="/>
+        </item>
+        <item>
             <title>1.6.0</title>
             <pubDate>Mon, 13 Jul 2026 20:58:50 -0300</pubDate>
             <sparkle:version>202607132056</sparkle:version>
@@ -43,14 +60,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.5.0/codeCanvas-1.5.0.dmg" length="7618361" type="application/octet-stream" sparkle:edSignature="Zf34gist7o3NdBpc96Zxhd8mMOGsjKESRUDt1EiJ6RZ9klmAeb6EOgm82vphYy9YSzhsXWFVGH8XYSXY3gPXDA=="/>
-        </item>
-        <item>
-            <title>1.4.0</title>
-            <pubDate>Mon, 13 Jul 2026 14:36:02 -0300</pubDate>
-            <sparkle:version>202607131433</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.4.0/codeCanvas-1.4.0.dmg" length="6742555" type="application/octet-stream" sparkle:edSignature="Cd440+w3Od+rDR8xTlODvM4zWDraHpJx3NfZMIgZV4/SS3etQUGbYX7yjiPJ05cHSTz8qmehuhu6+c1IEj33Aw=="/>
         </item>
     </channel>
 </rss>
