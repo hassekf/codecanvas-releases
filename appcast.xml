@@ -3,6 +3,28 @@
     <channel>
         <title>codeCanvas</title>
         <item>
+            <title>1.9.0</title>
+            <pubDate>Tue, 14 Jul 2026 03:12:13 -0300</pubDate>
+            <sparkle:version>202607140309</sparkle:version>
+            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li><b>A voz que te avisa deixou de ser um robô.</b> Os avisos — &quot;o Marshall terminou&quot;, &quot;o Juno está esperando você&quot; — passam a falar com a mesma voz de gente que o modo Comando já usava. Não é só o timbre: você escolhe <b>qual</b> voz (são onze), o quanto ela fala alto e o quanto ela fala rápido. O volume é só o dela, então baixá-la não abaixa a música que estava tocando. E você escolhe <b>ouvindo</b>: um botão ao lado de cada voz — a dos avisos e a da assistente — toca uma frase de amostra na hora, com o timbre e a velocidade que estiverem ali. No caso dela, sem precisar abrir (nem pagar) uma conversa só para descobrir se aquele nome soa bem.</li>
+  <li><b>Fale por cima dela e ela cala.</b> Um aviso te pega no meio de uma ligação e você não precisa mais esperá-lo terminar: comece a falar e ele para na hora. E o app entende a diferença entre te interromper e puxar conversa — se você disse só &quot;chega&quot;, &quot;deixa pra lá&quot; ou &quot;para de falar comigo&quot;, ele cala e <b>não</b> acorda a assistente para responder &quot;tá bom&quot; (que seria mais voz, justamente o que você mandou parar). Se foi um pedido de verdade, ela nasce já sabendo do assunto.</li>
+  <li><b>Esc cancela a voz — qualquer uma delas.</b> Um ditado começado por engano, um comando que você desistiu de dar, a conversa aberta na hora errada, o aviso falado que te pegou no meio de uma ligação: aperte Esc e tudo cala na hora. O que estava sendo ditado é <b>jogado fora</b> — nada é enviado ao agente. E a tecla vale mesmo com o codeCanvas atrás de outra janela, porque a hora de querer cancelar é justamente a hora em que você está olhando para outro lugar. O Esc só é seu enquanto há voz no ar. Fora desses segundos ele continua sendo de todos os outros apps — inclusive o Esc que interrompe um agente dentro do terminal.</li>
+  <li><b>Peça um papel de parede falando e vá fazer outra coisa: ela volta para te mostrar.</b> Antes, a assistente confirmava o pedido e emudecia — a imagem leva quase um minuto para ficar pronta, e a conversa quase sempre dormia antes disso; você só descobria o resultado quando olhava para a tela. Agora ela promete, dorme junto, e <b>acorda quando o fundo está no ar</b> para te contar e perguntar se você quer ficar com ele. Se não gostou, é só dizer &quot;procura outro&quot; — e a troca é <b>na hora</b>, porque as outras opções daquela busca ficam guardadas em vez de serem jogadas fora.</li>
+  <li><b>O fundo do projeto agora se mexe.</b> Além de uma foto, você pode pôr um GIF ou um vídeo (MP4, MOV, M4V) como papel de parede. Ele toca em loop, mudo, atrás de tudo — e pausa sozinho quando a janela não está à vista, para não gastar bateria desenhando o que ninguém olha.</li>
+  <li><b>Você decide quanto o fundo escurece.</b> O véu que protege a legibilidade do texto virou um controle: arraste para zero e o vídeo aparece como é, aumente e a imagem se apaga atrás do trabalho. A miniatura ao lado mostra o resultado enquanto você arrasta.</li>
+  <li><b>Um projeto agora tem áreas de trabalho.</b> Separe o front do back em abas, dentro do mesmo projeto: cada área tem os seus painéis, o seu arranjo e a sua câmera. Trocar de área tira uma da tela e traz a outra — e <b>nada morre no caminho</b>. Os agentes seguem trabalhando na área que você não está vendo, o sino continua avisando quando um deles precisa de você, e ao voltar você encontra a conversa e o terminal exatamente onde deixou. As abas ficam no alto do canvas; o <code>+</code> cria uma área e já pergunta o nome, e clicar na aba em que você está renomeia. <code>⌃⇥</code> passa para a próxima. Peça por voz (&quot;vai pra área do back&quot;, &quot;manda o Marshall pro front&quot;) ou pelo ⌘K, que continua achando os painéis de todas as áreas — inclusive os que estão fora da tela. Os projetos que você já tem ganham uma área &quot;Principal&quot; com tudo dentro, sem você fazer nada.</li>
+  <li><b>As teclas de voz agora só valem no canvas que está na frente.</b> Ditar, comandar, conversar, ver status e organizar deixam de disparar quando o codeCanvas está atrás de outra janela: a tecla volta a ser do app em que você está trabalhando. Nada de abrir o microfone no meio de um e-mail — e, se você tem uma segunda janela do canvas aberta, só a que está na frente responde.</li>
+  <li><b>O que você dita fica guardado — e vai para o agente certo mesmo que tenha ido para o errado.</b> Os seus últimos vinte ditados ficam numa lista no rodapé, ao lado do sino: o texto, a hora e para quem foi (ou &quot;não enviado&quot;, se você descartou). Selecione o agente que devia ter recebido e mande o mesmo texto para ele, sem redizer uma palavra — e, se não houver ninguém selecionado, copie. Por voz também: <i>&quot;mandei errado, reenvia o último pro Cadmo&quot;</i> ou <i>&quot;aquilo que eu falei da migração, joga pro Apolo&quot;</i> — ela acha pelo assunto que você citar, e reenvia a sua fala original, sem reescrever nada.</li>
+  <li><b>O ditado diz para quem vai, antes de ir.</b> Enquanto você fala, o painelzinho mostra o nome do agente que vai receber — e mostra o <b>fim</b> do que você está dizendo, rolando, para você ver se a sua dicção está sendo entendida. Sem ninguém selecionado para receber, o texto não se perde mais: ele fica guardado e a tela pergunta quem recebe.</li>
+  <li><b>O ditado espera por você.</b> Se a janela perder o foco no meio de uma fala — uma notificação, um clique em outro app —, o microfone <b>continua ouvindo</b>: você pode falar minutos a fio e trocar de janela sem perder uma palavra. Quando você fica um tempo em silêncio, ele pausa sozinho, guarda tudo o que ouviu e pergunta o que fazer: <b>continuar falando</b>, <b>enviar</b> ao agente ou <b>descartar</b>. Retomar não recomeça do zero — o novo trecho se junta ao que você já tinha dito, e vai como uma coisa só.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.9.0/codeCanvas-1.9.0.dmg" length="8693332" type="application/octet-stream" sparkle:edSignature="1rnljZZqFfDHpW3oz/ZVvpiOvnvnNpE+f54ZXtUC6JesP4N+81C4N6h+H9Fcy40G2UnGyP3/nAfrlSn6+AqvBQ=="/>
+        </item>
+        <item>
             <title>1.8.0</title>
             <pubDate>Tue, 14 Jul 2026 00:35:32 -0300</pubDate>
             <sparkle:version>202607140032</sparkle:version>
@@ -25,23 +47,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.7.1/codeCanvas-1.7.1.dmg" length="8315397" type="application/octet-stream" sparkle:edSignature="k/W9YnRBHLJ85hLfWX/gsw1AoF0xkuOvyLgPwLY/61SGoxPsnZtQpTWXzb1ytvNyAR17c2U4z7dKJC0wHP8FCw=="/>
-        </item>
-        <item>
-            <title>1.7.0</title>
-            <pubDate>Mon, 13 Jul 2026 22:35:19 -0300</pubDate>
-            <sparkle:version>202607132232</sparkle:version>
-            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li><b>Ande entre os painéis sem soltar o teclado: ⌃⌘ + as setas.</b> Você está no meio de uma conversa com um agente, quer falar com o vizinho, e não quer pegar o mouse — aperte ⌃⌘→ e o cursor está lá, pronto para você escrever. As setas andam pelo canvas como o olho anda: o painel <i>à direita</i> é o que está à direita, não o próximo de uma lista invisível. O arranjo não se mexe, o zoom não pula, e na borda a tecla simplesmente não faz nada — nada de dar a volta e jogar você no outro extremo da tela. No canvas livre, se o vizinho estiver fora de vista, a câmera vai junto. As quatro teclas são suas: troque em Ajustes → Atalhos.</li>
-  <li><b>Pedir foco agora entrega o teclado também.</b> Diga &quot;foco no Fulano&quot; e o painel não só cresce à frente — ele passa a ser onde você escreve. Antes, o agente ficava grande na sua frente e o que você digitava continuava indo para o painel anterior, sem nenhum aviso.</li>
-  <li><b>Abriu um agente e fechou sem falar com ele? O nome dele não se perde.</b> Quem trabalha chamando um agente por missão gastava um nome a cada tentativa — inclusive nas que não viraram nada. Agora um agente que sai da tela sem ter recebido um único pedido some do elenco e devolve o nome ao banco: ele nunca existiu. Quem trabalhou continua guardado, com a conversa inteira, como sempre.</li>
-  <li><b>E o banco de nomes mais que dobrou.</b> São 177 nomes de mitologias do mundo todo e de estrelas — todos curtos e fáceis de dizer, escolhidos para você gritar do outro lado da sala, com sotaque e com pressa, sem que o agente errado responda. Um projeto de meses deixa de esbarrar em &quot;Loki 2&quot;.</li>
-  <li><b>Dispense um agente de vez, quando quiser.</b> No Elenco, cada agente guardado ganhou um botão para ser esquecido: o trabalho dele já foi integrado, a conversa não interessa mais, e o nome volta a ficar livre. O app pergunta antes — não há como desfazer.</li>
-  <li>Melhorias de estabilidade: o app não fecha mais ao abrir a tela de Atalhos em Macs cuja fonte monoespaçada do sistema não responde.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.7.0/codeCanvas-1.7.0.dmg" length="8312856" type="application/octet-stream" sparkle:edSignature="uF3sESicgwvJ3Ocpvev+0PFuRPerrN+FnC5nexEoXBVORZMV34dPGpKUpZeGSDaJV02N4Sp/TNeo/Cvr6UTNAw=="/>
         </item>
     </channel>
 </rss>
