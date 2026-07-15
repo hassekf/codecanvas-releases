@@ -3,6 +3,19 @@
     <channel>
         <title>codeCanvas</title>
         <item>
+            <title>1.13.0</title>
+            <pubDate>Wed, 15 Jul 2026 13:44:32 -0300</pubDate>
+            <sparkle:version>202607151340</sparkle:version>
+            <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li><b>O Mac te avisa quando você está longe do app.</b> Saiu do codeCanvas para escrever um e-mail ou ler um PR? Quando um agente termina, trava esperando você ou cai, chega uma notificação do sistema — mesmo com o app atrás de outra janela. E se dez agentes terminam quase juntos, você <b>não</b> recebe dez avisos: eles viram um só, que se atualiza no lugar (&quot;3 agentes terminaram&quot;). Clicar traz o app de volta e te leva ao projeto certo. Em <b>Configurações → Notificações</b> você escolhe o que avisa — terminou, esperando você, caiu — ou desliga tudo.</li>
+  <li><b>Quando o app trava, você pode nos ajudar a consertar.</b> Se o codeCanvas quebrar, ele passa a recolher o relatório da queda que o macOS guarda no seu computador e, com a sua permissão, mandá-lo para a nossa equipe — é assim que a gente descobre e corrige os travamentos antes que eles atrapalhem o seu trabalho. Na primeira vez, um aviso explica o que é enviado (o rastro técnico da queda, nunca o seu código nem os seus arquivos) e deixa você escolher. Dá para ligar ou desligar quando quiser, e ver o que já foi enviado, em Configurações → Diagnóstico.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.13.0/codeCanvas-1.13.0.dmg" length="13959740" type="application/octet-stream" sparkle:edSignature="2JBF9JCTI5HZ4da+CaFAN+HKEsGgXd4B9XXOSuNkjpnZUJbC1NLIz1HgBOI1udHjkUmooweGN+MPITv/X9qzAQ=="/>
+        </item>
+        <item>
             <title>1.12.0</title>
             <pubDate>Tue, 14 Jul 2026 23:23:07 -0300</pubDate>
             <sparkle:version>202607142319</sparkle:version>
@@ -59,25 +72,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.11.0/codeCanvas-1.11.0.dmg" length="10114081" type="application/octet-stream" sparkle:edSignature="1++Cwi//ezsVgoRlbH1TP+QksfFTu9Bs8pbh7Iko7sVN2b+nrFdeZ6dSjBqYSz/evSkUhA+qrDby4ZT++lvVAw=="/>
-        </item>
-        <item>
-            <title>1.10.0</title>
-            <pubDate>Tue, 14 Jul 2026 05:43:08 -0300</pubDate>
-            <sparkle:version>202607140540</sparkle:version>
-            <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li><b>Um agente pode chamar outros e dividir o trabalho com eles.</b> Diga &quot;sobe três agentes e põe cada um numa parte disso&quot; — ou &quot;chama um Codex e me diz onde ele discorda de você&quot; — e ele traz os colegas para o canvas, entrega uma tarefa a cada um e para. Não fica preso esperando: quando todos responderem, ele acorda sozinho, de uma vez, com tudo na mão, e te entrega a síntese. Enquanto isso o painel dele diz quantos faltam. Se um dos chamados morrer no meio, ele acorda assim mesmo e te conta — em vez de esperar para sempre por alguém que não vem. E como os colegas são agentes de verdade, podem ser de <b>outra ferramenta</b>: um Codex olhando o mesmo problema não pensa como um Claude, e é aí que a segunda opinião vale alguma coisa. O que eles escreverem para responder — relatórios, pesquisas, rascunhos — fica guardado numa pasta do próprio app, e não solto no meio dos seus arquivos. O caminho vem junto da resposta, e um clique abre o documento no canvas.</li>
-  <li><b>Arraste o painel até a aba da área e solte.</b> Pegue-o pelo cabeçalho, leve até o nome da área lá em cima: ele encolhe na sua mão, a aba acende, e uma etiqueta diz para onde vai. Solte, e ele muda de área com o agente vivo dentro. Saia de cima da aba e ele volta ao lugar, intacto.</li>
-  <li><b>A seleção múltipla agora carrega.</b> Marque três painéis (com ⌘ ou passando o laço), pegue um deles, e os três vão junto — inclusive até outra área, de uma vez só. Antes, pegar um dos selecionados desfazia a seleção e levava só ele.</li>
-  <li><b>As imagens passaram a morar numa área.</b> Uma referência colada na aba do front aparecia em <b>todas</b> as abas, como se não fosse de lugar nenhum. Agora ela é da aba em que você colou, o laço a seleciona junto com os painéis, e ela viaja com o grupo. As que você já tem ficam onde sempre estiveram.</li>
-  <li><b>O botão direito no cabeçalho do painel abre o menu</b> — escrever o assunto, mandar para outra área. Ele só existia na faixa fina do assunto, e ninguém clica onde não espera que haja algo.</li>
-  <li><b>A faixa do assunto agora convida.</b> Ela só nascia depois que o agente escrevia alguma coisa — quer dizer, quando já não fazia falta. Agora está lá desde o começo, pedindo para você descrever o assunto daquele painel antes mesmo da primeira mensagem. Um clique em qualquer ponto dela abre.</li>
-  <li><b>Rolar a roda do mouse dá zoom em qualquer lugar, menos dentro do painel que você está usando.</b> Com a tela cheia de painéis, afastar a câmera virava uma caça a um pedaço vazio onde pousar o cursor. Agora só o painel <b>selecionado</b> fica com a roda; no resto, ela é do canvas.</li>
-  <li><b>Afastar a câmera não deforma mais nada.</b> Os painéis de uso, desempenho, git, elenco, arquivos e a barra da mídia encolhiam pela metade e transbordavam por cima dos vizinhos. Agora eles diminuem inteiros, e o texto continua nítido quando você aproxima.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.10.0/codeCanvas-1.10.0.dmg" length="8856299" type="application/octet-stream" sparkle:edSignature="VJxoIQcxho8xjSQYAN/B1Rc6gs9+sbsw1I60LjRtNqiidfowblPOSy4dkUfL2Bt8EJPoRvZXdQNrfPmAQ+2BCw=="/>
         </item>
     </channel>
 </rss>
