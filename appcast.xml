@@ -3,6 +3,20 @@
     <channel>
         <title>codeCanvas</title>
         <item>
+            <title>1.15.0</title>
+            <pubDate>Wed, 15 Jul 2026 23:18:20 -0300</pubDate>
+            <sparkle:version>202607152314</sparkle:version>
+            <sparkle:shortVersionString>1.15.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li><b>Cada projeto tem o seu Jira — e um nunca vê o do outro.</b> Na edição do workspace, você conecta o canvas aberto a um site do Jira (e, se quiser, ao Confluence junto) com o seu email e um token de API. A conexão é <b>daquele projeto</b>: o canvas do banco fala com o Jira do banco, o da loja com o da loja, e as credenciais de um nunca alcançam o outro. Dali em diante, a Nina e os agentes <b>daquele canvas</b> passam a mexer no board por você: peça &quot;o que tem aberto no board?&quot;, &quot;cria um bug com esse erro&quot;, &quot;move a PROJ-12 pra pronto&quot;, ou &quot;o que o Confluence diz sobre o fluxo de pagamento?&quot;. Quem não conectou não vê nada disso — a integração desligada não ocupa espaço nem sobe nada para a nuvem.</li>
+  <li><b>O Jira, dentro do canvas.</b> Abra o painel <b>Jira</b> (pelo ⌘K, ou falando &quot;abre o Jira&quot;) e o quadro do seu projeto aparece ao lado dos agentes — as colunas do seu Jira, na mesma ordem de lá (o ranking do board), com o tema do canvas. Os cards mostram etiquetas, Story Points, o ticket-pai e a foto do responsável. Arraste um card para outra coluna e ele muda de status no Jira <b>na hora</b>; arraste dentro da coluna para reordenar; filtre por <b>Meus</b>, <b>Bugs</b> ou <b>por responsável</b>, busque por texto, e <b>troque de board</b> pelo seletor no cabeçalho (as colunas saem e as do novo board entram animando). Crie um issue sem sair da tela — escolhendo tipo e status, e ele já nasce no topo da coluna. E o pulo do gato: <b>arraste um card para dentro de um agente</b> (ou use o menu ⋯ → &quot;Enviar para um agente&quot;) e o ticket vira uma menção na conversa dele — o agente já sabe de qual issue você fala, e enxerga a descrição e os comentários inteiros. O agente enxerga o Jira; agora você joga do Jira para o agente.</li>
+  <li><b>O ticket inteiro, sem abrir o Jira.</b> Clique num card e o detalhe abre em seções, com a descrição <b>com formatação</b> (títulos, listas, negrito), as etiquetas, os Story Points, o ticket-pai, os <b>anexos</b> (imagens em miniatura que você amplia ou manda para o canvas, e arquivos) e os comentários com as fotos de quem escreveu e as imagens no meio do texto. E você resolve por ali: <b>mude o status</b>, <b>comente</b> (Enter envia), <b>edite o título e a descrição</b>, e <b>anexe</b> um arquivo — tudo aparece na hora, e o que você muda no detalhe já muda no card do quadro. Cada ação só aparece se você tem permissão para ela. Os <b>links</b> aparecem destacados: um clique pergunta se abre num navegador aqui no canvas ou no seu de sempre. Na maioria dos casos, não precisa mais ir ao navegador.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.15.0/codeCanvas-1.15.0.dmg" length="15296710" type="application/octet-stream" sparkle:edSignature="gQZy6WP7KEeZ6FnpDC2s5+v8sNx2RFPE26zcpZV1//whMJXsB97aeug2gOft3dx/7lqCsH9rPNNM73gJ4tgnBQ=="/>
+        </item>
+        <item>
             <title>1.14.0</title>
             <pubDate>Wed, 15 Jul 2026 16:52:42 -0300</pubDate>
             <sparkle:version>202607151648</sparkle:version>
@@ -32,21 +46,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.13.0/codeCanvas-1.13.0.dmg" length="13959740" type="application/octet-stream" sparkle:edSignature="2JBF9JCTI5HZ4da+CaFAN+HKEsGgXd4B9XXOSuNkjpnZUJbC1NLIz1HgBOI1udHjkUmooweGN+MPITv/X9qzAQ=="/>
-        </item>
-        <item>
-            <title>1.12.0</title>
-            <pubDate>Tue, 14 Jul 2026 23:23:07 -0300</pubDate>
-            <sparkle:version>202607142319</sparkle:version>
-            <sparkle:shortVersionString>1.12.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li><b>O uso lá embaixo passou a ser da conta deste canvas — não de uma só para tudo.</b> O anel de porcentagem no rodapé e o painel de uso agora mostram o limite da conta do Claude que este canvas usa: se o projeto está na sua conta pessoal, é a dela; noutro canvas, na profissional, é a daquela. E quando você tem agentes trabalhando em contas diferentes ao mesmo tempo, aparece <b>um anel para cada conta</b> — com a inicial dela na frente do número, para você saber qual é qual — e o painel de uso ganha um bloco separado por conta. Uma conta cuja porcentagem o app não conseguir ler simplesmente não aparece, sem atrapalhar o resto.</li>
-  <li><b>Você pode escolher um modelo de transcrição melhor para o ditado.</b> Em Configurações → Voz, no topo, há agora <b>Modelo de transcrição</b>. Além do da Apple, que já vem no Mac, dá para baixar o <b>Parakeet</b> — um modelo mais preciso em várias línguas. Você baixa uma vez (cerca de 600 MB), e daí em diante o ditado roda inteiro no seu Mac, sem internet. Com o Parakeet, a janelinha mostra “ditando…” enquanto você fala e o texto chega quando você solta a tecla; não gostou, é só voltar para o da Apple num toque.</li>
-  <li><b>Fechar um canvas ficou mais difícil de fazer sem querer.</b> A opção de fechar agora aparece em vermelho, com um ícone de lixeira e separada das demais no menu do canvas — e, ao ser tocada, pede uma confirmação que explica o que acontece antes de seguir. Fechar um canvas encerra os agentes dele e tira o projeto da lista, mas <b>não</b> apaga a pasta nem o código; ainda assim, não dá para desfazer, então agora há um passo a mais no caminho.</li>
-  <li><b>Você decide se responde os agentes por voz — ou se o app só te avisa.</b> Em Configurações → Voz há um interruptor novo, <b>Responder os agentes por voz</b>. Ligado (como sempre foi), quando um agente te pergunta algo o app lê a pergunta em voz alta e abre o microfone por alguns segundos: você responde falando, sem tocar no teclado. Desligado, ele <b>continua avisando em voz alta</b> e deixa a notificação mais tempo na tela, com o botão que te leva até o agente — mas <b>não escuta e não acorda a Nina</b>. É o que você quer quando está conversando com outra pessoa na sala e não quer que isso vire, sem querer, uma resposta a um agente. E a Nina também deixou de acordar sozinha por conta do eco da própria voz do app: agora ela só responde quando você realmente falou.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.12.0/codeCanvas-1.12.0.dmg" length="13848519" type="application/octet-stream" sparkle:edSignature="zqkubl/hBTCaWKwxeZnWfEYu+2bgYlercTYsTFkUHJ2GIRyyRze6Wt48biTP4QdPjFG9jKI5tzF0fZszH3iXDQ=="/>
         </item>
     </channel>
 </rss>
