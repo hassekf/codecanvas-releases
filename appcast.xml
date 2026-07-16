@@ -3,6 +3,18 @@
     <channel>
         <title>codeCanvas</title>
         <item>
+            <title>1.18.1</title>
+            <pubDate>Thu, 16 Jul 2026 17:33:22 -0300</pubDate>
+            <sparkle:version>202607161729</sparkle:version>
+            <sparkle:shortVersionString>1.18.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li><b>Melhorias de estabilidade e pequenos consertos.</b> Entre eles, a atualização passa a te oferecer sempre a versão mais nova. Se você tinha adiado uma atualização porque havia agente trabalhando, ela ficava pendurada e o app parava de olhar se tinha saído coisa melhor: você era oferecido a versão seguinte àquela em que estava, instalava, e uma hora depois era oferecido a próxima — uma de cada vez, cada uma pedindo um reinício. Agora, enquanto seus agentes trabalham, ele fica quieto e volta a olhar depois; quando ele te oferecer alguma coisa, é a última que existe.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.18.1/codeCanvas-1.18.1.dmg" length="15532115" type="application/octet-stream" sparkle:edSignature="WkOOFElrAZUD1mAzqoSwvCkVIFrqAMSRHap4s9bP5XkfYy/qvb7/OFg75DEfsFn3dSZFMgZZOJ+BTMau8r+oDA=="/>
+        </item>
+        <item>
             <title>1.18.0</title>
             <pubDate>Thu, 16 Jul 2026 16:51:00 -0300</pubDate>
             <sparkle:version>202607161646</sparkle:version>
@@ -32,18 +44,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.17.0/codeCanvas-1.17.0.dmg" length="15368169" type="application/octet-stream" sparkle:edSignature="yVpHQeVdasdyG/bjIUDE5QGSfUlOc7UVYUNHTsiyXkyf/PRUopaWwVLdxjzKZgJMUoEYS3ExX1JW5dAX7ihLDA=="/>
-        </item>
-        <item>
-            <title>1.16.2</title>
-            <pubDate>Thu, 16 Jul 2026 12:42:46 -0300</pubDate>
-            <sparkle:version>202607161238</sparkle:version>
-            <sparkle:shortVersionString>1.16.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li><b>Melhorias de estabilidade e pequenos consertos.</b> Entre eles, o app deixa de fechar sozinho, sem aviso, enquanto os painéis mudam de tamanho.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.16.2/codeCanvas-1.16.2.dmg" length="15332264" type="application/octet-stream" sparkle:edSignature="3fT3ecu4R+uIwwNoeehhTRq47Su/4JVxOmOFza9KuUsk0cxT5kesPSmSmFX09K52Cf4PkGq+axLDqBtXU7r/DA=="/>
         </item>
     </channel>
 </rss>
