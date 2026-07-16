@@ -3,6 +3,23 @@
     <channel>
         <title>codeCanvas</title>
         <item>
+            <title>1.18.0</title>
+            <pubDate>Thu, 16 Jul 2026 16:51:00 -0300</pubDate>
+            <sparkle:version>202607161646</sparkle:version>
+            <sparkle:shortVersionString>1.18.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li><b>Dois cliques no alto da janela maximizam ela, como em qualquer app do Mac.</b> Clique duas vezes na faixa vazia lá em cima, ao lado dos botões de fechar e minimizar, e a janela ocupa a tela — de novo, e ela volta ao tamanho de antes. Vale na tela inicial e dentro de um projeto, e o gesto respeita o que você escolheu nas Configurações do próprio Mac: se lá o duplo clique minimiza, aqui ele minimiza também. Nada disso atrapalha o que já mora no topo — clicar nas abas das áreas continua sendo clicar nas abas.</li>
+  <li><b>O aviso do Mac passa a te levar até o agente que te chamou, e não só até o projeto dele.</b> Quando o aviso é de um agente só — &quot;Hermes pergunta&quot; —, clicar nele abre o projeto, muda para a área onde ele está e deixa o painel dele selecionado, trazendo a tela até lá se ele estava fora do campo de visão. Antes você era largado no projeto e procurava com o olho entre quinze painéis. Num aviso de vários agentes nada mudou: não há um &quot;lá&quot; único, e ele continua abrindo só o projeto. <b>Levar não é assumir o comando:</b> o teclado continua onde estava e nenhum painel muda de lugar — você clicou para ver quem te chamou, não para o canvas se reorganizar em volta dele.</li>
+  <li><b>A busca do ⌘K passou a sair do lugar.</b> Num canvas em modo livre, procurar um painel que estava fora da tela selecionava um painel que você não via — e a próxima tecla ia para um lugar invisível. Agora a tela vai até ele, como as setas do teclado já faziam.</li>
+  <li><b>O Jira te avisa quando alguém fala com você.</b> Mencionaram você num comentário, passaram um cartão para a sua mão, criaram um cartão no projeto — o aviso chega no canvas mesmo com o quadro fechado, e no Mac se você estiver noutro app. Você escolhe o que quer saber e de quanto em quanto tempo olhar, na edição do workspace, junto do Jira. Uma menção chega com a chave e o título do cartão, não como &quot;3 novidades&quot;: o que você quer saber é <i>em qual cartão</i>. E é sempre escrito, nunca falado.</li>
+  <li><b>O quadro do Jira lembra como você o deixou.</b> Filtrou em &quot;Meus&quot;, escolheu um responsável? Feche o painel, feche o app, volte semana que vem: o quadro reabre do jeito que você o deixou.</li>
+  <li><b>O aviso de diagnóstico passa a cobrir também os agentes que voltam sem memória.</b> O interruptor de Configurações → Diagnóstico, que já mandava para a nossa equipe os relatórios de travamento, passa a mandar também um relatório quando um agente é chamado de volta e volta sem a conversa dele. É uma falha que não trava nada — e que, por isso, nunca chegava até quem conserta. Vão contagens, datas e os identificadores das sessões; o caminho do seu projeto vira um código e o nome das suas contas não sai da sua máquina. Como sempre, dá para desligar.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.18.0/codeCanvas-1.18.0.dmg" length="15531512" type="application/octet-stream" sparkle:edSignature="LGQHk55yXE3SNUbBJTIVGYAw/bz4XvkYu8cLVZDmV4T+AnhuulSkFt7ifA3uYzMLeEZn53fH24eFWlWb9vSeAA=="/>
+        </item>
+        <item>
             <title>1.17.0</title>
             <pubDate>Thu, 16 Jul 2026 14:17:04 -0300</pubDate>
             <sparkle:version>202607161412</sparkle:version>
@@ -27,18 +44,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.16.2/codeCanvas-1.16.2.dmg" length="15332264" type="application/octet-stream" sparkle:edSignature="3fT3ecu4R+uIwwNoeehhTRq47Su/4JVxOmOFza9KuUsk0cxT5kesPSmSmFX09K52Cf4PkGq+axLDqBtXU7r/DA=="/>
-        </item>
-        <item>
-            <title>1.16.1</title>
-            <pubDate>Thu, 16 Jul 2026 02:18:36 -0300</pubDate>
-            <sparkle:version>202607160214</sparkle:version>
-            <sparkle:shortVersionString>1.16.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li><b>Melhorias de estabilidade e pequenos consertos.</b> Entre eles, o comando de voz voltou a abrir os painéis — &quot;abre a mídia&quot;, &quot;abre o git&quot; e companhia agora fazem o que você pediu.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.16.1/codeCanvas-1.16.1.dmg" length="15330796" type="application/octet-stream" sparkle:edSignature="6LWAHjnAwZNL7TZk+W3aPHtFnLu6o1RlWcHT3ezMR91p0BOGEaQL8+nN6LWthgVYKNQaltwPyRl0YcemgnybDw=="/>
         </item>
     </channel>
 </rss>
