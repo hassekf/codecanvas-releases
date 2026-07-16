@@ -3,6 +3,20 @@
     <channel>
         <title>codeCanvas</title>
         <item>
+            <title>1.17.0</title>
+            <pubDate>Thu, 16 Jul 2026 14:17:04 -0300</pubDate>
+            <sparkle:version>202607161412</sparkle:version>
+            <sparkle:shortVersionString>1.17.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li><b>Um agente que volta sem a memória passa a dizer isso — e a dizer onde ela ficou.</b> Quando você reabre o canvas e a conversa anterior de alguém não aparece, o app avisa na hora, com o nome da conta em que procurou. E se a conversa estiver noutra das suas instalações do Claude, ele diz em qual: em vez de um colega estranhamente amnésico e nenhuma pista, você lê o que aconteceu e sabe o que fazer.</li>
+  <li><b>O lembrete do ⌘K ficou — e agora quem o dispensa é você.</b> A dica no alto do canvas sumia sozinha depois de algumas vezes, sem avisar e sem dizer como trazê-la de volta. Ela passa a ficar, e há um interruptor para ela em Configurações → Interface. Desligada, o topo encolhe junto: as abas das áreas sobem e ocupam o espaço, em vez de deixar um vão.</li>
+  <li><b>Melhorias de estabilidade e pequenos consertos.</b> Entre eles, o app deixa de fechar sozinho, sem aviso, no instante em que você volta para ele depois de estar noutro programa — inclusive quando o que te traz de volta é um clique no aviso do sistema. E uma branch de nome comprido deixa de empurrar o selo do repositório por cima da barra de comando: o nome encolhe pelo meio, guardando as duas pontas que dizem o que ele é, e o nome inteiro aparece ao passar o mouse.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.17.0/codeCanvas-1.17.0.dmg" length="15368169" type="application/octet-stream" sparkle:edSignature="yVpHQeVdasdyG/bjIUDE5QGSfUlOc7UVYUNHTsiyXkyf/PRUopaWwVLdxjzKZgJMUoEYS3ExX1JW5dAX7ihLDA=="/>
+        </item>
+        <item>
             <title>1.16.2</title>
             <pubDate>Thu, 16 Jul 2026 12:42:46 -0300</pubDate>
             <sparkle:version>202607161238</sparkle:version>
@@ -25,20 +39,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.16.1/codeCanvas-1.16.1.dmg" length="15330796" type="application/octet-stream" sparkle:edSignature="6LWAHjnAwZNL7TZk+W3aPHtFnLu6o1RlWcHT3ezMR91p0BOGEaQL8+nN6LWthgVYKNQaltwPyRl0YcemgnybDw=="/>
-        </item>
-        <item>
-            <title>1.16.0</title>
-            <pubDate>Thu, 16 Jul 2026 01:00:47 -0300</pubDate>
-            <sparkle:version>202607160056</sparkle:version>
-            <sparkle:shortVersionString>1.16.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li><b>As três vozes nunca mais tocam ao mesmo tempo.</b> Ditar, mandar um comando e conversar com a Nina disputam o mesmo microfone — e agora só um deles fica com ele. Comece qualquer um e o que estava no ar sai na hora: chamou a Nina e apertou para ditar? A Nina encerra e o ditado assume; um cartãozinho no canto diz o que saiu e o que entrou. Antes, os três podiam abrir o microfone juntos e brigar pela sua voz.</li>
-  <li><b>O que os agentes te mostram abre dentro do canvas, não noutro app.</b> Quando um agente cria uma página, um artefato, um HTML ou uma doc e quer te mostrar, ela aparece no navegador dele aqui no codeCanvas — você não é mais jogado para o Safari ou o Chrome no meio do trabalho. Se algum dia você quiser mesmo abrir por fora, é só pedir &quot;abre no navegador externo&quot;.</li>
-  <li><b>Editar um canvas ficou um painel só de cada vez.</b> A tela de editar o projeto ganhou um menu ao lado, com abas: <b>Projeto</b> (a pasta e o nome), <b>Agentes</b> (a conta e como eles nascem), <b>Aparência</b> (tema e fundo) e <b>Integrações</b> (o Jira deste projeto). Em vez de rolar uma lista comprida atrás do que você queria mexer, você clica na aba e vê só ela — do mesmo jeito que as Configurações do app já eram.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.16.0/codeCanvas-1.16.0.dmg" length="15324001" type="application/octet-stream" sparkle:edSignature="pt89JlWw87Iu2FqtdBwzHaLeJjRtsGiaa/3SsuZ+PGgeh4BYrmDLEUK9qBInNWKwPKRVvdpGoMG2hL7fB9ILBQ=="/>
         </item>
     </channel>
 </rss>
