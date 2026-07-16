@@ -3,6 +3,20 @@
     <channel>
         <title>codeCanvas</title>
         <item>
+            <title>1.16.0</title>
+            <pubDate>Thu, 16 Jul 2026 01:00:47 -0300</pubDate>
+            <sparkle:version>202607160056</sparkle:version>
+            <sparkle:shortVersionString>1.16.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li><b>As três vozes nunca mais tocam ao mesmo tempo.</b> Ditar, mandar um comando e conversar com a Nina disputam o mesmo microfone — e agora só um deles fica com ele. Comece qualquer um e o que estava no ar sai na hora: chamou a Nina e apertou para ditar? A Nina encerra e o ditado assume; um cartãozinho no canto diz o que saiu e o que entrou. Antes, os três podiam abrir o microfone juntos e brigar pela sua voz.</li>
+  <li><b>O que os agentes te mostram abre dentro do canvas, não noutro app.</b> Quando um agente cria uma página, um artefato, um HTML ou uma doc e quer te mostrar, ela aparece no navegador dele aqui no codeCanvas — você não é mais jogado para o Safari ou o Chrome no meio do trabalho. Se algum dia você quiser mesmo abrir por fora, é só pedir &quot;abre no navegador externo&quot;.</li>
+  <li><b>Editar um canvas ficou um painel só de cada vez.</b> A tela de editar o projeto ganhou um menu ao lado, com abas: <b>Projeto</b> (a pasta e o nome), <b>Agentes</b> (a conta e como eles nascem), <b>Aparência</b> (tema e fundo) e <b>Integrações</b> (o Jira deste projeto). Em vez de rolar uma lista comprida atrás do que você queria mexer, você clica na aba e vê só ela — do mesmo jeito que as Configurações do app já eram.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.16.0/codeCanvas-1.16.0.dmg" length="15324001" type="application/octet-stream" sparkle:edSignature="pt89JlWw87Iu2FqtdBwzHaLeJjRtsGiaa/3SsuZ+PGgeh4BYrmDLEUK9qBInNWKwPKRVvdpGoMG2hL7fB9ILBQ=="/>
+        </item>
+        <item>
             <title>1.15.0</title>
             <pubDate>Wed, 15 Jul 2026 23:18:20 -0300</pubDate>
             <sparkle:version>202607152314</sparkle:version>
@@ -33,19 +47,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.14.0/codeCanvas-1.14.0.dmg" length="14343392" type="application/octet-stream" sparkle:edSignature="jlTjyCEQx19dcdgpesaKMORLDdHfvqBrIAUibGoa4L4SRa73QZ4tBoBjY4f50KVVq0ieZeVy/P6A1PC60z5GDg=="/>
-        </item>
-        <item>
-            <title>1.13.0</title>
-            <pubDate>Wed, 15 Jul 2026 13:44:32 -0300</pubDate>
-            <sparkle:version>202607151340</sparkle:version>
-            <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li><b>O Mac te avisa quando você está longe do app.</b> Saiu do codeCanvas para escrever um e-mail ou ler um PR? Quando um agente termina, trava esperando você ou cai, chega uma notificação do sistema — mesmo com o app atrás de outra janela. E se dez agentes terminam quase juntos, você <b>não</b> recebe dez avisos: eles viram um só, que se atualiza no lugar (&quot;3 agentes terminaram&quot;). Clicar traz o app de volta e te leva ao projeto certo. Em <b>Configurações → Notificações</b> você escolhe o que avisa — terminou, esperando você, caiu — ou desliga tudo.</li>
-  <li><b>Quando o app trava, você pode nos ajudar a consertar.</b> Se o codeCanvas quebrar, ele passa a recolher o relatório da queda que o macOS guarda no seu computador e, com a sua permissão, mandá-lo para a nossa equipe — é assim que a gente descobre e corrige os travamentos antes que eles atrapalhem o seu trabalho. Na primeira vez, um aviso explica o que é enviado (o rastro técnico da queda, nunca o seu código nem os seus arquivos) e deixa você escolher. Dá para ligar ou desligar quando quiser, e ver o que já foi enviado, em Configurações → Diagnóstico.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.13.0/codeCanvas-1.13.0.dmg" length="13959740" type="application/octet-stream" sparkle:edSignature="2JBF9JCTI5HZ4da+CaFAN+HKEsGgXd4B9XXOSuNkjpnZUJbC1NLIz1HgBOI1udHjkUmooweGN+MPITv/X9qzAQ=="/>
         </item>
     </channel>
 </rss>
