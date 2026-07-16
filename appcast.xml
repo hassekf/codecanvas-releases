@@ -3,6 +3,18 @@
     <channel>
         <title>codeCanvas</title>
         <item>
+            <title>1.16.2</title>
+            <pubDate>Thu, 16 Jul 2026 12:42:46 -0300</pubDate>
+            <sparkle:version>202607161238</sparkle:version>
+            <sparkle:shortVersionString>1.16.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li><b>Melhorias de estabilidade e pequenos consertos.</b> Entre eles, o app deixa de fechar sozinho, sem aviso, enquanto os painéis mudam de tamanho.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.16.2/codeCanvas-1.16.2.dmg" length="15332264" type="application/octet-stream" sparkle:edSignature="3fT3ecu4R+uIwwNoeehhTRq47Su/4JVxOmOFza9KuUsk0cxT5kesPSmSmFX09K52Cf4PkGq+axLDqBtXU7r/DA=="/>
+        </item>
+        <item>
             <title>1.16.1</title>
             <pubDate>Thu, 16 Jul 2026 02:18:36 -0300</pubDate>
             <sparkle:version>202607160214</sparkle:version>
@@ -27,20 +39,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.16.0/codeCanvas-1.16.0.dmg" length="15324001" type="application/octet-stream" sparkle:edSignature="pt89JlWw87Iu2FqtdBwzHaLeJjRtsGiaa/3SsuZ+PGgeh4BYrmDLEUK9qBInNWKwPKRVvdpGoMG2hL7fB9ILBQ=="/>
-        </item>
-        <item>
-            <title>1.15.0</title>
-            <pubDate>Wed, 15 Jul 2026 23:18:20 -0300</pubDate>
-            <sparkle:version>202607152314</sparkle:version>
-            <sparkle:shortVersionString>1.15.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li><b>Cada projeto tem o seu Jira — e um nunca vê o do outro.</b> Na edição do workspace, você conecta o canvas aberto a um site do Jira (e, se quiser, ao Confluence junto) com o seu email e um token de API. A conexão é <b>daquele projeto</b>: o canvas do banco fala com o Jira do banco, o da loja com o da loja, e as credenciais de um nunca alcançam o outro. Dali em diante, a Nina e os agentes <b>daquele canvas</b> passam a mexer no board por você: peça &quot;o que tem aberto no board?&quot;, &quot;cria um bug com esse erro&quot;, &quot;move a PROJ-12 pra pronto&quot;, ou &quot;o que o Confluence diz sobre o fluxo de pagamento?&quot;. Quem não conectou não vê nada disso — a integração desligada não ocupa espaço nem sobe nada para a nuvem.</li>
-  <li><b>O Jira, dentro do canvas.</b> Abra o painel <b>Jira</b> (pelo ⌘K, ou falando &quot;abre o Jira&quot;) e o quadro do seu projeto aparece ao lado dos agentes — as colunas do seu Jira, na mesma ordem de lá (o ranking do board), com o tema do canvas. Os cards mostram etiquetas, Story Points, o ticket-pai e a foto do responsável. Arraste um card para outra coluna e ele muda de status no Jira <b>na hora</b>; arraste dentro da coluna para reordenar; filtre por <b>Meus</b>, <b>Bugs</b> ou <b>por responsável</b>, busque por texto, e <b>troque de board</b> pelo seletor no cabeçalho (as colunas saem e as do novo board entram animando). Crie um issue sem sair da tela — escolhendo tipo e status, e ele já nasce no topo da coluna. E o pulo do gato: <b>arraste um card para dentro de um agente</b> (ou use o menu ⋯ → &quot;Enviar para um agente&quot;) e o ticket vira uma menção na conversa dele — o agente já sabe de qual issue você fala, e enxerga a descrição e os comentários inteiros. O agente enxerga o Jira; agora você joga do Jira para o agente.</li>
-  <li><b>O ticket inteiro, sem abrir o Jira.</b> Clique num card e o detalhe abre em seções, com a descrição <b>com formatação</b> (títulos, listas, negrito), as etiquetas, os Story Points, o ticket-pai, os <b>anexos</b> (imagens em miniatura que você amplia ou manda para o canvas, e arquivos) e os comentários com as fotos de quem escreveu e as imagens no meio do texto. E você resolve por ali: <b>mude o status</b>, <b>comente</b> (Enter envia), <b>edite o título e a descrição</b>, e <b>anexe</b> um arquivo — tudo aparece na hora, e o que você muda no detalhe já muda no card do quadro. Cada ação só aparece se você tem permissão para ela. Os <b>links</b> aparecem destacados: um clique pergunta se abre num navegador aqui no canvas ou no seu de sempre. Na maioria dos casos, não precisa mais ir ao navegador.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.15.0/codeCanvas-1.15.0.dmg" length="15296710" type="application/octet-stream" sparkle:edSignature="gQZy6WP7KEeZ6FnpDC2s5+v8sNx2RFPE26zcpZV1//whMJXsB97aeug2gOft3dx/7lqCsH9rPNNM73gJ4tgnBQ=="/>
         </item>
     </channel>
 </rss>
