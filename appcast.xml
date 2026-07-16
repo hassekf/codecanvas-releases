@@ -3,6 +3,18 @@
     <channel>
         <title>codeCanvas</title>
         <item>
+            <title>1.16.1</title>
+            <pubDate>Thu, 16 Jul 2026 02:18:36 -0300</pubDate>
+            <sparkle:version>202607160214</sparkle:version>
+            <sparkle:shortVersionString>1.16.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li><b>Melhorias de estabilidade e pequenos consertos.</b> Entre eles, o comando de voz voltou a abrir os painéis — &quot;abre a mídia&quot;, &quot;abre o git&quot; e companhia agora fazem o que você pediu.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.16.1/codeCanvas-1.16.1.dmg" length="15330796" type="application/octet-stream" sparkle:edSignature="6LWAHjnAwZNL7TZk+W3aPHtFnLu6o1RlWcHT3ezMR91p0BOGEaQL8+nN6LWthgVYKNQaltwPyRl0YcemgnybDw=="/>
+        </item>
+        <item>
             <title>1.16.0</title>
             <pubDate>Thu, 16 Jul 2026 01:00:47 -0300</pubDate>
             <sparkle:version>202607160056</sparkle:version>
@@ -29,24 +41,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.15.0/codeCanvas-1.15.0.dmg" length="15296710" type="application/octet-stream" sparkle:edSignature="gQZy6WP7KEeZ6FnpDC2s5+v8sNx2RFPE26zcpZV1//whMJXsB97aeug2gOft3dx/7lqCsH9rPNNM73gJ4tgnBQ=="/>
-        </item>
-        <item>
-            <title>1.14.0</title>
-            <pubDate>Wed, 15 Jul 2026 16:52:42 -0300</pubDate>
-            <sparkle:version>202607151648</sparkle:version>
-            <sparkle:shortVersionString>1.14.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li><b>O ditado entende a sua língua.</b> Ao escolher inglês ou espanhol, o ditado por voz passa a transcrever nesse idioma — não mais só português. Vale para os dois motores: o Parakeet (que já é multilíngue) e o do sistema (Apple), que usa o modelo da língua que você escolheu. E quando você chama a Nina, o &quot;Ouvindo&quot; de abertura sai na sua língua — &quot;Listening&quot;, &quot;Escuchando&quot; —, além dos rótulos do painel de voz. O comando de voz (as palavras-chave que a Nina obedece) segue em português por enquanto.</li>
-  <li><b>Arraste um link para dentro do canvas e ele abre aqui.</b> Agarre a aba de um site no seu Chrome, Safari ou Firefox, largue no canvas, e o codeCanvas abre a página num navegador interno — sem copiar e colar o endereço. Um link do YouTube é ainda mais esperto: em vez do navegador, ele abre (ou troca) o <b>painel de mídia</b>, com modo cinema e tudo. Colar também funciona: com o ⌘V no canvas (nenhum agente ou campo em foco), o endereço na área de transferência vira navegador — ou mídia, se for YouTube. E se o que você arrastar for uma imagem — de uma página ou pelo endereço direto dela — ela continua virando figura no canvas, como antes.</li>
-  <li><b>O som das abas cede a vez, sozinho.</b> Um vídeo tocando numa aba do navegador agora se cala quando você fala com a Nina, dita, dá um comando de voz ou chega uma notificação sonora — e volta de onde parou assim que o silêncio deixa de ser preciso. É o mesmo bom-senso que o painel de mídia já tinha, agora também nas abas: nada de duas vozes disputando o seu ouvido. E ele só retoma o que estava de fato tocando: se você mesmo pausou o vídeo, ele fica pausado.</li>
-  <li><b>O codeCanvas fala inglês e espanhol — e a sua língua é a que você escolher.</b> O app passa a existir em três idiomas: português, inglês e espanhol. Por padrão ele segue o idioma do seu Mac, mas um seletor — na tela inicial, ao lado da versão, e no rodapé das Configurações — troca a língua na hora, sem fechar nada: as telas, os menus, os botões e os avisos mudam junto, e as datas passam a falar a língua escolhida. Escolha &quot;Sistema&quot; para acompanhar o macOS, ou fixe um dos três.</li>
-  <li><b>Os bugs reportados viram trabalho sem sair do canvas.</b> O painel do Git ganhou uma aba <b>Issues</b>: as issues abertas do projeto — incluindo os crashes que o app manda sozinho — aparecem ali, com um filtro por etiqueta para separar o que interessa. Cada uma tem dois botões: <b>Trabalhar nisto</b>, que sobe um agente novo já com o bug de briefing (você escolhe o CLI, se tiver mais de um), e <b>Mandar para…</b>, que entrega a issue a um agente que já está aberto. Ninguém mais nasce sem rumo: o agente começa sabendo qual bug caçar. E os próprios agentes podem ler, comentar, renomear e fechar as issues — então a issue fechada passa a contar, a quem olhar depois, qual era a causa e o que a resolveu.</li>
-  <li><b>A Nina cuida das issues por voz.</b> Pergunte &quot;tem bug aberto?&quot; e ela lê; diga &quot;pega a primeira issue e começa&quot; e ela sobe um agente com o bug na mão; &quot;manda esse pro Hermes&quot;, &quot;fecha a 12&quot;, &quot;o bug voltou, reabre a 12&quot; — tudo falando. As issues entram no mesmo interruptor do Git, em Configurações → Ferramentas: desligou o Git, some tudo junto.</li>
-  <li><b>As barrinhas do ditado se mexem com a sua voz.</b> Enquanto você dita, o indicador &quot;Ouvindo…&quot; passa a reagir ao volume real do microfone: fale e as barras dançam, fique em silêncio e elas se acalmam. Antes elas pulsavam sozinhas, no mesmo ritmo, ouvindo você ou não — agora dá para ter certeza, num relance, de que a sua voz está entrando, em vez de descobrir tarde que o microfone estava mudo ou configurado errado.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.14.0/codeCanvas-1.14.0.dmg" length="14343392" type="application/octet-stream" sparkle:edSignature="jlTjyCEQx19dcdgpesaKMORLDdHfvqBrIAUibGoa4L4SRa73QZ4tBoBjY4f50KVVq0ieZeVy/P6A1PC60z5GDg=="/>
         </item>
     </channel>
 </rss>
