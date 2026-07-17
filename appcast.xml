@@ -3,6 +3,24 @@
     <channel>
         <title>codeCanvas</title>
         <item>
+            <title>1.22.0</title>
+            <pubDate>Fri, 17 Jul 2026 18:31:39 -0300</pubDate>
+            <sparkle:version>202607171827</sparkle:version>
+            <sparkle:shortVersionString>1.22.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li><b>A sua câmera, num painel do canvas.</b> Abra um painel de webcam para ver a imagem da sua câmera enquanto trabalha — a facecam para uma chamada, uma câmera externa, o seu rosto numa gravação de tela. No cabeçalho você escolhe a fonte (inclusive a câmera do iPhone, quando ela está por perto) e espelha a imagem. Como a mídia, ele é um só e acompanha você: fica por cima, atravessa projetos e áreas de trabalho, e continua na tela ao trocar de canvas. Abra pela busca (⌘K), por voz ou pela Nina (&quot;abre a webcam&quot;, &quot;espelha a câmera&quot;, &quot;usa a câmera do iPhone&quot;), e ajuste a câmera e o espelho padrão em Configurações › Webcam. Ao entrar numa reunião, ele cede a câmera para a chamada e a retoma quando você sai.</li>
+  <li>O menu de trocar de projeto agora conta, para cada canvas, quantos avisos chegaram nele enquanto você estava noutro — um agente que terminou, um que caiu, uma menção sua no Jira. É o &quot;· 2 avisos novos&quot; ao lado do nome, e some no instante em que você abre aquele projeto. Assim nada mais fica esquecido num canvas fora de vista só porque o sininho juntava tudo num monte só. O número aparece só nos outros projetos: o que você está vendo, você já viu.</li>
+  <li>O cabeçalho de cada agente agora mostra a branch em que ele está mexendo. Com vários agentes lado a lado, cada um na sua worktree, dá para ver de relance quem está em <code>agente/minerva</code>, quem noutra frente — sem abrir o painel de Git nem perguntar a ninguém. Ela só aparece quando o agente de fato saiu para uma worktree própria: quem está só lendo continua sem selo, porque não há branch a mostrar. Ao lado dela mora o selo do PR daquela branch, que já existia.</li>
+  <li>Quando um agente termina, você vê. Se estiver olhando para o painel dele, a moldura dá um brilho rápido de conclusão — cresce um tico, acende e volta. Se ele terminou (ou passou a esperar você) numa área de trabalho que não está à vista, é a aba daquela área que pisca lá em cima, avisando que tem algo para olhar. Em Ajustes → Interface você liga ou desliga cada um dos dois, e escolhe a cor do brilho — dourado por padrão.</li>
+  <li>Logins e telas que abrem numa janela à parte agora funcionam no navegador: entrar com o Google, autorizar um app no GitHub, aquele &quot;Continuar&quot; que antes não fazia nada ao ser clicado. O pop-up abre como um painel de navegador de verdade — com barra de endereço e tudo —, só que flutuando destacado, fora da grade: você pode arrastá-lo ou encaixá-lo entre seus painéis, e ele some sozinho quando o site termina o login.</li>
+  <li><b>Peça uma imagem e ela nasce no seu canvas.</b> Diga à Nina ou a um agente &quot;gera uma imagem de um gato astronauta&quot; — ou &quot;cria três ilustrações de uma floresta&quot; — e a figura aparece colada ao lado, pronta. Você escolhe o modelo e a qualidade em Configurações → Conversa, e pode pedir a quantidade, a orientação e o capricho na própria frase. É a imagem em si — não o papel de parede.</li>
+  <li><b>Uma Galeria guarda todas as imagens do projeto.</b> Tudo que você cola, arrasta ou gera fica salvo por projeto, num painel novo (a <b>Galeria</b>). Apagar uma imagem do canvas não a apaga mais do disco — ela volta para a galeria, de onde você a arrasta para o canvas quando quiser. Ali você apaga uma, várias de uma vez, ou limpa tudo — e vê o que foi colado e o que foi gerado, com o texto que gerou cada uma.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.22.0/codeCanvas-1.22.0.dmg" length="15893019" type="application/octet-stream" sparkle:edSignature="hz3kHfJRP/vaufgs6qSJMPa1oLV2OJxkEajPsoopdlL5mJl50oOZpiIat8smvXhmrDPBlhq6W27gm+zUXr9FAg=="/>
+        </item>
+        <item>
             <title>1.21.1</title>
             <pubDate>Fri, 17 Jul 2026 14:50:34 -0300</pubDate>
             <sparkle:version>202607171446</sparkle:version>
@@ -27,18 +45,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.21.0/codeCanvas-1.21.0.dmg" length="15532305" type="application/octet-stream" sparkle:edSignature="jKcqCEMohHjzxB7RB37oeFRAenXJgGqjrxGoozJazV+3YFCkRmTwlnwsuBwG/sktRvMvYzlwl0ounJ2M+InBBQ=="/>
-        </item>
-        <item>
-            <title>1.20.1</title>
-            <pubDate>Fri, 17 Jul 2026 02:32:29 -0300</pubDate>
-            <sparkle:version>202607170228</sparkle:version>
-            <sparkle:shortVersionString>1.20.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li><b>O bom-dia dela voltou a caber numa resposta.</b> Ele tinha virado um monólogo de vinte segundos, com vários assuntos e duas perguntas no fim — e às vezes citava uma tarefa que não existia. Agora é o que sempre foi para ser: uma frase sobre o que importa hoje, uma pergunta, e a vez é sua.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.20.1/codeCanvas-1.20.1.dmg" length="15486983" type="application/octet-stream" sparkle:edSignature="A1o4lDG7xnZJ9hhuaODdJckA+2lr3s7RdwH6G/s9h9SY5icX5Oflk43tzEbQjH7k9FyTpDcIuMJ7Z1NRad4PCg=="/>
         </item>
     </channel>
 </rss>
