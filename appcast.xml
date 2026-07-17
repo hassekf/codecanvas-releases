@@ -3,6 +3,18 @@
     <channel>
         <title>codeCanvas</title>
         <item>
+            <title>1.23.0</title>
+            <pubDate>Fri, 17 Jul 2026 19:15:40 -0300</pubDate>
+            <sparkle:version>202607171911</sparkle:version>
+            <sparkle:shortVersionString>1.23.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li><b>O vídeo do YouTube vira papel de parede enquanto você trabalha.</b> Agora o painel de mídia tem duas formas de minimizar: a pílula de sempre, e uma nova que joga o vídeo para o fundo do canvas — ele preenche a tela e toca atrás do escurecido, feito um wallpaper vivo, enquanto os seus painéis seguem por cima. O seu papel de parede escolhido não é trocado; o vídeo só se encaixa entre ele e o escurecido, e volta ao lugar quando você restaura o painel. O som nunca para, e pela pílula você alterna entre o fundo e a pílula sem reabrir o painel.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.23.0/codeCanvas-1.23.0.dmg" length="15905284" type="application/octet-stream" sparkle:edSignature="8ozo9zTId1xgmmcGnfNV01wKowo9qbXPkUftS9Ytcm5RJz24p2PwwCu4YZE5qAsfrnUpRONnk36KdpBJjwgBBQ=="/>
+        </item>
+        <item>
             <title>1.22.0</title>
             <pubDate>Fri, 17 Jul 2026 18:31:39 -0300</pubDate>
             <sparkle:version>202607171827</sparkle:version>
@@ -31,20 +43,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.21.1/codeCanvas-1.21.1.dmg" length="15532163" type="application/octet-stream" sparkle:edSignature="7j8T+XLIMAlqv/Ky+JO+ucW5ZWy/lIrtfc9kAsfRctDgRiZfakdFTo7cCvKMM3nu7xf8ag4KKpiw78+Jx2ffDA=="/>
-        </item>
-        <item>
-            <title>1.21.0</title>
-            <pubDate>Fri, 17 Jul 2026 04:49:00 -0300</pubDate>
-            <sparkle:version>202607170444</sparkle:version>
-            <sparkle:shortVersionString>1.21.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li><b>Você vê para onde a sua voz está indo, sem ler nada.</b> Enquanto você dita, um fio luminoso sai da barra do &quot;Ouvindo&quot; e vai até o painel do agente que vai receber o texto — ondulando com a sua voz, e com o contorno dele aceso do outro lado. Se estiver indo para o agente errado, você percebe no meio da frase, pelo canto do olho, e não depois de enviar. Clique noutro agente sem parar de falar: o fio apaga ali e acende no novo destino. Se ele não for com a sua cara, há um interruptor em Configurações → Interface.</li>
-  <li><b>O vidro dos painéis agora é seu.</b> Em Configurações → Interface você regula o desfoque do canvas atrás do painel e a opacidade dele. Quer o terminal como uma parede sólida, para ler sem nada atrás? Quer o papel de parede aparecendo através do código? Os dois cabem — e quem não mexer fica exatamente com o vidro de sempre.</li>
-  <li><b>O aviso diz em que área de trabalho o agente está.</b> &quot;O Chase terminou&quot; vira &quot;o Chase terminou na área Back&quot; quando ele está numa aba que você não está vendo — na voz e no cartão. Antes o aviso dizia o nome do projeto, o que não ajudava em nada quando o projeto era justamente o que você já tinha na frente: você sabia que alguém terminou e ainda tinha de caçar onde.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.21.0/codeCanvas-1.21.0.dmg" length="15532305" type="application/octet-stream" sparkle:edSignature="jKcqCEMohHjzxB7RB37oeFRAenXJgGqjrxGoozJazV+3YFCkRmTwlnwsuBwG/sktRvMvYzlwl0ounJ2M+InBBQ=="/>
         </item>
     </channel>
 </rss>
