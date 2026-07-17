@@ -3,6 +3,20 @@
     <channel>
         <title>codeCanvas</title>
         <item>
+            <title>1.21.0</title>
+            <pubDate>Fri, 17 Jul 2026 04:49:00 -0300</pubDate>
+            <sparkle:version>202607170444</sparkle:version>
+            <sparkle:shortVersionString>1.21.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li><b>Você vê para onde a sua voz está indo, sem ler nada.</b> Enquanto você dita, um fio luminoso sai da barra do &quot;Ouvindo&quot; e vai até o painel do agente que vai receber o texto — ondulando com a sua voz, e com o contorno dele aceso do outro lado. Se estiver indo para o agente errado, você percebe no meio da frase, pelo canto do olho, e não depois de enviar. Clique noutro agente sem parar de falar: o fio apaga ali e acende no novo destino. Se ele não for com a sua cara, há um interruptor em Configurações → Interface.</li>
+  <li><b>O vidro dos painéis agora é seu.</b> Em Configurações → Interface você regula o desfoque do canvas atrás do painel e a opacidade dele. Quer o terminal como uma parede sólida, para ler sem nada atrás? Quer o papel de parede aparecendo através do código? Os dois cabem — e quem não mexer fica exatamente com o vidro de sempre.</li>
+  <li><b>O aviso diz em que área de trabalho o agente está.</b> &quot;O Chase terminou&quot; vira &quot;o Chase terminou na área Back&quot; quando ele está numa aba que você não está vendo — na voz e no cartão. Antes o aviso dizia o nome do projeto, o que não ajudava em nada quando o projeto era justamente o que você já tinha na frente: você sabia que alguém terminou e ainda tinha de caçar onde.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.21.0/codeCanvas-1.21.0.dmg" length="15532305" type="application/octet-stream" sparkle:edSignature="jKcqCEMohHjzxB7RB37oeFRAenXJgGqjrxGoozJazV+3YFCkRmTwlnwsuBwG/sktRvMvYzlwl0ounJ2M+InBBQ=="/>
+        </item>
+        <item>
             <title>1.20.1</title>
             <pubDate>Fri, 17 Jul 2026 02:32:29 -0300</pubDate>
             <sparkle:version>202607170228</sparkle:version>
@@ -35,19 +49,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.20.0/codeCanvas-1.20.0.dmg" length="15489747" type="application/octet-stream" sparkle:edSignature="XITcNsV5hAGaqg3M/VnkcTMfdgPc3pHgNCIznlT91RenmohIly2/0JqeFz4aa6hauqKKBSIkHkqqb2e5UMadAg=="/>
-        </item>
-        <item>
-            <title>1.19.0</title>
-            <pubDate>Thu, 16 Jul 2026 22:12:33 -0300</pubDate>
-            <sparkle:version>202607162208</sparkle:version>
-            <sparkle:shortVersionString>1.19.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li><b>Cada canvas escolhe onde os agentes te mostram as coisas.</b> Uma página, um artefato, um diagrama: ou abre num painel daqui, sem tirar você do app, ou abre no seu navegador de sempre, com as suas abas e o seu login. A escolha está na configuração do canvas, junto da conta em que os agentes nascem — e vale por projeto, porque o projeto que você mostra para o cliente não é o que você depura sozinho. Nos dois modos o contrário continua a um pedido de distância: basta dizer ao agente, com todas as letras, onde você quer aquilo.</li>
-  <li><b>O painel de Desempenho ficou mais fácil de ler.</b> Os números da direita não quebram mais em duas linhas quando o zoom cresce, e a lista &quot;Quem está puxando&quot; ganhou separadores e realce sob o mouse — dá para ver de relance onde uma linha termina e a outra começa, e um nome cortado se revela inteiro ao parar o cursor sobre ele.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.19.0/codeCanvas-1.19.0.dmg" length="15264681" type="application/octet-stream" sparkle:edSignature="ZoeKYDD8NFAEseCVFpgy3khCiyVgUHDsUZG3vz7tSWKWVxNRrlFT1jOn/X/eiwfELEf6nObN2+pqO72mmLsICA=="/>
         </item>
     </channel>
 </rss>
