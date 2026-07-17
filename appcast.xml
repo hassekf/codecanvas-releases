@@ -3,6 +3,18 @@
     <channel>
         <title>codeCanvas</title>
         <item>
+            <title>1.20.1</title>
+            <pubDate>Fri, 17 Jul 2026 02:32:29 -0300</pubDate>
+            <sparkle:version>202607170228</sparkle:version>
+            <sparkle:shortVersionString>1.20.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li><b>O bom-dia dela voltou a caber numa resposta.</b> Ele tinha virado um monólogo de vinte segundos, com vários assuntos e duas perguntas no fim — e às vezes citava uma tarefa que não existia. Agora é o que sempre foi para ser: uma frase sobre o que importa hoje, uma pergunta, e a vez é sua.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.20.1/codeCanvas-1.20.1.dmg" length="15486983" type="application/octet-stream" sparkle:edSignature="A1o4lDG7xnZJ9hhuaODdJckA+2lr3s7RdwH6G/s9h9SY5icX5Oflk43tzEbQjH7k9FyTpDcIuMJ7Z1NRad4PCg=="/>
+        </item>
+        <item>
             <title>1.20.0</title>
             <pubDate>Fri, 17 Jul 2026 02:09:41 -0300</pubDate>
             <sparkle:version>202607170205</sparkle:version>
@@ -36,18 +48,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.19.0/codeCanvas-1.19.0.dmg" length="15264681" type="application/octet-stream" sparkle:edSignature="ZoeKYDD8NFAEseCVFpgy3khCiyVgUHDsUZG3vz7tSWKWVxNRrlFT1jOn/X/eiwfELEf6nObN2+pqO72mmLsICA=="/>
-        </item>
-        <item>
-            <title>1.18.2</title>
-            <pubDate>Thu, 16 Jul 2026 21:18:35 -0300</pubDate>
-            <sparkle:version>202607162114</sparkle:version>
-            <sparkle:shortVersionString>1.18.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li>O app não fecha mais sozinho ao receber uma notificação, ao sair da tela cheia ou ao voltar de outro app com um clique.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.18.2/codeCanvas-1.18.2.dmg" length="15237900" type="application/octet-stream" sparkle:edSignature="M5GwxHZXn/QN3g5lSvIcJfDdy77QeN8xqJW5BcALPQpSB/wGJSxC/pVZPp8tH3aMSbli+89tDBjKI1wH3iBqAw=="/>
         </item>
     </channel>
 </rss>
