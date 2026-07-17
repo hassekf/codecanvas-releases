@@ -3,6 +3,21 @@
     <channel>
         <title>codeCanvas</title>
         <item>
+            <title>1.24.0</title>
+            <pubDate>Fri, 17 Jul 2026 20:17:44 -0300</pubDate>
+            <sparkle:version>202607172013</sparkle:version>
+            <sparkle:shortVersionString>1.24.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li><b>Agora dá para ver, de relance, em qual branch cada agente está.</b> No cabeçalho de cada painel de agente aparece a branch da worktree dele — quem está em <code>agente/minerva</code>, quem em qual frente —, ao lado do PR. Antes o selo existia mas nunca acendia: ele adivinhava a worktree pelo diretório do processo, que nunca acompanha o agente até a pasta dela. Agora quem responde é o próprio git, e o selo aparece para todo agente que saiu para uma worktree própria (quem está só lendo na base segue sem selo, porque não há branch a mostrar).</li>
+  <li><b>O painel só te chama quando o agente realmente parou.</b> Se você deixou uma mensagem na fila enquanto o agente trabalhava, ele termina o turno e já puxa o seu próximo prompt sozinho — não parou de verdade, só respirou. Antes o painel brilhava e a notificação disparava nesse respiro, te chamando para uma tela onde não havia nada a decidir. Agora o aviso espera: só brilha e notifica quando o agente para e não há mais nada seu esperando por ele.</li>
+  <li><b>A galeria não enche mais de cópias da mesma imagem.</b> Colar ou arrastar de novo uma figura que já está na galeria não cria outra entrada — a galeria a reconhece pelo conteúdo e a guarda uma vez só. Você continua livre para espalhar quantas cópias quiser pelo canvas; a galeria só deixa de repetir o que é a mesma imagem.</li>
+  <li><b>Apagar da galeria te avisa quando a imagem está no seu canvas.</b> Se a imagem que você vai apagar também está colada numa aba, o codeCanvas mostra em quais — e lembra que apagar a tira da galeria <b>e</b> da área de trabalho, de vez. Assim ninguém some com uma referência do moodboard por engano.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.24.0/codeCanvas-1.24.0.dmg" length="15924981" type="application/octet-stream" sparkle:edSignature="NScfq9szryGo5OGEZHX9UrPYGMOpSpEabwcrunLMGRaanZT+1LqHkz2V2ArM821K1HtDTSxOlJq4lIUWwTJaAA=="/>
+        </item>
+        <item>
             <title>1.23.0</title>
             <pubDate>Fri, 17 Jul 2026 19:15:40 -0300</pubDate>
             <sparkle:version>202607171911</sparkle:version>
@@ -31,18 +46,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.22.0/codeCanvas-1.22.0.dmg" length="15893019" type="application/octet-stream" sparkle:edSignature="hz3kHfJRP/vaufgs6qSJMPa1oLV2OJxkEajPsoopdlL5mJl50oOZpiIat8smvXhmrDPBlhq6W27gm+zUXr9FAg=="/>
-        </item>
-        <item>
-            <title>1.21.1</title>
-            <pubDate>Fri, 17 Jul 2026 14:50:34 -0300</pubDate>
-            <sparkle:version>202607171446</sparkle:version>
-            <sparkle:shortVersionString>1.21.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li>Melhorias de estabilidade e pequenos consertos.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.21.1/codeCanvas-1.21.1.dmg" length="15532163" type="application/octet-stream" sparkle:edSignature="7j8T+XLIMAlqv/Ky+JO+ucW5ZWy/lIrtfc9kAsfRctDgRiZfakdFTo7cCvKMM3nu7xf8ag4KKpiw78+Jx2ffDA=="/>
         </item>
     </channel>
 </rss>
