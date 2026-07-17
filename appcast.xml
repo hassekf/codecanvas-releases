@@ -3,6 +3,28 @@
     <channel>
         <title>codeCanvas</title>
         <item>
+            <title>1.20.0</title>
+            <pubDate>Fri, 17 Jul 2026 02:09:41 -0300</pubDate>
+            <sparkle:version>202607170205</sparkle:version>
+            <sparkle:shortVersionString>1.20.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li><b>A Nina fala no seu ritmo — e agora ela soa gente.</b> A velocidade da conversa era fixa, 25% acima do natural, e não havia controle nenhum que a alcançasse: era isso que a fazia parecer robótica. Agora ela tem o próprio controle em Configurações → Conversa, começando no ritmo natural, e o &quot;Ouvir&quot; toca no ritmo que você escolher. O controle de velocidade que já existia continua onde estava, em Voz, e ficou com o nome do que ele sempre fez: os avisos.</li>
+  <li><b>Ela também para de ser cortada no meio da frase.</b> Respostas um pouco mais longas — &quot;quem está trabalhando hoje?&quot; — morriam na metade de uma palavra.</li>
+  <li><b>O &quot;Ouvindo.&quot; agora é escolha sua.</b> Em Configurações → Conversa você desliga (e aí o seu áudio é a primeira coisa da conversa: aciona e já fala) ou troca a palavra pela que você quiser. Ele continua ligado por padrão, provando que o microfone subiu.</li>
+  <li><b>&quot;Fecha tudo&quot; agora fecha a sua mesa, não o projeto inteiro.</b> Ela varria todas as áreas de trabalho — inclusive as que você não estava vendo, arrumadas e cheias. Agora &quot;fecha tudo&quot; e &quot;fecha os agentes&quot; valem só para a área em que você está; as outras ficam de pé. Para alcançar um painel de outra área, peça pelo nome.</li>
+  <li><b>&quot;Foca no fulano&quot; agora te leva até ele.</b> Se o agente estivesse em outra área de trabalho, ela dizia &quot;foco no fulano&quot; e a sua tela não mudava — o painel era destacado onde você não estava vendo. Agora a área acompanha, e vale também para o &quot;vai até o fulano&quot;.</li>
+  <li><b>Você pede uma vez, ela responde uma vez.</b> Ela anunciava o que ia fazer (&quot;vou abrir dois agentes, um instante&quot;) e, um segundo depois, contava que tinha feito — duas falas empilhadas, a primeira já velha quando terminava. Agora ela age calada e fala só o resultado. E, já que fala menos vezes, ficou livre para falar melhor: o jeito dela pode ser caloroso, com reação ao que aconteceu, em vez do telegrama de antes.</li>
+  <li><b>Os avisos que precisam de você agora fazem barulho.</b> Um agente que pergunta, espera ou termina toca um som curto quando a voz do app não vai falar — antes, quem estava sem a voz ligada só descobria olhando. Fora do app, o primeiro banner de cada leva também chega com som; os seguintes atualizam o resumo em silêncio, como sempre.</li>
+  <li><b>Cada aviso agora é seu para moldar.</b> Em Configurações → Notificações, cada evento — terminou, esperando você, caiu — ganhou os próprios interruptores: o cartão na tela, o toque dele, a leitura em voz alta e o banner do macOS com o próprio som. Quer só voz e sem cartões? Só banners mudos? Você monta. E um interruptor geral desliga todo o barulho de uma vez.</li>
+  <li><b>Agente em outra área de trabalho também te avisa.</b> Se ele termina ou trava numa aba do projeto que não é a que você está vendo, o app agora trata como fora de vista: fala (se a voz estiver ligada), toca o som — e o &quot;Ir&quot; do aviso te leva direto até o painel dele, trocando de área sozinho.</li>
+  <li><b>Cada projeto ganha um bloco de notas.</b> Abra pelo ⌘K (&quot;Nova nota&quot;) ou por voz (&quot;abre as notas&quot;) e escreva à vontade: um token, um endereço, o parágrafo que você vai usar depois. Salva sozinho enquanto você digita, e cada projeto tem as suas notas. Dá para ter várias notas — troque entre elas pelo menu no topo do painel, dê nome (ou deixe que a primeira linha vire o nome) — e várias janelas abertas ao mesmo tempo, cada uma numa nota. O ⌘K encontra qualquer nota pelo nome; apagou sem querer? A lixeira, no mesmo menu, devolve. A Nina e os agentes também escrevem, se você pedir (&quot;guarda isso numa nota&quot;, &quot;adiciona na nota do deploy&quot;) — mas apagar, só você, pelo painel; e em Configurações → Ferramentas dá para desligar a mão da Nina nas notas, como nos outros grupos.</li>
+  <li><b>Você escolhe o cérebro dos comandos de voz.</b> Em Ajustes → Voz, o seletor &quot;Modelo do comando&quot; diz qual modelo transforma a sua frase em ação — cada opção com o acerto e a velocidade medidos, para escolher informado. O novo padrão acerta mais e responde na metade do tempo do anterior: &quot;criar quatro agentes&quot; caía no pior caso e demorava mais de seis segundos; agora é cerca de um. E dois cuidados novos no ouvido: a tecla de comando te dá meio segundo de respiro depois que você solta — a última sílaba não se perde mais —, e quando o app não entende, ele diz que não entendeu com uma frase natural, em vez de deixar um modelo mais fraco adivinhar por ele.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.20.0/codeCanvas-1.20.0.dmg" length="15489747" type="application/octet-stream" sparkle:edSignature="XITcNsV5hAGaqg3M/VnkcTMfdgPc3pHgNCIznlT91RenmohIly2/0JqeFz4aa6hauqKKBSIkHkqqb2e5UMadAg=="/>
+        </item>
+        <item>
             <title>1.19.0</title>
             <pubDate>Thu, 16 Jul 2026 22:12:33 -0300</pubDate>
             <sparkle:version>202607162208</sparkle:version>
@@ -26,18 +48,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.18.2/codeCanvas-1.18.2.dmg" length="15237900" type="application/octet-stream" sparkle:edSignature="M5GwxHZXn/QN3g5lSvIcJfDdy77QeN8xqJW5BcALPQpSB/wGJSxC/pVZPp8tH3aMSbli+89tDBjKI1wH3iBqAw=="/>
-        </item>
-        <item>
-            <title>1.18.1</title>
-            <pubDate>Thu, 16 Jul 2026 17:33:22 -0300</pubDate>
-            <sparkle:version>202607161729</sparkle:version>
-            <sparkle:shortVersionString>1.18.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li><b>Melhorias de estabilidade e pequenos consertos.</b> Entre eles, a atualização passa a te oferecer sempre a versão mais nova. Se você tinha adiado uma atualização porque havia agente trabalhando, ela ficava pendurada e o app parava de olhar se tinha saído coisa melhor: você era oferecido a versão seguinte àquela em que estava, instalava, e uma hora depois era oferecido a próxima — uma de cada vez, cada uma pedindo um reinício. Agora, enquanto seus agentes trabalham, ele fica quieto e volta a olhar depois; quando ele te oferecer alguma coisa, é a última que existe.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.18.1/codeCanvas-1.18.1.dmg" length="15532115" type="application/octet-stream" sparkle:edSignature="WkOOFElrAZUD1mAzqoSwvCkVIFrqAMSRHap4s9bP5XkfYy/qvb7/OFg75DEfsFn3dSZFMgZZOJ+BTMau8r+oDA=="/>
         </item>
     </channel>
 </rss>
