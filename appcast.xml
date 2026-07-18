@@ -3,6 +3,19 @@
     <channel>
         <title>codeCanvas</title>
         <item>
+            <title>1.29.0</title>
+            <pubDate>Sat, 18 Jul 2026 17:29:51 -0300</pubDate>
+            <sparkle:version>202607181724</sparkle:version>
+            <sparkle:shortVersionString>1.29.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li><b>Os painéis se empilham quando você aperta a janela — e voltam às colunas quando você alarga.</b> Em colunas, se a janela fica estreita demais (o formato vertical de gravação é o caso), os painéis passam a ficar um embaixo do outro, em vez de espremidos lado a lado. E não é uma troca de arranjo: ao alargar a janela de novo, eles voltam às colunas que você tinha. O canvas entende que foi o tamanho da tela que mudou, não a sua escolha.</li>
+  <li><b>A barra de baixo se ajeita quando a janela fica estreita.</b> Naquele formato vertical de gravação, a barra de comando e os selos deixam de se empilhar uns sobre os outros: quando o espaço aperta, o git e os selos de status somem, e no mais estreito fica só o controle de gravação, centralizado. Ao alargar, tudo volta.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.29.0/codeCanvas-1.29.0.dmg" length="19162239" type="application/octet-stream" sparkle:edSignature="Ou0xvyrQDtj6dXTe/AkpNwlEn+6gn1fUM5EN4aOad1Ie56O+Et88LQGDtrsseAXAq16nH38TvM2AV2JQs/y8Cw=="/>
+        </item>
+        <item>
             <title>1.28.0</title>
             <pubDate>Sat, 18 Jul 2026 15:52:33 -0300</pubDate>
             <sparkle:version>202607181547</sparkle:version>
@@ -29,25 +42,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.27.0/codeCanvas-1.27.0.dmg" length="18939036" type="application/octet-stream" sparkle:edSignature="K6BE8+tOKM2y5qLJ7+7pDvNup/8yJ+3Prq9088EWtG53VGUI0qnWE5SPmDDtu8mHop+Gd0Kn6J38A29t24DEDw=="/>
-        </item>
-        <item>
-            <title>1.26.0</title>
-            <pubDate>Sat, 18 Jul 2026 04:44:02 -0300</pubDate>
-            <sparkle:version>202607180438</sparkle:version>
-            <sparkle:shortVersionString>1.26.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li><b>Agora o codeCanvas grava a própria tela.</b> Dá para gravar a janela do app — com o áudio que ele produz (a Nina falando, um vídeo tocando) e o seu microfone, juntos —, sem limite de tempo, para fazer vídeos, demos, reels e stories mostrando tudo funcionando ao vivo. O seu rosto entra se você deixar a webcam aberta num painel, que já aparece na gravação. Controle pela <b>barra no rodapé</b> (ligue-a em Ajustes → Interface), por um <b>painel de gravação</b> — onde ficam também as suas gravações guardadas, prontas para reabrir ou revelar no Finder —, ou pedindo à <b>Nina</b> (&quot;começa a gravar&quot;, &quot;para a gravação&quot;). Antes de gravar, você ainda pode deixar a janela no formato certo para onde vai postar: <b>1080p, 720p, vertical para story ou quadrado</b> — pela tela ou por voz (&quot;deixa a janela em 1080p&quot;, &quot;modo vertical&quot;). As gravações ficam na sua pasta <b>Filmes/codeCanvas</b>.</li>
-  <li><b>Um gerenciador de skills, para você e para os seus agentes.</b> Ao editar um canvas há uma aba <b>Skills</b>: ela mostra tudo o que os agentes daquele projeto sabem fazer — o que veio do projeto, da sua conta ou do próprio CLI —, e deixa você <b>ligar ou desligar</b> cada uma só ali (sem apagar do disco), <b>ver e editar</b> o conteúdo, <b>remover</b>, e <b>instalar novas</b> de um registro público: é só clicar em &quot;Instalar skills&quot;, buscar e escolher. E os próprios agentes fazem tudo isso pelo canvas — peça a um deles para <i>&quot;procurar uma skill de Postgres e instalar neste projeto&quot;</i>, ou <i>&quot;pegar três skills de testes e compilar numa só, world-class&quot;</i>, e ele usa o sistema em vez de mexer nos arquivos por baixo.</li>
-  <li><b>Agora você escreve as instruções de worktree dos seus agentes.</b> Quando o isolamento por worktree está ligado, cada agente recebe um texto ensinando a trabalhar na própria cópia do projeto antes de escrever. Esse texto era fixo; agora ele tem um botão em Ajustes para você editá-lo do seu jeito — e o app avisa, em vermelho, se você esquecer de deixar o <code>{nome}</code> do agente no meio, que é o que dá a cada um a sua própria branch. Um clique em &quot;Restaurar padrão&quot; traz o texto de fábrica de volta.</li>
-  <li><b>E cada projeto pode ter as suas.</b> Ao editar um canvas, na aba Agentes, você decide se o isolamento por worktree segue o ajuste global ou fica ligado/desligado só naquele projeto — e se os agentes dele usam as instruções globais ou um texto próprio. O texto que você escrever para um projeto fica guardado: alternar entre &quot;globais&quot; e &quot;próprias&quot; nunca o apaga, só troca qual vale.</li>
-  <li>O aviso de prazo das suas tarefas mudou-se para os <b>Ajustes → Notificações</b>, junto dos outros avisos — a aba &quot;Tarefas&quot;, que tinha só esse interruptor, deixou de existir. E agora você escolhe, como faz para os agentes, se cada prazo <b>toca um som</b> e se é <b>lido em voz alta</b>.</li>
-  <li>O <b>lembrete de reunião</b> ganhou um interruptor só dele, em <b>Ajustes → Integrações</b>. Antes ele vinha junto com o aviso de prazo das tarefas: calar um calava o outro. Agora você desliga um sem perder o outro.</li>
-  <li><b>Instale ferramentas novas para os agentes sem sair do app.</b> O MCP ganhou uma aba só dele em Editar canvas: você vê os servidores que os agentes deste projeto podem usar, liga só os que ele precisa, e — a novidade — <b>instala novos direto do registro oficial</b>. Busque por nome, veja o que cada um faz e se pesa (os que falam por HTTP são de graça; os que sobem um processo, nem tanto), e instale com um clique. Se um servidor pedir uma chave, ela fica guardada com segurança no seu Mac, nunca num arquivo. E o que você instala nasce ativo só no projeto de onde partiu — nos outros, você liga quando quiser.</li>
-  <li><b>Peça à Nina para cuidar dos MCP — e os agentes também sabem.</b> Fale &quot;quais MCP esse projeto tem?&quot;, &quot;liga o do GitHub&quot;, &quot;procura um de Postgres&quot;, &quot;instala esse&quot; — a Nina vê, liga, desliga, busca no registro e instala, sem você abrir tela nenhuma. E os agentes ganharam as mesmas ferramentas: um agente pode instalar por conta própria o que a tarefa dele precisa. Em Ajustes → Ferramentas há um grupo <b>MCP</b> para ligar ou desligar isso na Nina.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.26.0/codeCanvas-1.26.0.dmg" length="18918471" type="application/octet-stream" sparkle:edSignature="0L9o3I9D+tqXIfk4y1vEfmahz2Az7brDmBPRDdVQh0oys/Ua6y2HmRuBSteFXJ06FbZALDnccQcD3UmgxG/dDA=="/>
         </item>
     </channel>
 </rss>
