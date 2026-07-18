@@ -3,6 +3,18 @@
     <channel>
         <title>codeCanvas</title>
         <item>
+            <title>1.28.0</title>
+            <pubDate>Sat, 18 Jul 2026 15:52:33 -0300</pubDate>
+            <sparkle:version>202607181547</sparkle:version>
+            <sparkle:shortVersionString>1.28.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li><b>Seu canvas comemora com você quando um agente cumpre uma meta.</b> Em Editar canvas → <b>Anúncios</b>, você escreve uma regra em português (&quot;quando a release for publicada e verificada&quot;) e escolhe como o aviso vai aparecer: uma faixa de <b>level up</b> no centro da tela, uma <b>pílula</b> discreta no topo, ou um cartão de <b>conquista</b> na lateral — com o ícone e o texto que você quiser. Quando um agente cumpre a regra, o anúncio pipoca com um brilho suave. Você pode ter vários, ligar e desligar cada um sem apagar, e o botão <b>Simular</b> mostra na hora como vai ficar. E ele nunca te atrapalha: se você estiver falando com a Nina ou ditando, o aviso espera você ficar livre para aparecer. É por canvas — cada projeto tem os seus.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.28.0/codeCanvas-1.28.0.dmg" length="19143015" type="application/octet-stream" sparkle:edSignature="0SoVJ1RoAJDpkxg4x68QDdC0N+uhtmSOZaSgy5RIw5Qfd+C9VeBlfZxg8Crb+tWTbczAV+sU642rabCPDcxCAQ=="/>
+        </item>
+        <item>
             <title>1.27.0</title>
             <pubDate>Sat, 18 Jul 2026 14:32:14 -0300</pubDate>
             <sparkle:version>202607181427</sparkle:version>
@@ -36,21 +48,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.26.0/codeCanvas-1.26.0.dmg" length="18918471" type="application/octet-stream" sparkle:edSignature="0L9o3I9D+tqXIfk4y1vEfmahz2Az7brDmBPRDdVQh0oys/Ua6y2HmRuBSteFXJ06FbZALDnccQcD3UmgxG/dDA=="/>
-        </item>
-        <item>
-            <title>1.25.0</title>
-            <pubDate>Fri, 17 Jul 2026 22:06:38 -0300</pubDate>
-            <sparkle:version>202607172202</sparkle:version>
-            <sparkle:shortVersionString>1.25.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li><b>Selecione várias imagens da galeria de uma vez, arrastando.</b> Comece num espaço vazio da galeria — em qualquer parte dela, não só na faixa das imagens — e arraste um retângulo por cima das miniaturas: todas as que ele encostar ficam marcadas. Com várias marcadas, você pode <b>apagá-las em lote</b> ou <b>arrastá-las todas juntas para o canvas</b> de uma vez. Arrastar em cima de uma imagem continua levando só ela, como antes. E clicar para marcar ficou instantâneo: a imagem acende no mesmo instante em que você clica, sem aquela espera.</li>
-  <li><b>As imagens soltas no canvas agora se movem e se apagam em grupo.</b> Marque várias com o laço e arraste: elas viajam juntas, guardando a distância entre elas. Aperte Delete: saem todas de uma vez (e continuam guardadas na galeria, como sempre). Antes, mesmo com várias marcadas, só uma se movia — e o Delete tirava só uma.</li>
-  <li><b>Cada projeto pode ter a sua fonte.</b> Ao editar o tema de um canvas, agora dá para escolher a fonte da interface inteira — e ela vale enquanto você estiver naquele projeto, do mesmo jeito que o tema. São nove opções bonitas prontas para usar, de sans clássicas (Inter, DM Sans) a serifadas elegantes (Fraunces, Lora) e umas mais diferentonas (Space Grotesk, Bricolage), cada uma com uma amostra viva ali no seletor, escrita na própria fonte, para você ver como fica antes de decidir.</li>
-  <li><b>Você escolhe a fonte dos terminais.</b> Em Configurações → Terminal dá para trocar a letra de todos os terminais — SF Mono, Menlo, Monaco, Courier, e as queridinhas dos programadores, JetBrains Mono e Fira Code. Só entram fontes de largura fixa, para as colunas continuarem alinhadas, e a troca vale na hora, sem reiniciar nada.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.25.0/codeCanvas-1.25.0.dmg" length="18007869" type="application/octet-stream" sparkle:edSignature="uxMb4n2PqhsZRX0VfX3v9XAR+PLlfaSNQ/A5fcM5guhSREXYsn9XURwqbZNGxlkZJ3u472hAAVtFrLPMHZlqBA=="/>
         </item>
     </channel>
 </rss>
