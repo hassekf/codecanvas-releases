@@ -3,6 +3,19 @@
     <channel>
         <title>codeCanvas</title>
         <item>
+            <title>1.30.0</title>
+            <pubDate>Sat, 18 Jul 2026 18:23:30 -0300</pubDate>
+            <sparkle:version>202607181818</sparkle:version>
+            <sparkle:shortVersionString>1.30.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li><b>O elenco ficou organizado — e conta o que cada agente estava fazendo.</b> A lista de agentes agora se separa por natureza: os que estão <b>na tela</b>, os que <b>hibernaram</b> (na tela, mas dormindo para não gastar memória), os <b>guardados</b> com uma conversa que dá para retomar, e os <b>guardados sem histórico</b> — nomes presos por agentes que nunca chegaram a conversar. Uma <b>busca no topo</b> filtra todas as seções ao mesmo tempo, por nome ou pela missão. E um clique numa linha <b>abre o resumo</b> do que aquele agente andou fazendo, sem você precisar saltar até o painel dele.</li>
+  <li><b>Libere os nomes que ficaram presos.</b> Na seção dos guardados sem histórico há um botão que esquece todos de uma vez e devolve os nomes ao pool. Nos guardados de verdade também há um &quot;esquecer todos&quot;, mas com dupla confirmação — porque ali some conversa, e não há como desfazer.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.30.0/codeCanvas-1.30.0.dmg" length="19228326" type="application/octet-stream" sparkle:edSignature="A8DXrCIJi8bSwGIQtVvzyGSedF7WnQl593ylAeNGKQ6y7lqoUhm9yipiu2ZNzrO+fW13FxwGt+Go1GTk+KKtAg=="/>
+        </item>
+        <item>
             <title>1.29.0</title>
             <pubDate>Sat, 18 Jul 2026 17:29:51 -0300</pubDate>
             <sparkle:version>202607181724</sparkle:version>
@@ -26,22 +39,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.28.0/codeCanvas-1.28.0.dmg" length="19143015" type="application/octet-stream" sparkle:edSignature="0SoVJ1RoAJDpkxg4x68QDdC0N+uhtmSOZaSgy5RIw5Qfd+C9VeBlfZxg8Crb+tWTbczAV+sU642rabCPDcxCAQ=="/>
-        </item>
-        <item>
-            <title>1.27.0</title>
-            <pubDate>Sat, 18 Jul 2026 14:32:14 -0300</pubDate>
-            <sparkle:version>202607181427</sparkle:version>
-            <sparkle:shortVersionString>1.27.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li><b>O vídeo de fundo não trava mais quando você fala ou chega um aviso.</b> Antes, ditar, dar um comando de voz ou receber uma notificação <b>pausava</b> a mídia — e o vídeo que você deixou de papel de parede parava numa foto. Agora o volume só <b>abaixa</b> (com um fade suave) e o vídeo segue correndo, voltando ao volume de antes quando a interrupção passa. O papel de parede nunca mais para. A única coisa que ainda pausa de vez a mídia que você está assistindo é a conversa com a Nina — porque aí você está mesmo falando com ela.</li>
-  <li><b>Testar o microfone com AirPods parou de derrubar o app.</b> Escolher os AirPods e testar uma segunda vez fechava o codeCanvas na hora. Agora abre e mede como qualquer outro microfone.</li>
-  <li><b>A gravação de tela agora enquadra em 4K.</b> O formato de janela para gravar ganhou a opção <b>4K</b> (3840×2160, o padrão do YouTube em ultra alta definição) no lugar do 720p — ideal para quem tem tela grande. O <b>1080p</b>, o <b>vertical</b> para story e o <b>quadrado</b> continuam ali, pela tela ou por voz (&quot;deixa a janela em 4K&quot;).</li>
-  <li><b>Organizar mantém a grade sempre centralizada.</b> Quando você tem um painel solto na tela (as tarefas, um vídeo, a webcam), a grade agora fica <b>no centro</b> e apenas <b>se aperta um pouco, dos dois lados por igual</b>, o quanto for preciso para não ficar por baixo dele — em vez de ser empurrada para a lateral com um vazio sobrando do outro lado. Cabendo tudo na tela, ela fica cheia e centrada. Se o painel solto estiver perto demais do meio (onde não haveria como apertar sem esmagar), ele é ignorado e só flutua por cima. As imagens soltas não mudam o tamanho da grade: elas só escorregam para não ficar escondidas atrás de nada. Vale tanto para o botão de organizar quanto para o clique do meio do mouse.</li>
-  <li><b>Um agente que mexe nas tarefas não rouba mais o painel onde você está escrevendo.</b> Quando você estava ditando ou digitando para um agente e outro atualizava uma tarefa, o painel de tarefas saltava para a frente e ficava selecionado — e o que você mandava ia parar no vazio, obrigando a reselecionar a janela. Agora a lista ainda aparece para mostrar quem mexeu nela, mas sem tomar o seu teclado de onde ele estava.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.27.0/codeCanvas-1.27.0.dmg" length="18939036" type="application/octet-stream" sparkle:edSignature="K6BE8+tOKM2y5qLJ7+7pDvNup/8yJ+3Prq9088EWtG53VGUI0qnWE5SPmDDtu8mHop+Gd0Kn6J38A29t24DEDw=="/>
         </item>
     </channel>
 </rss>
