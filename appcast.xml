@@ -3,6 +3,22 @@
     <channel>
         <title>codeCanvas</title>
         <item>
+            <title>1.27.0</title>
+            <pubDate>Sat, 18 Jul 2026 14:32:14 -0300</pubDate>
+            <sparkle:version>202607181427</sparkle:version>
+            <sparkle:shortVersionString>1.27.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+  <li><b>O vídeo de fundo não trava mais quando você fala ou chega um aviso.</b> Antes, ditar, dar um comando de voz ou receber uma notificação <b>pausava</b> a mídia — e o vídeo que você deixou de papel de parede parava numa foto. Agora o volume só <b>abaixa</b> (com um fade suave) e o vídeo segue correndo, voltando ao volume de antes quando a interrupção passa. O papel de parede nunca mais para. A única coisa que ainda pausa de vez a mídia que você está assistindo é a conversa com a Nina — porque aí você está mesmo falando com ela.</li>
+  <li><b>Testar o microfone com AirPods parou de derrubar o app.</b> Escolher os AirPods e testar uma segunda vez fechava o codeCanvas na hora. Agora abre e mede como qualquer outro microfone.</li>
+  <li><b>A gravação de tela agora enquadra em 4K.</b> O formato de janela para gravar ganhou a opção <b>4K</b> (3840×2160, o padrão do YouTube em ultra alta definição) no lugar do 720p — ideal para quem tem tela grande. O <b>1080p</b>, o <b>vertical</b> para story e o <b>quadrado</b> continuam ali, pela tela ou por voz (&quot;deixa a janela em 4K&quot;).</li>
+  <li><b>Organizar mantém a grade sempre centralizada.</b> Quando você tem um painel solto na tela (as tarefas, um vídeo, a webcam), a grade agora fica <b>no centro</b> e apenas <b>se aperta um pouco, dos dois lados por igual</b>, o quanto for preciso para não ficar por baixo dele — em vez de ser empurrada para a lateral com um vazio sobrando do outro lado. Cabendo tudo na tela, ela fica cheia e centrada. Se o painel solto estiver perto demais do meio (onde não haveria como apertar sem esmagar), ele é ignorado e só flutua por cima. As imagens soltas não mudam o tamanho da grade: elas só escorregam para não ficar escondidas atrás de nada. Vale tanto para o botão de organizar quanto para o clique do meio do mouse.</li>
+  <li><b>Um agente que mexe nas tarefas não rouba mais o painel onde você está escrevendo.</b> Quando você estava ditando ou digitando para um agente e outro atualizava uma tarefa, o painel de tarefas saltava para a frente e ficava selecionado — e o que você mandava ia parar no vazio, obrigando a reselecionar a janela. Agora a lista ainda aparece para mostrar quem mexeu nela, mas sem tomar o seu teclado de onde ele estava.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.27.0/codeCanvas-1.27.0.dmg" length="18939036" type="application/octet-stream" sparkle:edSignature="K6BE8+tOKM2y5qLJ7+7pDvNup/8yJ+3Prq9088EWtG53VGUI0qnWE5SPmDDtu8mHop+Gd0Kn6J38A29t24DEDw=="/>
+        </item>
+        <item>
             <title>1.26.0</title>
             <pubDate>Sat, 18 Jul 2026 04:44:02 -0300</pubDate>
             <sparkle:version>202607180438</sparkle:version>
@@ -35,21 +51,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.25.0/codeCanvas-1.25.0.dmg" length="18007869" type="application/octet-stream" sparkle:edSignature="uxMb4n2PqhsZRX0VfX3v9XAR+PLlfaSNQ/A5fcM5guhSREXYsn9XURwqbZNGxlkZJ3u472hAAVtFrLPMHZlqBA=="/>
-        </item>
-        <item>
-            <title>1.24.0</title>
-            <pubDate>Fri, 17 Jul 2026 20:17:44 -0300</pubDate>
-            <sparkle:version>202607172013</sparkle:version>
-            <sparkle:shortVersionString>1.24.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li><b>Agora dá para ver, de relance, em qual branch cada agente está.</b> No cabeçalho de cada painel de agente aparece a branch da worktree dele — quem está em <code>agente/minerva</code>, quem em qual frente —, ao lado do PR. Antes o selo existia mas nunca acendia: ele adivinhava a worktree pelo diretório do processo, que nunca acompanha o agente até a pasta dela. Agora quem responde é o próprio git, e o selo aparece para todo agente que saiu para uma worktree própria (quem está só lendo na base segue sem selo, porque não há branch a mostrar).</li>
-  <li><b>O painel só te chama quando o agente realmente parou.</b> Se você deixou uma mensagem na fila enquanto o agente trabalhava, ele termina o turno e já puxa o seu próximo prompt sozinho — não parou de verdade, só respirou. Antes o painel brilhava e a notificação disparava nesse respiro, te chamando para uma tela onde não havia nada a decidir. Agora o aviso espera: só brilha e notifica quando o agente para e não há mais nada seu esperando por ele.</li>
-  <li><b>A galeria não enche mais de cópias da mesma imagem.</b> Colar ou arrastar de novo uma figura que já está na galeria não cria outra entrada — a galeria a reconhece pelo conteúdo e a guarda uma vez só. Você continua livre para espalhar quantas cópias quiser pelo canvas; a galeria só deixa de repetir o que é a mesma imagem.</li>
-  <li><b>Apagar da galeria te avisa quando a imagem está no seu canvas.</b> Se a imagem que você vai apagar também está colada numa aba, o codeCanvas mostra em quais — e lembra que apagar a tira da galeria <b>e</b> da área de trabalho, de vez. Assim ninguém some com uma referência do moodboard por engano.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.24.0/codeCanvas-1.24.0.dmg" length="15924981" type="application/octet-stream" sparkle:edSignature="NScfq9szryGo5OGEZHX9UrPYGMOpSpEabwcrunLMGRaanZT+1LqHkz2V2ArM821K1HtDTSxOlJq4lIUWwTJaAA=="/>
         </item>
     </channel>
 </rss>
