@@ -3,42 +3,18 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.30.0</title>
-            <pubDate>Sat, 18 Jul 2026 18:23:30 -0300</pubDate>
-            <sparkle:version>202607181818</sparkle:version>
-            <sparkle:shortVersionString>1.30.0</sparkle:shortVersionString>
+            <title>1.31.0</title>
+            <pubDate>Sun, 19 Jul 2026 02:36:37 -0300</pubDate>
+            <sparkle:version>202607190232</sparkle:version>
+            <sparkle:shortVersionString>1.31.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>O elenco ficou organizado — e conta o que cada agente estava fazendo.</b> A lista de agentes agora se separa por natureza: os que estão <b>na tela</b>, os que <b>hibernaram</b> (na tela, mas dormindo para não gastar memória), os <b>guardados</b> com uma conversa que dá para retomar, e os <b>guardados sem histórico</b> — nomes presos por agentes que nunca chegaram a conversar. Uma <b>busca no topo</b> filtra todas as seções ao mesmo tempo, por nome ou pela missão. E um clique numa linha <b>abre o resumo</b> do que aquele agente andou fazendo, sem você precisar saltar até o painel dele.</li>
-  <li><b>Libere os nomes que ficaram presos.</b> Na seção dos guardados sem histórico há um botão que esquece todos de uma vez e devolve os nomes ao pool. Nos guardados de verdade também há um &quot;esquecer todos&quot;, mas com dupla confirmação — porque ali some conversa, e não há como desfazer.</li>
+  <li>Clique em &quot;Gravar tela&quot; na barra de gravação do rodapé para abrir o painel de gravação — sem passar pela busca.</li>
+  <li><b>Avaliação por tempo e ativação por licença.</b> Há um período de avaliação para conhecer o app inteiro e, em Ajustes → Licença, uma tela para ativar a chave que chegou na sua compra: cole e pronto. Ali você vê o estado da sua licença e pode liberar este Mac quando quiser usá-la em outro. Tudo o que você já fez — projetos, canvases, conversas — continua no lugar.</li>
+  <li>O som do vídeo de fundo (e de uma aba com vídeo) não volta mais sozinho enquanto você fala. Ele fica calado do começo ao fim do ditado, e só volta quando você termina.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.30.0/codeCanvas-1.30.0.dmg" length="19228326" type="application/octet-stream" sparkle:edSignature="A8DXrCIJi8bSwGIQtVvzyGSedF7WnQl593ylAeNGKQ6y7lqoUhm9yipiu2ZNzrO+fW13FxwGt+Go1GTk+KKtAg=="/>
-        </item>
-        <item>
-            <title>1.29.0</title>
-            <pubDate>Sat, 18 Jul 2026 17:29:51 -0300</pubDate>
-            <sparkle:version>202607181724</sparkle:version>
-            <sparkle:shortVersionString>1.29.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li><b>Os painéis se empilham quando você aperta a janela — e voltam às colunas quando você alarga.</b> Em colunas, se a janela fica estreita demais (o formato vertical de gravação é o caso), os painéis passam a ficar um embaixo do outro, em vez de espremidos lado a lado. E não é uma troca de arranjo: ao alargar a janela de novo, eles voltam às colunas que você tinha. O canvas entende que foi o tamanho da tela que mudou, não a sua escolha.</li>
-  <li><b>A barra de baixo se ajeita quando a janela fica estreita.</b> Naquele formato vertical de gravação, a barra de comando e os selos deixam de se empilhar uns sobre os outros: quando o espaço aperta, o git e os selos de status somem, e no mais estreito fica só o controle de gravação, centralizado. Ao alargar, tudo volta.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.29.0/codeCanvas-1.29.0.dmg" length="19162239" type="application/octet-stream" sparkle:edSignature="Ou0xvyrQDtj6dXTe/AkpNwlEn+6gn1fUM5EN4aOad1Ie56O+Et88LQGDtrsseAXAq16nH38TvM2AV2JQs/y8Cw=="/>
-        </item>
-        <item>
-            <title>1.28.0</title>
-            <pubDate>Sat, 18 Jul 2026 15:52:33 -0300</pubDate>
-            <sparkle:version>202607181547</sparkle:version>
-            <sparkle:shortVersionString>1.28.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul>
-  <li><b>Seu canvas comemora com você quando um agente cumpre uma meta.</b> Em Editar canvas → <b>Anúncios</b>, você escreve uma regra em português (&quot;quando a release for publicada e verificada&quot;) e escolhe como o aviso vai aparecer: uma faixa de <b>level up</b> no centro da tela, uma <b>pílula</b> discreta no topo, ou um cartão de <b>conquista</b> na lateral — com o ícone e o texto que você quiser. Quando um agente cumpre a regra, o anúncio pipoca com um brilho suave. Você pode ter vários, ligar e desligar cada um sem apagar, e o botão <b>Simular</b> mostra na hora como vai ficar. E ele nunca te atrapalha: se você estiver falando com a Nina ou ditando, o aviso espera você ficar livre para aparecer. É por canvas — cada projeto tem os seus.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hassekf/codecanvas-releases/releases/download/v1.28.0/codeCanvas-1.28.0.dmg" length="19143015" type="application/octet-stream" sparkle:edSignature="0SoVJ1RoAJDpkxg4x68QDdC0N+uhtmSOZaSgy5RIw5Qfd+C9VeBlfZxg8Crb+tWTbczAV+sU642rabCPDcxCAQ=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.31.0.dmg" length="19387333" type="application/octet-stream" sparkle:edSignature="R2CYQm/LLuoz3b+HIo4HfNZS4ab5kRecDBeeKAPHCaRvmAVkmPe8MWleF93P/A6Vnhvdy188+QrRO8UW2Hr+Cg=="/>
         </item>
     </channel>
 </rss>
