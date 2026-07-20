@@ -3,16 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.33.0</title>
-            <pubDate>Mon, 20 Jul 2026 00:18:39 -0300</pubDate>
-            <sparkle:version>202607200014</sparkle:version>
-            <sparkle:shortVersionString>1.33.0</sparkle:shortVersionString>
+            <title>1.33.1</title>
+            <pubDate>Mon, 20 Jul 2026 00:53:50 -0300</pubDate>
+            <sparkle:version>202607200049</sparkle:version>
+            <sparkle:shortVersionString>1.33.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>Escolha como o som sai na gravação de tela — e mande o vídeo pelo WhatsApp com áudio.</b> Na área de gravação há um novo controle. <i>Áudio numa faixa</i> (o padrão) mistura o som do app e o do microfone numa trilha só: o vídeo toca com som em qualquer lugar, inclusive no WhatsApp e no celular de quem recebe. <i>Faixas separadas</i> mantém as duas trilhas soltas, para quem vai abrir o vídeo num programa de edição e mexer no volume da voz e do sistema por fora.</li>
+  <li>O app volta a abrir para quem tem um compromisso repetido na agenda. Quando o mesmo evento aparecia duas vezes — a mesma reunião presente em duas subagendas escolhidas, ou uma recorrência — a abertura travava. Agora não trava mais.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.33.0.dmg" length="19486060" type="application/octet-stream" sparkle:edSignature="17qb+iXW1WHGzNyrFo7LmuFmuZGXVLx5Bri7NVfilfY0RnK33DchCZoa9S7tdExcOqJ0EJOcL34qG2m1lUHyDQ=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.33.1.dmg" length="19486594" type="application/octet-stream" sparkle:edSignature="1NgYL1DMEdNRj7bOd8SWHKLCu86mw4b7mXmmKhXJArTlHCfepNBfFTBSA8AnuDhSV7UXnkZp3OpXPCgz74I7CQ=="/>
         </item>
     </channel>
 </rss>
