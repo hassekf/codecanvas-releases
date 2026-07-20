@@ -3,16 +3,17 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.34.2</title>
-            <pubDate>Mon, 20 Jul 2026 15:47:54 -0300</pubDate>
-            <sparkle:version>202607201543</sparkle:version>
-            <sparkle:shortVersionString>1.34.2</sparkle:shortVersionString>
+            <title>1.35.0</title>
+            <pubDate>Mon, 20 Jul 2026 16:58:02 -0300</pubDate>
+            <sparkle:version>202607201653</sparkle:version>
+            <sparkle:shortVersionString>1.35.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li>Mandar uma mensagem para um agente que ainda está trabalhando entrega uma vez só. Antes, o mesmo recado chegava repetido quando ele terminava — dava para vê-lo duas ou três vezes na fila dele.</li>
+  <li><b>Veja os arquivos ocultos na gaveta.</b> O olho no topo da gaveta de arquivos liga e desliga os que começam com ponto — o <code>.env</code>, a pasta <code>.github</code>, o <code>.gitignore</code> —, tudo o que o desenvolvimento usa o dia inteiro e que antes ficava fora da vista. Fica como você deixar, em todos os projetos. As pastas pesadas (o <code>.git</code>, os caches de build) seguem escondidas, para a árvore não virar um poço.</li>
+  <li><b>Silencie a mídia sem abrir o painel.</b> Com um vídeo ou música tocando minimizado, a cápsula ao lado da barra de comando ganhou um botão de mudo — corta e devolve o som de onde você está, sem ter de restaurar a janela. E o ícone riscado deixa claro, de relance, que aquilo está calado. O mudo é seu: não volta quando a Nina termina de falar.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.34.2.dmg" length="19610276" type="application/octet-stream" sparkle:edSignature="qclLfBqF82vQwvs05iWum7L3BAh//cIX45NzL5sCaFusAWyKTEGCLoELr1KJGk2hphS1JHOh1xh0omrdm5XDAQ=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.35.0.dmg" length="19618012" type="application/octet-stream" sparkle:edSignature="mEzsyHIiXAwO6/U9oScrjJKO4g+Vt4l5rzy0wtlLhdM+Cch78Rch1JJI/VUngxUT++u24um5vx+FvrQPT9c+Bw=="/>
         </item>
     </channel>
 </rss>
