@@ -3,16 +3,18 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.33.1</title>
-            <pubDate>Mon, 20 Jul 2026 00:53:50 -0300</pubDate>
-            <sparkle:version>202607200049</sparkle:version>
-            <sparkle:shortVersionString>1.33.1</sparkle:shortVersionString>
+            <title>1.34.0</title>
+            <pubDate>Mon, 20 Jul 2026 14:38:58 -0300</pubDate>
+            <sparkle:version>202607201434</sparkle:version>
+            <sparkle:shortVersionString>1.34.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li>O app volta a abrir para quem tem um compromisso repetido na agenda. Quando o mesmo evento aparecia duas vezes — a mesma reunião presente em duas subagendas escolhidas, ou uma recorrência — a abertura travava. Agora não trava mais.</li>
+  <li><b>Seus projetos agora têm backup automático — e volta atrás quando algo dá errado.</b> De tempos em tempos o app guarda uma cópia dos seus projetos, tarefas, notas e configurações. Em Configurações → Backup você escolhe a frequência (de 10 em 10 minutos até uma vez por dia) e pode <b>restaurar</b> um ponto anterior a qualquer momento — tudo, só as configurações, ou só os projetos —, sem perder o estado atual, que é guardado antes. Não dá para desligar de propósito: uma cópia por dia fica sempre de pé.</li>
+  <li><b>Se o app não abrir, ele se recupera sozinho.</b> Quando algo trava a abertura — um projeto danificado, uma configuração que deu errado —, em vez de ficar preso do lado de fora você vê uma tela de recuperação que oferece voltar a um backup que funcionava. O arquivo problemático é preservado, então nada se perde para sempre.</li>
+  <li>Chegou o <b>Grok</b>, da xAI, como um terceiro tipo de agente — ao lado do Claude Code e do Codex. Peça &quot;abre um Grok&quot; por voz, pelo ⌘K ou pela barra, e ele nasce igual aos outros: ligado às ferramentas do canvas e ao seu navegador, lendo as skills e os MCPs do projeto, e retomando a conversa de onde parou quando você o chama de volta. Você o liga em Ajustes → Provedores; se tiver mais de um provedor ligado, escolhe de quem é cada agente na hora de criar.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.33.1.dmg" length="19486594" type="application/octet-stream" sparkle:edSignature="1NgYL1DMEdNRj7bOd8SWHKLCu86mw4b7mXmmKhXJArTlHCfepNBfFTBSA8AnuDhSV7UXnkZp3OpXPCgz74I7CQ=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.34.0.dmg" length="19606851" type="application/octet-stream" sparkle:edSignature="UbuUafPOm31KgJiiIuSG5CLmfyGixKCQM6eZvlnbV/zFHQ4hCVrAjm795kkW+hDwGqpyg8iuXeVnQ8ZUdzpSDA=="/>
         </item>
     </channel>
 </rss>
