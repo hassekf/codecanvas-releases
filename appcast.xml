@@ -3,17 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.36.0</title>
-            <pubDate>Mon, 20 Jul 2026 18:29:59 -0300</pubDate>
-            <sparkle:version>202607201824</sparkle:version>
-            <sparkle:shortVersionString>1.36.0</sparkle:shortVersionString>
+            <title>1.37.0</title>
+            <pubDate>Mon, 20 Jul 2026 20:12:36 -0300</pubDate>
+            <sparkle:version>202607202008</sparkle:version>
+            <sparkle:shortVersionString>1.37.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>Revise as pull requests sem sair do canvas.</b> O painel de Git ganhou uma aba <b>PRs</b>: veja as pull requests abertas do projeto, com quem abriu, a branch e como está a revisão e a CI. Um filtro no topo mostra só as que <b>esperam a sua aprovação</b>. Abra uma e você lê a descrição, vê os arquivos alterados (clicando em qualquer um para o diff) e, ali mesmo, <b>aprova</b> ou <b>comenta</b> — por clique ou por voz (&quot;quais PRs estão abertas?&quot;, &quot;aprova a PR 42&quot;).</li>
-  <li><b>Ditados longos ficaram fiéis.</b> Falando sem parar por mais de alguns segundos com o motor de ditado <b>Parakeet</b>, o texto deixa de perder trechos e de trocar de idioma no meio. E, se quiser mexer, as duas partes desse ajuste ficam em <b>Configurações → Diagnóstico</b>.</li>
+  <li><b>Cada tema agora tem a sua cor.</b> Antes, quatro dos seis temas dividiam o mesmo destaque coral, e trocar entre eles só mudava o papel de parede — a interface ficava igual. Agora o Bosque é verde, a Enseada é azul, o Grafite ganhou um azul-aço e o Meia-noite, um violeta. A cor do tema tinge o app inteiro: botões, seleção, sliders e o brilho do agente trabalhando.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.36.0.dmg" length="19827095" type="application/octet-stream" sparkle:edSignature="gyNgU6VERsnUPp8UgAYoYrIQlcTwuVkS2DVX+Hp8nrat221c2DXIr8KpfvsUu1hJeBLOF8BlVdDRh17qxAnVBQ=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.37.0.dmg" length="19826516" type="application/octet-stream" sparkle:edSignature="A5wZRlyaLq3WgN3v/Bk3ePDTh/9UsEjxCMBnAMaY+RU/i0MsTKtFBRjOnAbBXrgVs28s7THqHuycC8oCUyeXDw=="/>
         </item>
     </channel>
 </rss>
