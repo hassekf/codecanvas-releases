@@ -3,18 +3,18 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.31.0</title>
-            <pubDate>Sun, 19 Jul 2026 02:36:37 -0300</pubDate>
-            <sparkle:version>202607190232</sparkle:version>
-            <sparkle:shortVersionString>1.31.0</sparkle:shortVersionString>
+            <title>1.32.0</title>
+            <pubDate>Sun, 19 Jul 2026 22:21:53 -0300</pubDate>
+            <sparkle:version>202607192217</sparkle:version>
+            <sparkle:shortVersionString>1.32.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li>Clique em &quot;Gravar tela&quot; na barra de gravação do rodapé para abrir o painel de gravação — sem passar pela busca.</li>
-  <li><b>Avaliação por tempo e ativação por licença.</b> Há um período de avaliação para conhecer o app inteiro e, em Ajustes → Licença, uma tela para ativar a chave que chegou na sua compra: cole e pronto. Ali você vê o estado da sua licença e pode liberar este Mac quando quiser usá-la em outro. Tudo o que você já fez — projetos, canvases, conversas — continua no lugar.</li>
-  <li>O som do vídeo de fundo (e de uma aba com vídeo) não volta mais sozinho enquanto você fala. Ele fica calado do começo ao fim do ditado, e só volta quando você termina.</li>
+  <li><b>Escolha a página em que um navegador novo abre neste projeto.</b> Em Editar canvas há uma aba <b>Navegador</b>: digite um endereço (o seu localhost, a doc do projeto, o painel que você vive abrindo) e todo browser que você — ou a Nina — abrir daqui em diante nasce nele, em vez do Google. Em branco, segue no Google, como sempre. Vale por projeto: cada canvas tem a sua página. O navegador que um agente abre para te mostrar algo não muda — aquilo já vem com o endereço certo.</li>
+  <li><b>Vire o painel de um agente e veja tudo o que ele já entregou.</b> Além do resumo do que ele está fazendo agora, o verso do painel ganha uma linha do tempo do que ele já concluiu para você desde que acordou — uma aba &quot;Entregou&quot; ao lado do &quot;Agora&quot;. O histórico se monta sozinho: cada vez que o agente passa para uma tarefa nova, a anterior entra na lista. Ele não faz nada a mais para isso, nem gasta um token a mais. Clique numa entrega e o contexto daquele momento se abre — não só o que ele fez, mas o que ele contou sobre aquilo. E não some quando você o dispensa: volta com ele quando você o chama de novo. Um interruptor em Configurações → Agentes desliga tudo, para quem prefere o cartão só com o de agora.</li>
+  <li><b>A tela de Configurações ficou mais fácil de ler.</b> Cada opção agora tem um nome que já diz o que ela faz e uma dica curta, de uma ou duas frases. O que você precisa para decidir está ali, sem um parágrafo para varrer antes de mexer no botão.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.31.0.dmg" length="19387333" type="application/octet-stream" sparkle:edSignature="R2CYQm/LLuoz3b+HIo4HfNZS4ab5kRecDBeeKAPHCaRvmAVkmPe8MWleF93P/A6Vnhvdy188+QrRO8UW2Hr+Cg=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.32.0.dmg" length="19465224" type="application/octet-stream" sparkle:edSignature="eRgyTh2ltiXLi0g3vNNnz/pYrRr8sqi/8OMzmUrhQu7BuZx/rQLpI156AQz2Wjr3RC4e42cwhe8zpTq9zGYDAQ=="/>
         </item>
     </channel>
 </rss>
