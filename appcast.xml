@@ -3,17 +3,17 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.35.0</title>
-            <pubDate>Mon, 20 Jul 2026 16:58:02 -0300</pubDate>
-            <sparkle:version>202607201653</sparkle:version>
-            <sparkle:shortVersionString>1.35.0</sparkle:shortVersionString>
+            <title>1.36.0</title>
+            <pubDate>Mon, 20 Jul 2026 18:29:59 -0300</pubDate>
+            <sparkle:version>202607201824</sparkle:version>
+            <sparkle:shortVersionString>1.36.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>Veja os arquivos ocultos na gaveta.</b> O olho no topo da gaveta de arquivos liga e desliga os que começam com ponto — o <code>.env</code>, a pasta <code>.github</code>, o <code>.gitignore</code> —, tudo o que o desenvolvimento usa o dia inteiro e que antes ficava fora da vista. Fica como você deixar, em todos os projetos. As pastas pesadas (o <code>.git</code>, os caches de build) seguem escondidas, para a árvore não virar um poço.</li>
-  <li><b>Silencie a mídia sem abrir o painel.</b> Com um vídeo ou música tocando minimizado, a cápsula ao lado da barra de comando ganhou um botão de mudo — corta e devolve o som de onde você está, sem ter de restaurar a janela. E o ícone riscado deixa claro, de relance, que aquilo está calado. O mudo é seu: não volta quando a Nina termina de falar.</li>
+  <li><b>Revise as pull requests sem sair do canvas.</b> O painel de Git ganhou uma aba <b>PRs</b>: veja as pull requests abertas do projeto, com quem abriu, a branch e como está a revisão e a CI. Um filtro no topo mostra só as que <b>esperam a sua aprovação</b>. Abra uma e você lê a descrição, vê os arquivos alterados (clicando em qualquer um para o diff) e, ali mesmo, <b>aprova</b> ou <b>comenta</b> — por clique ou por voz (&quot;quais PRs estão abertas?&quot;, &quot;aprova a PR 42&quot;).</li>
+  <li><b>Ditados longos ficaram fiéis.</b> Falando sem parar por mais de alguns segundos com o motor de ditado <b>Parakeet</b>, o texto deixa de perder trechos e de trocar de idioma no meio. E, se quiser mexer, as duas partes desse ajuste ficam em <b>Configurações → Diagnóstico</b>.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.35.0.dmg" length="19618012" type="application/octet-stream" sparkle:edSignature="mEzsyHIiXAwO6/U9oScrjJKO4g+Vt4l5rzy0wtlLhdM+Cch78Rch1JJI/VUngxUT++u24um5vx+FvrQPT9c+Bw=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.36.0.dmg" length="19827095" type="application/octet-stream" sparkle:edSignature="gyNgU6VERsnUPp8UgAYoYrIQlcTwuVkS2DVX+Hp8nrat221c2DXIr8KpfvsUu1hJeBLOF8BlVdDRh17qxAnVBQ=="/>
         </item>
     </channel>
 </rss>
