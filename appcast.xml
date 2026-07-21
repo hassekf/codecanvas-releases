@@ -3,17 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.39.0</title>
-            <pubDate>Tue, 21 Jul 2026 01:42:20 -0300</pubDate>
-            <sparkle:version>202607210137</sparkle:version>
-            <sparkle:shortVersionString>1.39.0</sparkle:shortVersionString>
+            <title>1.40.0</title>
+            <pubDate>Tue, 21 Jul 2026 17:37:46 -0300</pubDate>
+            <sparkle:version>202607211732</sparkle:version>
+            <sparkle:shortVersionString>1.40.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>A sua avaliação para de ser uma surpresa.</b> Nos últimos dias, um aviso discreto aparece no alto do canvas com quantos dias faltam e um caminho direto para comprar. Ele fecha quando você quiser, e só volta quando faltar menos tempo que da última vez — nunca duas vezes com o mesmo número.</li>
-  <li><b>A licença virou a primeira aba das Configurações.</b> Enquanto você estiver avaliando, é nela que a janela abre, com os dias restantes em destaque e o botão de comprar ao lado. Depois de ativar, ela sai da frente e as Configurações voltam a abrir na Voz.</li>
+  <li><b>A Nina ganhou um rosto.</b> O novo painel <b>Avatar</b> (⌘K → &quot;Avatar&quot;, ou &quot;abre o avatar&quot; por voz) mostra a assistente como um retrato vivo em chuva de código: ela surge do fundo quando a conversa abre, os olhos se abrem quando ela está te ouvindo, a boca acompanha a voz dela enquanto fala, e ao se despedir ela se dissolve de volta na chuva. O painel é um só no app inteiro — te acompanha entre projetos e abas, como a mídia e a webcam —, veste a cor do tema de cada canvas, e pode ficar largado num canto, sem moldura, do tamanho que você quiser: o rosto nunca corta, e o que sobra da janela vira chuva.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.39.0.dmg" length="19854259" type="application/octet-stream" sparkle:edSignature="1yAqS2vzEsYHP8/6uQCex4rw8sWlqecDWH+UzcsuPYvOEKAfSc74DdhUJkwlgmJUAgEXucz3q5TeYVqO5dIVDw=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.40.0.dmg" length="22127827" type="application/octet-stream" sparkle:edSignature="NB+ir+qKPqO0UMmiU2RF7i4dSZjqgi5A8d52S+MQVjyvPB6PcjFMYOv3JbWaEaHoOCGdFi1xScO1qin6KKxxBg=="/>
         </item>
     </channel>
 </rss>
