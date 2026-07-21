@@ -3,16 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.37.0</title>
-            <pubDate>Mon, 20 Jul 2026 20:12:36 -0300</pubDate>
-            <sparkle:version>202607202008</sparkle:version>
-            <sparkle:shortVersionString>1.37.0</sparkle:shortVersionString>
+            <title>1.38.0</title>
+            <pubDate>Mon, 20 Jul 2026 23:28:25 -0300</pubDate>
+            <sparkle:version>202607202323</sparkle:version>
+            <sparkle:shortVersionString>1.38.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>Cada tema agora tem a sua cor.</b> Antes, quatro dos seis temas dividiam o mesmo destaque coral, e trocar entre eles só mudava o papel de parede — a interface ficava igual. Agora o Bosque é verde, a Enseada é azul, o Grafite ganhou um azul-aço e o Meia-noite, um violeta. A cor do tema tinge o app inteiro: botões, seleção, sliders e o brilho do agente trabalhando.</li>
+  <li><b>O ditado longo no Parakeet sai inteiro, e em português.</b> Áudios com mais de 15 segundos vinham cortados — trechos sumiam no meio e no fim, e o texto escorregava para o inglês no meio da fala. Agora o app corta a sua fala nos silêncios e transcreve cada pedaço à parte, e o resultado sai completo, na sua língua. É automático; quem quiser desligar encontra a chave em Configurações → Diagnóstico.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.37.0.dmg" length="19826516" type="application/octet-stream" sparkle:edSignature="A5wZRlyaLq3WgN3v/Bk3ePDTh/9UsEjxCMBnAMaY+RU/i0MsTKtFBRjOnAbBXrgVs28s7THqHuycC8oCUyeXDw=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.38.0.dmg" length="19837055" type="application/octet-stream" sparkle:edSignature="XqWX06P80V9TLNOeT+o6Zd0u4s50waMHpBRJPVIt/DNvpdkKjViexY2GQswHr8L+oskm7+fpidZ2+0GzlcskBA=="/>
         </item>
     </channel>
 </rss>
