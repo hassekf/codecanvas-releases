@@ -3,16 +3,17 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.38.0</title>
-            <pubDate>Mon, 20 Jul 2026 23:28:25 -0300</pubDate>
-            <sparkle:version>202607202323</sparkle:version>
-            <sparkle:shortVersionString>1.38.0</sparkle:shortVersionString>
+            <title>1.39.0</title>
+            <pubDate>Tue, 21 Jul 2026 01:42:20 -0300</pubDate>
+            <sparkle:version>202607210137</sparkle:version>
+            <sparkle:shortVersionString>1.39.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>O ditado longo no Parakeet sai inteiro, e em português.</b> Áudios com mais de 15 segundos vinham cortados — trechos sumiam no meio e no fim, e o texto escorregava para o inglês no meio da fala. Agora o app corta a sua fala nos silêncios e transcreve cada pedaço à parte, e o resultado sai completo, na sua língua. É automático; quem quiser desligar encontra a chave em Configurações → Diagnóstico.</li>
+  <li><b>A sua avaliação para de ser uma surpresa.</b> Nos últimos dias, um aviso discreto aparece no alto do canvas com quantos dias faltam e um caminho direto para comprar. Ele fecha quando você quiser, e só volta quando faltar menos tempo que da última vez — nunca duas vezes com o mesmo número.</li>
+  <li><b>A licença virou a primeira aba das Configurações.</b> Enquanto você estiver avaliando, é nela que a janela abre, com os dias restantes em destaque e o botão de comprar ao lado. Depois de ativar, ela sai da frente e as Configurações voltam a abrir na Voz.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.38.0.dmg" length="19837055" type="application/octet-stream" sparkle:edSignature="XqWX06P80V9TLNOeT+o6Zd0u4s50waMHpBRJPVIt/DNvpdkKjViexY2GQswHr8L+oskm7+fpidZ2+0GzlcskBA=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.39.0.dmg" length="19854259" type="application/octet-stream" sparkle:edSignature="1yAqS2vzEsYHP8/6uQCex4rw8sWlqecDWH+UzcsuPYvOEKAfSc74DdhUJkwlgmJUAgEXucz3q5TeYVqO5dIVDw=="/>
         </item>
     </channel>
 </rss>
