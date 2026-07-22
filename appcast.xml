@@ -3,17 +3,18 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.41.0</title>
-            <pubDate>Wed, 22 Jul 2026 14:06:52 -0300</pubDate>
-            <sparkle:version>202607221402</sparkle:version>
-            <sparkle:shortVersionString>1.41.0</sparkle:shortVersionString>
+            <title>1.42.0</title>
+            <pubDate>Wed, 22 Jul 2026 17:01:42 -0300</pubDate>
+            <sparkle:version>202607221656</sparkle:version>
+            <sparkle:shortVersionString>1.42.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>Arraste uma pasta — ou qualquer arquivo — do Finder direto para um agente.</b> Solte em cima do painel dele e o caminho aparece escrito na caixa de prompt, pronto para você completar com o pedido e enviar. Funciona com pastas de projeto, PDFs, logs, o que for; soltar fora de um agente segue como antes (imagem vira imagem no canvas). O terminal comum também aprendeu o gesto: o caminho cai na linha de comando, como no Terminal do macOS.</li>
-  <li><b>A busca ganhou um botão na barra.</b> A lupa ao lado do seletor de projetos abre a busca do canvas — a mesma do atalho de teclado, para o dia em que a tecla não vem à memória. O balão do botão relembra o atalho.</li>
+  <li><b>Crie os seus próprios painéis.</b> Uma pasta com duas peças — um <code>modulo.json</code> e um <code>index.html</code> — vira um painel de verdade no canvas: o dashboard das suas vendas, o status de um serviço seu, um número que você busca numa API sua. E o melhor jeito de fazer um é <b>pedir</b>: diga a um agente &quot;cria um painel que mostra X&quot; e ele monta o módulo, abre, olha o resultado e corrige na sua frente — o painel aparece na busca, na voz e no catálogo na hora, sem reiniciar o app. A página do módulo tem superpoderes que uma página comum não tem: chama qualquer API sem esbarrar em CORS, roda scripts da própria pasta (Python, Node, o que você tiver), sabe em que projeto está — o mesmo módulo pode mostrar coisas diferentes em cada canvas — e se veste com o tema e a fonte do projeto. Editou um arquivo? O painel recarrega sozinho. Os módulos moram em Application Support/codeCanvas/modulos, um por pasta, seus para sempre.</li>
+  <li><b>Os módulos falam com a Nina.</b> Declare ações no módulo — &quot;vendas de hoje&quot;, &quot;status do servidor&quot; — e elas viram ferramentas de voz: você pergunta &quot;quanto vendi hoje?&quot; e a Nina roda o seu script e responde falando. Os agentes ganham as mesmas ações. E a nova tela <b>Configurações → Módulos</b> mostra tudo o que você criou (inclusive o que está com problema, e por quê), com um interruptor para desligar um módulo inteiro e outro para tirar as ferramentas da voz sem fechar o painel.</li>
+  <li><b>Painel sem moldura.</b> Um módulo pode pedir <code>&quot;semMoldura&quot;</code>: solto fora da grade, o cabeçalho some e o conteúdo preenche tudo — como a webcam e o avatar. O relógio ou o contador vivendo bonitinho num canto, sem cromo chamando atenção; um clique traz os controles de volta.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.41.0.dmg" length="22147922" type="application/octet-stream" sparkle:edSignature="Hsdd2a5mw5dmJCtmsTQ1OcGtqplvvOnqS3MejAw4407q/SO+mQNM6XxY2zm7B4MaJwWTGcJ8dMTgRzG7wtLwCQ=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.42.0.dmg" length="22455544" type="application/octet-stream" sparkle:edSignature="ni6fua41CyO2xooY/ajDwUp4eGh4e2dov84G/k304SIyPllQuY5dnImGt4i0SD3P9Aq9z0dbh+4CWXZpuV8gCg=="/>
         </item>
     </channel>
 </rss>
