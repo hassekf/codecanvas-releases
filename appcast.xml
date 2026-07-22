@@ -3,16 +3,17 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.40.0</title>
-            <pubDate>Tue, 21 Jul 2026 17:37:46 -0300</pubDate>
-            <sparkle:version>202607211732</sparkle:version>
-            <sparkle:shortVersionString>1.40.0</sparkle:shortVersionString>
+            <title>1.41.0</title>
+            <pubDate>Wed, 22 Jul 2026 14:06:52 -0300</pubDate>
+            <sparkle:version>202607221402</sparkle:version>
+            <sparkle:shortVersionString>1.41.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>A Nina ganhou um rosto.</b> O novo painel <b>Avatar</b> (⌘K → &quot;Avatar&quot;, ou &quot;abre o avatar&quot; por voz) mostra a assistente como um retrato vivo em chuva de código: ela surge do fundo quando a conversa abre, os olhos se abrem quando ela está te ouvindo, a boca acompanha a voz dela enquanto fala, e ao se despedir ela se dissolve de volta na chuva. O painel é um só no app inteiro — te acompanha entre projetos e abas, como a mídia e a webcam —, veste a cor do tema de cada canvas, e pode ficar largado num canto, sem moldura, do tamanho que você quiser: o rosto nunca corta, e o que sobra da janela vira chuva.</li>
+  <li><b>Arraste uma pasta — ou qualquer arquivo — do Finder direto para um agente.</b> Solte em cima do painel dele e o caminho aparece escrito na caixa de prompt, pronto para você completar com o pedido e enviar. Funciona com pastas de projeto, PDFs, logs, o que for; soltar fora de um agente segue como antes (imagem vira imagem no canvas). O terminal comum também aprendeu o gesto: o caminho cai na linha de comando, como no Terminal do macOS.</li>
+  <li><b>A busca ganhou um botão na barra.</b> A lupa ao lado do seletor de projetos abre a busca do canvas — a mesma do atalho de teclado, para o dia em que a tecla não vem à memória. O balão do botão relembra o atalho.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.40.0.dmg" length="22127827" type="application/octet-stream" sparkle:edSignature="NB+ir+qKPqO0UMmiU2RF7i4dSZjqgi5A8d52S+MQVjyvPB6PcjFMYOv3JbWaEaHoOCGdFi1xScO1qin6KKxxBg=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.41.0.dmg" length="22147922" type="application/octet-stream" sparkle:edSignature="Hsdd2a5mw5dmJCtmsTQ1OcGtqplvvOnqS3MejAw4407q/SO+mQNM6XxY2zm7B4MaJwWTGcJ8dMTgRzG7wtLwCQ=="/>
         </item>
     </channel>
 </rss>
