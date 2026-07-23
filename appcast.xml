@@ -3,20 +3,20 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.42.1</title>
-            <pubDate>Thu, 23 Jul 2026 00:58:59 -0300</pubDate>
-            <sparkle:version>202607230054</sparkle:version>
-            <sparkle:shortVersionString>1.42.1</sparkle:shortVersionString>
+            <title>1.43.0</title>
+            <pubDate>Thu, 23 Jul 2026 20:23:00 -0300</pubDate>
+            <sparkle:version>202607232018</sparkle:version>
+            <sparkle:shortVersionString>1.43.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>O opencode chegou ao canvas.</b> Um quarto tipo de agente, ao lado do Claude Code, do Codex e do Grok — e este roda <b>qualquer modelo</b> das contas que você já tem: logou no opencode com o GitHub Copilot, a Anthropic, a OpenAI ou o Google, e os modelos de todas aparecem no mesmo painel (o modelo se escolhe dentro do próprio terminal dele). Ligue-o em Configurações → Provedores e crie pelo ⌘K (&quot;opencode&quot;), pela barra ou por voz — &quot;abre um agente do opencode&quot;. Tudo o que o canvas sabe fazer com os outros vale para ele: o LED de atividade, as notificações, a retomada da conversa ao reabrir o projeto, as ferramentas do canvas e a proteção contra dev servers presos.</li>
-  <li>As gravações de tela ficaram muito mais leves. A nova qualidade <b>Equilibrada</b> — o padrão — corta o tamanho do arquivo em cerca de cinco vezes sem diferença visível: uma demo de 10 minutos que ocupava mais de 1 GB passa a caber em uns 350 MB, e você grava meia hora sem medo do disco. No painel de gravação, escolha <b>Máxima</b> se for editar o vídeo depois, ou <b>Compacta</b> para mandar direto no chat. E o vídeo postado na web agora começa a tocar na hora, sem esperar o arquivo baixar inteiro.</li>
-  <li>Gravou grande e se arrependeu? Cada gravação da lista ganhou um botão <b>comprimir</b>: escolha o quanto apertar e se o resultado sobrescreve o original ou vira uma cópia ao lado — o progresso aparece ali mesmo, e o original nunca é tocado se algo falhar no meio.</li>
-  <li>Suas gravações agora <b>tocam dentro do canvas</b>: o play abre um painel de player, com scrubber, volume e picture-in-picture, sem sair do app — e um botão ao lado continua abrindo no player externo do Mac, para quem preferir. Vale para qualquer vídeo <code>.mp4</code>/<code>.mov</code>/<code>.m4v</code> aberto pelo painel de arquivo, inclusive um que um agente te mostrar.</li>
-  <li>Dois cliques no nome de uma gravação <b>renomeiam o arquivo ali mesmo</b> — chega de &quot;2026-07-21-1831&quot; para sempre: a demo pode se chamar demo.</li>
+  <li><b>Agora dá para escrever para a assistente — e ela pensa na assinatura que você já tem.</b> Aperte ⌘J (ou clique no balão da barra) e uma caixa abre sobre o canvas: peça o que você pediria falando. &quot;Abre dois agentes do Codex&quot;, &quot;quem está trabalhando?&quot;, &quot;traz o Hermes de volta&quot;. Ela faz tudo o que a Nina faz — e usa o Claude Code, o Codex, o Grok ou o opencode que você já assina, sem chave da OpenAI e sem custo à parte.</li>
+  <li><b>Ela sabe em que projeto você está.</b> Pergunte &quot;quem está trabalhando?&quot; e a resposta é sobre o projeto que está na sua tela naquele momento, inclusive a área de trabalho. Troque de projeto no meio da conversa e ela percebe, em vez de responder sobre o anterior.</li>
+  <li><b>Dá para ditar em vez de digitar.</b> Com a caixa aberta, o ⌥D de sempre escreve nela: a caixa vira o painel de escuta, e o que você fala aparece no campo para você conferir antes de mandar.</li>
+  <li><b>E ela pode responder em voz alta.</b> Ligue em Configurações → Conversa e o app lê a resposta com a mesma voz dos avisos — a natural, se você a tiver ligado, senão a do sistema. Em reunião ele continua calado.</li>
+  <li><b>Você escolhe quanto ela ocupa da tela.</b> Só o campo, só a última resposta, ou a conversa inteira — e o histórico completo está sempre a um clique. Ela mostra o que ela respondeu, nunca o emaranhado de um terminal. Clicar em qualquer lugar do canvas fecha, e o que você tinha escrito continua lá quando voltar.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.42.1.dmg" length="22609645" type="application/octet-stream" sparkle:edSignature="JJv5nAEB5co9QVuXkHRtFNkhKoAOIPdgzSoCWI1Hkp9AEmPzdUuBYiqrXcgq4fawnVnP2FnPzXcGW30M59c3CQ=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.43.0.dmg" length="22802140" type="application/octet-stream" sparkle:edSignature="Un6vLMW5VH0A5srTLyrgYX+tdXUnusQl40isS4JcifD4TDDsI/ODArtW/JDOMdKkADbMgGNG7cwcZcsYznTRBA=="/>
         </item>
     </channel>
 </rss>
