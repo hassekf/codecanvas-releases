@@ -3,18 +3,20 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.42.0</title>
-            <pubDate>Wed, 22 Jul 2026 17:01:42 -0300</pubDate>
-            <sparkle:version>202607221656</sparkle:version>
-            <sparkle:shortVersionString>1.42.0</sparkle:shortVersionString>
+            <title>1.42.1</title>
+            <pubDate>Thu, 23 Jul 2026 00:58:59 -0300</pubDate>
+            <sparkle:version>202607230054</sparkle:version>
+            <sparkle:shortVersionString>1.42.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>Crie os seus próprios painéis.</b> Uma pasta com duas peças — um <code>modulo.json</code> e um <code>index.html</code> — vira um painel de verdade no canvas: o dashboard das suas vendas, o status de um serviço seu, um número que você busca numa API sua. E o melhor jeito de fazer um é <b>pedir</b>: diga a um agente &quot;cria um painel que mostra X&quot; e ele monta o módulo, abre, olha o resultado e corrige na sua frente — o painel aparece na busca, na voz e no catálogo na hora, sem reiniciar o app. A página do módulo tem superpoderes que uma página comum não tem: chama qualquer API sem esbarrar em CORS, roda scripts da própria pasta (Python, Node, o que você tiver), sabe em que projeto está — o mesmo módulo pode mostrar coisas diferentes em cada canvas — e se veste com o tema e a fonte do projeto. Editou um arquivo? O painel recarrega sozinho. Os módulos moram em Application Support/codeCanvas/modulos, um por pasta, seus para sempre.</li>
-  <li><b>Os módulos falam com a Nina.</b> Declare ações no módulo — &quot;vendas de hoje&quot;, &quot;status do servidor&quot; — e elas viram ferramentas de voz: você pergunta &quot;quanto vendi hoje?&quot; e a Nina roda o seu script e responde falando. Os agentes ganham as mesmas ações. E a nova tela <b>Configurações → Módulos</b> mostra tudo o que você criou (inclusive o que está com problema, e por quê), com um interruptor para desligar um módulo inteiro e outro para tirar as ferramentas da voz sem fechar o painel.</li>
-  <li><b>Painel sem moldura.</b> Um módulo pode pedir <code>&quot;semMoldura&quot;</code>: solto fora da grade, o cabeçalho some e o conteúdo preenche tudo — como a webcam e o avatar. O relógio ou o contador vivendo bonitinho num canto, sem cromo chamando atenção; um clique traz os controles de volta.</li>
+  <li><b>O opencode chegou ao canvas.</b> Um quarto tipo de agente, ao lado do Claude Code, do Codex e do Grok — e este roda <b>qualquer modelo</b> das contas que você já tem: logou no opencode com o GitHub Copilot, a Anthropic, a OpenAI ou o Google, e os modelos de todas aparecem no mesmo painel (o modelo se escolhe dentro do próprio terminal dele). Ligue-o em Configurações → Provedores e crie pelo ⌘K (&quot;opencode&quot;), pela barra ou por voz — &quot;abre um agente do opencode&quot;. Tudo o que o canvas sabe fazer com os outros vale para ele: o LED de atividade, as notificações, a retomada da conversa ao reabrir o projeto, as ferramentas do canvas e a proteção contra dev servers presos.</li>
+  <li>As gravações de tela ficaram muito mais leves. A nova qualidade <b>Equilibrada</b> — o padrão — corta o tamanho do arquivo em cerca de cinco vezes sem diferença visível: uma demo de 10 minutos que ocupava mais de 1 GB passa a caber em uns 350 MB, e você grava meia hora sem medo do disco. No painel de gravação, escolha <b>Máxima</b> se for editar o vídeo depois, ou <b>Compacta</b> para mandar direto no chat. E o vídeo postado na web agora começa a tocar na hora, sem esperar o arquivo baixar inteiro.</li>
+  <li>Gravou grande e se arrependeu? Cada gravação da lista ganhou um botão <b>comprimir</b>: escolha o quanto apertar e se o resultado sobrescreve o original ou vira uma cópia ao lado — o progresso aparece ali mesmo, e o original nunca é tocado se algo falhar no meio.</li>
+  <li>Suas gravações agora <b>tocam dentro do canvas</b>: o play abre um painel de player, com scrubber, volume e picture-in-picture, sem sair do app — e um botão ao lado continua abrindo no player externo do Mac, para quem preferir. Vale para qualquer vídeo <code>.mp4</code>/<code>.mov</code>/<code>.m4v</code> aberto pelo painel de arquivo, inclusive um que um agente te mostrar.</li>
+  <li>Dois cliques no nome de uma gravação <b>renomeiam o arquivo ali mesmo</b> — chega de &quot;2026-07-21-1831&quot; para sempre: a demo pode se chamar demo.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.42.0.dmg" length="22455544" type="application/octet-stream" sparkle:edSignature="ni6fua41CyO2xooY/ajDwUp4eGh4e2dov84G/k304SIyPllQuY5dnImGt4i0SD3P9Aq9z0dbh+4CWXZpuV8gCg=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.42.1.dmg" length="22609645" type="application/octet-stream" sparkle:edSignature="JJv5nAEB5co9QVuXkHRtFNkhKoAOIPdgzSoCWI1Hkp9AEmPzdUuBYiqrXcgq4fawnVnP2FnPzXcGW30M59c3CQ=="/>
         </item>
     </channel>
 </rss>
