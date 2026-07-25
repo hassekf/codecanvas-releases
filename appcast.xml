@@ -3,17 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.44.1</title>
-            <pubDate>Sat, 25 Jul 2026 14:03:52 -0300</pubDate>
-            <sparkle:version>202607251358</sparkle:version>
-            <sparkle:shortVersionString>1.44.1</sparkle:shortVersionString>
+            <title>1.44.2</title>
+            <pubDate>Sat, 25 Jul 2026 14:30:22 -0300</pubDate>
+            <sparkle:version>202607251425</sparkle:version>
+            <sparkle:shortVersionString>1.44.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>O botão de design está sempre na barra.</b> O pincel do rodapé não espera mais existir um design para aparecer: ele sempre abre o menu de design — e é lá dentro que se cria o primeiro, se trazem os do projeto e se navega pelos artboards.</li>
-  <li><b>Redimensionar painéis parou de ser caça ao pixel.</b> As bordas de browser, mídia e módulos agora respondem de verdade: o cursor vira o de redimensionar quando você chega perto — por dentro e por fora da borda — e o arrasto pega de primeira, em qualquer painel.</li>
+  <li><b>Os módulos agora avisam você.</b> Um módulo pode disparar avisos do app — o cartãozinho na tela e o sino — do jeito que ele decidir: rápido ou fixo, com ou sem som, lido em voz alta ou não, e com um botão que leva você até ele (ou o traz para a área em que você está). Avisos repetidos se reescrevem no lugar, nunca empilham.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.44.1.dmg" length="23829462" type="application/octet-stream" sparkle:edSignature="T2o27ViZ6EQjIAyq0LWtHriBGRR+sOStKl8bN88CvHHBgElAA9gxOg/KtILe0lrECzA9Ewx6X9wWuaVLBQXPCw=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.44.2.dmg" length="23841704" type="application/octet-stream" sparkle:edSignature="rjCTHnG6YpmFKAwV2OrsqRD3AB/hiVytav6W/3U5Bsl0JxzWVqeIk5Ywmz7J7iph5EFnx59MaMZYkMMpBYZ9DA=="/>
         </item>
     </channel>
 </rss>
