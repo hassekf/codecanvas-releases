@@ -3,16 +3,20 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.44.3</title>
-            <pubDate>Sat, 25 Jul 2026 15:19:41 -0300</pubDate>
-            <sparkle:version>202607251514</sparkle:version>
-            <sparkle:shortVersionString>1.44.3</sparkle:shortVersionString>
+            <title>1.44.4</title>
+            <pubDate>Sat, 25 Jul 2026 18:08:41 -0300</pubDate>
+            <sparkle:version>202607251803</sparkle:version>
+            <sparkle:shortVersionString>1.44.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li>A leitura em voz alta dos avisos de módulo ficou natural: a voz fala uma frase limpa, em vez de ler os separadores visuais do cartão.</li>
+  <li><b>O ditado passa a ouvir na hora.</b> Calar o som dos painéis abertos deixou de segurar a abertura do microfone: você aperta e já pode falar, sem aquele instante em que a tela diz &quot;ouvindo&quot; e as primeiras palavras se perdem.</li>
+  <li>Chamou a Nina e mudou de ideia enquanto ela ainda estava subindo? Aperte a tecla de novo e ela desiste — e diz na tela que desistiu, em vez de te deixar sem resposta.</li>
+  <li><b>O nome que você deu à assistente vale no app inteiro.</b> Se você a chama de outra coisa, era só metade: o painel do rosto dela continuava com o nome de fábrica no cabeçalho, e as telas de Configurações falavam dela por um nome que não é o que você usa. Agora é um só — o painel, os ajustes, os avisos e o histórico das tarefas passam a chamá-la como você a chama, nas três línguas, e mudam na hora em que você troca o nome.</li>
+  <li><b>A assistente enxerga os seus outros projetos.</b> Antes ela só via o que estava na sua frente — e, perguntada sobre outro projeto, respondia sobre o da tela com a maior convicção. Agora ela sabe quais projetos existem, consulta os outros quando você pergunta de mais de um (&quot;e nos outros projetos, como estão?&quot;), e não diz mais que um projeto seu não existe.</li>
+  <li><b>&quot;Me leva lá&quot; leva.</b> O destino pode ser um agente ou um projeto inteiro, e &quot;lá&quot; é a última coisa que ela mencionou — não é preciso repetir o nome nem explicar qual das duas coisas você quis dizer. Pedir foco num agente de outro projeto também funciona: ela vai até lá e destaca o painel, de uma vez. E ela passou a distinguir com todas as letras trocar de <b>projeto</b> de trocar de <b>área de trabalho</b> (as abas dentro do mesmo projeto), que antes se confundiam e levavam você para o lugar errado sem nenhum aviso na tela.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.44.3.dmg" length="23841976" type="application/octet-stream" sparkle:edSignature="GFc3/exx9BjaSjAs0TzJ6nZE6zEWtPoVsXDjtdHInbK4kTOl5iGGmm2S8KZ44OO35vys2H05rwnpP9DRaySUBQ=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.44.4.dmg" length="23889467" type="application/octet-stream" sparkle:edSignature="9qS7OwAVMRDvU4oQf9LxZb8pZR7QwRVhZqhRjZ0VVB/oGnhbgOb4VtpmC8qAm58RW0+i0//2+wSkILfoipfFBw=="/>
         </item>
     </channel>
 </rss>
