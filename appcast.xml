@@ -3,19 +3,19 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.45.3</title>
-            <pubDate>Tue, 28 Jul 2026 13:12:02 -0300</pubDate>
-            <sparkle:version>202607281306</sparkle:version>
-            <sparkle:shortVersionString>1.45.3</sparkle:shortVersionString>
+            <title>1.45.4</title>
+            <pubDate>Tue, 28 Jul 2026 14:09:27 -0300</pubDate>
+            <sparkle:version>202607281403</sparkle:version>
+            <sparkle:shortVersionString>1.45.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>Pergunte quem já mexeu naquilo — e ouça o nome certo.</b> &quot;Quem cuidou da tela de login?&quot;, &quot;alguém já trabalhou no pagamento?&quot;: a assistente agora procura no histórico de <b>todos</b> os agentes do projeto, inclusive os que você guardou meses atrás, e responde com o que cada um entregou e quando. Antes ela só enxergava o último recado de cada um, e dava por inexistente um trabalho que existe. Se pedir, ela procura em todos os projetos de uma vez.</li>
-  <li><b>O elenco mostra tudo o que cada agente entregou.</b> Clique num nome da lista e a linha do tempo dele se abre ali mesmo, da entrega mais recente para a mais antiga — a mesma que estava só no verso do painel, e que para um agente guardado não havia como ver. A busca do elenco passa a varrer esse histórico junto do nome: digite &quot;pagamento&quot; e aparece quem trabalhou nisso, com a entrega que casou na própria linha.</li>
-  <li><b>Clique no arquivo que o agente citou e ele abre.</b> Todo caminho impresso num terminal — o que o agente acabou de editar, o que o <code>ls</code> listou — vira um clique: o que o canvas sabe mostrar abre num painel aqui dentro (código, texto, imagem), páginas e PDFs vão para o navegador do canvas, pastas aparecem no Finder e o resto abre no app do Mac que cuida daquilo. Vale também para o caminho relativo que o agente escreveu, contado de onde ele está trabalhando. #### Correções</li>
-  <li>Um arquivo de design criado ou editado fora do app podia ser apagado sem aviso: se ele tinha qualquer erro de formato, o canvas o mostrava como se estivesse em branco, e a primeira coisa que um agente desenhasse era gravada por cima do que havia lá. Agora o arquivo que o app não entende fica protegido — nada é gravado nele, e o agente recebe a lista do que está errado, com o lugar de cada erro. Corrigido o arquivo, o design volta a funcionar sozinho. <b>A barra de frentes agora acompanha o repositório ao vivo.</b> Ela deixou de ficar perguntando ao projeto de tempos em tempos: quando alguém commita, cria uma worktree ou mexe num arquivo, a linha daquela frente muda sozinha em cerca de um segundo. Antes a novidade podia levar até doze segundos para aparecer — e, em projetos com muitas frentes, aquela consulta periódica prendia o teclado por um instante a cada volta. Quanto mais frentes você tinha, mais vezes isso acontecia. Agora a barra é mais rápida para contar o que mudou e não atrapalha mais quem está digitando.</li>
+  <li><b>Os designs ganharam vidro fosco, foto de fundo e telas que crescem com o conteúdo.</b> Peça um cartão translúcido e o que passa por baixo dele <b>desfoca de verdade</b>, como no iOS — e a sombra continua lá, coisa que antes não dava para ter junto. Uma foto pode ser o fundo de um bloco que continua organizando o que está por cima (o hero com imagem, botões no topo e o nome no rodapé virou uma coisa só). Um elemento pode <b>flutuar</b> sobre os outros sem bagunçar o empilhamento: barra fixa no rodapé, botão que acompanha a rolagem, selo no canto do avatar. E uma tela pode simplesmente <b>crescer até onde o conteúdo dela terminar</b>, em vez de você adivinhar a altura.</li>
+  <li><b>Ícone colorido volta a funcionar.</b> Pedir um ícone numa cor (ou num degradê) fazia ele desaparecer, sem erro nenhum — o desenho ficava invisível e ninguém sabia por quê. Agora pinta.</li>
+  <li><b>A tipografia obedece.</b> Um design que pede uma fonte que ainda não chegou não cai mais numa fonte com serifa que destoa de tudo, e uma fonte guardada dentro do arquivo do design é reconhecida pelo nome com que os sites de fonte a entregam (<code>…-Regular</code>, <code>…-Bold</code>), sem precisar renomear nada.</li>
+  <li><b>Foto de uma tela só, nítida, mesmo num arquivo grande.</b> Quando o agente confere o que acabou de desenhar, ele fotografa aquela prancheta — e num arquivo com dezenas de telas a foto saía esbranquiçada, às vezes mostrando a tela vizinha. Ele passava a corrigir o que não estava errado.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.45.3.dmg" length="26144182" type="application/octet-stream" sparkle:edSignature="WbaARRVbzpuJYZgmON+O131TmsU80MIeE5yHwAHIGosRU+E55yPMd3KTkoWR5cz5lfCiQm1tRm2MRB/FOU3gCQ=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.45.4.dmg" length="26168993" type="application/octet-stream" sparkle:edSignature="W0OeL1y85qw8BzpC61moxs50FuJOAVWsa7LCeF5laQuWNsglWftvhB5jHlhmPGxhb+a7nlA0zI6kiCI0KtllAQ=="/>
         </item>
     </channel>
 </rss>
