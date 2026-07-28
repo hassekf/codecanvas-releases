@@ -3,16 +3,20 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.45.1</title>
-            <pubDate>Mon, 27 Jul 2026 20:42:13 -0300</pubDate>
-            <sparkle:version>202607272036</sparkle:version>
-            <sparkle:shortVersionString>1.45.1</sparkle:shortVersionString>
+            <title>1.45.2</title>
+            <pubDate>Mon, 27 Jul 2026 23:03:00 -0300</pubDate>
+            <sparkle:version>202607272257</sparkle:version>
+            <sparkle:shortVersionString>1.45.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li>O convite de contato ficava numa tela em branco, sem gerar código e sem dizer por quê.</li>
+  <li><b>A barra mostra todos os agentes, não só os que já criaram branch.</b> Quem está só lendo o código, ou acabou de nascer, aparece na área dele com o estado — e clicar leva até lá. E &quot;sem painel aberto&quot; nasce recolhido: é o elenco que você não está usando agora.</li>
+  <li><b>O arquivo aberto já vai para o agente.</b> No painel que mostra um arquivo há um botão que copia o endereço completo dele, e o clique direito ganhou &quot;Enviar para um agente&quot;: escolha alguém do projeto (ou de outro projeto, pelo submenu) e ele recebe o pedido de dar uma olhada no arquivo, com o caminho junto. Se estiver dormindo, acorda para receber.</li>
+  <li><b>Dois agentes de projetos diferentes podem conversar — quando você deixa.</b> O agente do app precisa saber o formato que o backend devolve, e o backend é outro projeto: agora ele pede, você autoriza com um clique, e os dois resolvem entre si. Você vê quem quer falar com quem, sobre o quê, e quantas mensagens está liberando; no cabeçalho do painel fica a conversa aberta, com quanto ainda cabe. Nada começa sozinho, e o que é decisão sua continua vindo para você. Você também pode ligar os dois por voz: <i>&quot;deixa o Tristão falar com a Gerda do backend&quot;</i>. #### Correções</li>
+  <li>A barra de frentes num repositório grande: nomes de branch longos desmontavam a linha, e um projeto com centenas de branches deixava o app lento. Agentes agrupados em abas trocando de lugar sozinhos, saltando para fora da tela ou ficando flutuando por cima dos outros.</li>
+  <li>Um agente que abre a <b>segunda</b> frente dele deixava de ser reconhecido — aparecia como se não tivesse painel aberto, mesmo estando na tela.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.45.1.dmg" length="25784673" type="application/octet-stream" sparkle:edSignature="hD/HUyzfxd9z6kpLBi8SPN3cMC1rLS+ouujB9PQuCdhHTlwMgF0XU/kct4xpQPCajAIkTcGH6jnuvmLuEf9DAQ=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.45.2.dmg" length="25918659" type="application/octet-stream" sparkle:edSignature="gWWEG+sasY9RekK2MXjOcOT8epRBYQ2yYoPG1pskhaNDbnzAPlTxg6xaIW1dyzTBpNntwSexSZZCOzYyJBWxAg=="/>
         </item>
     </channel>
 </rss>
