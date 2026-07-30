@@ -3,18 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.46.1</title>
-            <pubDate>Wed, 29 Jul 2026 16:26:16 -0300</pubDate>
-            <sparkle:version>202607291620</sparkle:version>
-            <sparkle:shortVersionString>1.46.1</sparkle:shortVersionString>
+            <title>1.46.2</title>
+            <pubDate>Thu, 30 Jul 2026 17:33:07 -0300</pubDate>
+            <sparkle:version>202607301727</sparkle:version>
+            <sparkle:shortVersionString>1.46.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>As Configurações agora têm busca.</b> Um campo no topo da barra lateral procura em tudo o que está escrito lá dentro: o nome de cada ajuste, a explicação embaixo dele, as seções e as teclas de atalho. Escolha um resultado e a janela abre a seção certa, rola até o ajuste e o acende — nada de abrir sete abas atrás daquele interruptor de que você lembrava só uma palavra. As setas percorrem os resultados, e cada parada já mostra o ajuste na tela. Ela entende sinônimos e perdoa a grafia: &quot;dark mode&quot; leva à Interface, &quot;mic&quot; ao microfone.</li>
-  <li><b>A luz do agente trabalhando voltou a respirar.</b> Depois de um tempo de trabalho ela perdia o ritmo, ficava quase apagada e, do nada, dava um clarão forte que sumia no mesmo instante. Agora ela acende, respira e apaga sem sobressalto — do começo ao fim do trabalho.</li>
-  <li><b>&quot;Terminou&quot; só é dito quando ele terminou mesmo.</b> Um agente que resume a própria conversa para seguir trabalhando — o que acontece sozinho, quando ele já trabalhou bastante — era anunciado como se tivesse entregado: o aviso, o som, a voz e a resposta na conversa chegavam no meio da tarefa, e tudo se repetia quando ele de fato acabava. O canvas passou a distinguir uma coisa da outra.</li>
+  <li>Melhorias de estabilidade e pequenos consertos.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.46.1.dmg" length="26607747" type="application/octet-stream" sparkle:edSignature="UFxLJR4OCvUvg7U/fGJlRzjHeaoMPzkNct7Jz515X4ouYFyIeZ8PW2rG9EqokMCiQX4hTegWhysqGor1IO4cDQ=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.46.2.dmg" length="26609645" type="application/octet-stream" sparkle:edSignature="iFx90MnCkesNVo4TdiNjvKUNDMNYwrLqd7jrHB/EpJGUlVH5hCRKd6Hlok0E1+8/QqnTb/oGkH77X3xVIpyCBw=="/>
         </item>
     </channel>
 </rss>
