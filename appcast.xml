@@ -3,22 +3,21 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.46.3</title>
-            <pubDate>Fri, 31 Jul 2026 14:58:07 -0300</pubDate>
-            <sparkle:version>202607311452</sparkle:version>
-            <sparkle:shortVersionString>1.46.3</sparkle:shortVersionString>
+            <title>1.47.0</title>
+            <pubDate>Mon, 03 Aug 2026 18:06:30 -0300</pubDate>
+            <sparkle:version>202608031800</sparkle:version>
+            <sparkle:shortVersionString>1.47.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li>O recado que chega <b>avisa você</b> — com um aviso na tela e um banner do Mac, mesmo com o app atrás de outra janela. Clicar abre o recado por cima do canvas: você lê, responde e volta ao que estava fazendo, sem abrir painel nenhum.</li>
-  <li><b>O que vem junto no recado agora faz alguma coisa.</b> Uma imagem você cola no canvas, um texto ou um código você abre para ler, um design entra como arquivo novo do projeto e abre na superfície, e qualquer arquivo você guarda onde quiser. Um link do YouTube abre na mídia; um endereço comum, no navegador.</li>
-  <li><b>Mande o recado inteiro para um agente.</b> Ele recebe quem escreveu, o assunto, o texto e os arquivos que vieram junto — sem você copiar, colar nem explicar de novo. Um recado que propõe trabalho abre um agente já a par de tudo.</li>
-  <li>A caixa ganhou a metade que faltava: <b>Enviados</b>. Dá para ver o que você mandou, para quem, e o que não saiu — com o motivo.</li>
-  <li><b>&quot;Enviar a um contato&quot; agora também no arquivo aberto</b> (um Markdown, um trecho de código).</li>
-  <li>Quando um contato passa a usar um Mac novo, o app avisa — é a hora de confirmar com a pessoa antes de abrir o que ela mandar.</li>
-  <li>Ao criar um design, <b>você escolhe quem desenha</b>: ninguém por enquanto (o arquivo nasce e fica esperando você), um agente que já está no canvas, ou um agente novo só para ele. Antes o briefing ia sempre para o primeiro agente da área, sem perguntar.</li>
+  <li><b>Cada tema agora tem uma paisagem — e ela se mexe.</b> O fundo do canvas deixou de ser só o degradê: cada tema vem com uma cena própria, em movimento e sem som, que aparece por trás dos painéis. É o novo padrão, inclusive nos projetos que você já tem.</li>
+  <li><b>Três formas de mostrar essa paisagem, dentro do card de cada tema.</b> Animada, parada (com três cenas para escolher) ou nenhuma — aí volta o degradê de sempre, para quem quer que só o trabalho tenha cor.</li>
+  <li><b>Você vê a troca acontecer no canvas enquanto escolhe.</b> Clicou num tema, a tela toda muda na hora; se desistir e cancelar, tudo volta ao que era.</li>
+  <li><b>Marfim: o codeCanvas ganhou um tema claro.</b> Creme e champanhe, com a interface inteira virada para o claro — texto, campos, menus e folhas. O painel onde o agente escreve continua escuro, para a saída dele continuar legível.</li>
+  <li><b>Três temas novos: Rubi, Aurora e Terracota.</b> Vinho escuro e carmesim; ciano e menta, luminoso; argila e coral queimado. Com paisagem própria, como todos os outros.</li>
+  <li><b>O papel de parede seu ganhou um lugar próprio</b> — o card &quot;Customizar papel de parede&quot;, que abre quando você quiser. Continua tudo lá dentro: escolher um arquivo, ou pedir uma imagem e deixar o canvas buscá-la ou pintá-la.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.46.3.dmg" length="26805312" type="application/octet-stream" sparkle:edSignature="hz/u3w9ad+QgIfhz4+mKyRjN38tKetD/tIluh6Xl5WI4Va1PJEoL1X4Yjvau1ICZaU/w0gHxiAkNy/2NEQjvDw=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.47.0.dmg" length="50367453" type="application/octet-stream" sparkle:edSignature="8ezsEYpFaOuBC2DhnVrQeOKNjXQBn6TUGJSsyMrkCQ7eMMLw5EB/znjZjQwuxbR2M8OWN6PN9R5MoglB11PzCA=="/>
         </item>
     </channel>
 </rss>
