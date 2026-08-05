@@ -3,16 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.48.0</title>
-            <pubDate>Wed, 05 Aug 2026 18:14:40 -0300</pubDate>
-            <sparkle:version>202608051808</sparkle:version>
-            <sparkle:shortVersionString>1.48.0</sparkle:shortVersionString>
+            <title>1.48.1</title>
+            <pubDate>Wed, 05 Aug 2026 19:36:52 -0300</pubDate>
+            <sparkle:version>202608051929</sparkle:version>
+            <sparkle:shortVersionString>1.48.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>Dite um nome de tabela ou um caminho de arquivo e ele chega escrito como se você tivesse digitado.</b> O &quot;underline&quot;, a &quot;barra&quot; e o &quot;ponto&quot; que você fala viram <code>_</code>, <code>/</code> e <code>.</code> — dizer <i>&quot;a tabela slotflix underline api underline credentials&quot;</i> manda <code>slotflix_api_credentials</code> para o agente, e não três palavras soltas que ele vai procurar e não achar. Frase normal continua frase: <i>&quot;na barra aqui embaixo&quot;</i> e <i>&quot;até que ponto isso compensa&quot;</i> passam intactas.</li>
+  <li>Melhorias de estabilidade e pequenos consertos.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.48.0.dmg" length="53272165" type="application/octet-stream" sparkle:edSignature="3vkR5/Va1nRczrL1ksTN0+Si0FUzCeHmrj6T9Ocf6OxfQhPPJgjhS1tyFBz2NxI3eGOBbBL2tnYSIoh/oaa4CQ=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.48.1.dmg" length="53465450" type="application/octet-stream" sparkle:edSignature="vG02Znqr9A7PPaIY11ghxBzyvRL9OCxGb3zYKUsBCHeuCX5QvizQMmfc1RiauUV17q5b5PEgq1s/776Z5lf6Bg=="/>
         </item>
     </channel>
 </rss>
