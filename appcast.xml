@@ -3,21 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.47.0</title>
-            <pubDate>Mon, 03 Aug 2026 18:06:30 -0300</pubDate>
-            <sparkle:version>202608031800</sparkle:version>
-            <sparkle:shortVersionString>1.47.0</sparkle:shortVersionString>
+            <title>1.48.0</title>
+            <pubDate>Wed, 05 Aug 2026 18:14:40 -0300</pubDate>
+            <sparkle:version>202608051808</sparkle:version>
+            <sparkle:shortVersionString>1.48.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>Cada tema agora tem uma paisagem — e ela se mexe.</b> O fundo do canvas deixou de ser só o degradê: cada tema vem com uma cena própria, em movimento e sem som, que aparece por trás dos painéis. É o novo padrão, inclusive nos projetos que você já tem.</li>
-  <li><b>Três formas de mostrar essa paisagem, dentro do card de cada tema.</b> Animada, parada (com três cenas para escolher) ou nenhuma — aí volta o degradê de sempre, para quem quer que só o trabalho tenha cor.</li>
-  <li><b>Você vê a troca acontecer no canvas enquanto escolhe.</b> Clicou num tema, a tela toda muda na hora; se desistir e cancelar, tudo volta ao que era.</li>
-  <li><b>Marfim: o codeCanvas ganhou um tema claro.</b> Creme e champanhe, com a interface inteira virada para o claro — texto, campos, menus e folhas. O painel onde o agente escreve continua escuro, para a saída dele continuar legível.</li>
-  <li><b>Três temas novos: Rubi, Aurora e Terracota.</b> Vinho escuro e carmesim; ciano e menta, luminoso; argila e coral queimado. Com paisagem própria, como todos os outros.</li>
-  <li><b>O papel de parede seu ganhou um lugar próprio</b> — o card &quot;Customizar papel de parede&quot;, que abre quando você quiser. Continua tudo lá dentro: escolher um arquivo, ou pedir uma imagem e deixar o canvas buscá-la ou pintá-la.</li>
+  <li><b>Dite um nome de tabela ou um caminho de arquivo e ele chega escrito como se você tivesse digitado.</b> O &quot;underline&quot;, a &quot;barra&quot; e o &quot;ponto&quot; que você fala viram <code>_</code>, <code>/</code> e <code>.</code> — dizer <i>&quot;a tabela slotflix underline api underline credentials&quot;</i> manda <code>slotflix_api_credentials</code> para o agente, e não três palavras soltas que ele vai procurar e não achar. Frase normal continua frase: <i>&quot;na barra aqui embaixo&quot;</i> e <i>&quot;até que ponto isso compensa&quot;</i> passam intactas.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.47.0.dmg" length="50367453" type="application/octet-stream" sparkle:edSignature="8ezsEYpFaOuBC2DhnVrQeOKNjXQBn6TUGJSsyMrkCQ7eMMLw5EB/znjZjQwuxbR2M8OWN6PN9R5MoglB11PzCA=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.48.0.dmg" length="53272165" type="application/octet-stream" sparkle:edSignature="3vkR5/Va1nRczrL1ksTN0+Si0FUzCeHmrj6T9Ocf6OxfQhPPJgjhS1tyFBz2NxI3eGOBbBL2tnYSIoh/oaa4CQ=="/>
         </item>
     </channel>
 </rss>
