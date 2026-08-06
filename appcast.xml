@@ -3,16 +3,17 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.48.1</title>
-            <pubDate>Wed, 05 Aug 2026 19:36:52 -0300</pubDate>
-            <sparkle:version>202608051929</sparkle:version>
-            <sparkle:shortVersionString>1.48.1</sparkle:shortVersionString>
+            <title>1.49.0</title>
+            <pubDate>Thu, 06 Aug 2026 15:22:32 -0300</pubDate>
+            <sparkle:version>202608061516</sparkle:version>
+            <sparkle:shortVersionString>1.49.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li>Melhorias de estabilidade e pequenos consertos.</li>
+  <li><b>O manual do CanvasCode, dentro do app.</b> Aperte <code>⌘K</code> e digite <b>ajuda</b>: o manual inteiro abre num painel do canvas, no idioma em que você usa o app. São 77 páginas sobre tudo o que existe aqui, de como criar o primeiro agente ao que pedir para a Nina, e elas vêm do site, então o texto continua atualizado mesmo numa versão instalada há meses.</li>
+  <li><b>O aviso que você desligou no celular fica desligado.</b> Nos Ajustes do Canvas Companion você escolhe para o que quer ser chamado — um agente que pergunta, um que termina, um que caiu — e o silêncio da noite. Essa escolha não saía do telefone, e o Mac tocava tudo assim mesmo. Agora ele obedece, e cada aparelho tem a sua: o iPhone de cabeceira pode ficar só com as perguntas enquanto o outro recebe tudo. O que você desligou continua aparecendo na Atividade do app — some a campainha, não o registro.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.48.1.dmg" length="53465450" type="application/octet-stream" sparkle:edSignature="vG02Znqr9A7PPaIY11ghxBzyvRL9OCxGb3zYKUsBCHeuCX5QvizQMmfc1RiauUV17q5b5PEgq1s/776Z5lf6Bg=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.49.0.dmg" length="53524170" type="application/octet-stream" sparkle:edSignature="koOG3zPlI0KYLGS56jJDjCqkBSu54AmzriyjL/1HR8B1UrPtnjZp50wL1ao4HBWfIzO8CquU5fL1fdbWu+t7CQ=="/>
         </item>
     </channel>
 </rss>
