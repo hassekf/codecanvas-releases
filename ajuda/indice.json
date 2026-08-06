@@ -1,0 +1,1259 @@
+{
+  "versao": 1,
+  "origem": "fcd6b6e80acfdfa4d8e86903e01cbd02c0de321d",
+  "publicado_em": "2026-08-06T14:51:41+00:00",
+  "idiomas": [
+    "pt",
+    "en",
+    "es"
+  ],
+  "areas": [
+    "comecando",
+    "canvas",
+    "agentes",
+    "paineis",
+    "design",
+    "iniciativas",
+    "modulos",
+    "nina",
+    "agentes-fazem",
+    "projeto",
+    "ajustes",
+    "integracoes",
+    "conta"
+  ],
+  "paginas": [
+    {
+      "slug": "o-basico-em-cinco-minutos",
+      "area": "comecando",
+      "nivel": "basico",
+      "ordem": 0,
+      "titulo": {
+        "pt": "O básico em cinco minutos",
+        "en": "The basics in five minutes",
+        "es": "Lo básico en cinco minutos"
+      },
+      "resumo": {
+        "pt": "O mapa do CanvasCode: o que existe, onde fica, e a página que explica cada parte.",
+        "en": "The map of CanvasCode: what exists, where it lives, and the page that explains each part.",
+        "es": "El mapa de CanvasCode: qué existe, dónde está, y la página que explica cada parte."
+      }
+    },
+    {
+      "slug": "instalar",
+      "area": "comecando",
+      "nivel": "basico",
+      "ordem": 1,
+      "titulo": {
+        "pt": "Instalar o CanvasCode",
+        "en": "Installing CanvasCode",
+        "es": "Instalar CanvasCode"
+      },
+      "resumo": {
+        "pt": "O que baixar, o que o Mac exige, e como o app se atualiza depois.",
+        "en": "What to download, what the Mac requires, and how the app updates itself afterwards.",
+        "es": "Qué descargar, qué exige el Mac, y cómo se actualiza la app después."
+      }
+    },
+    {
+      "slug": "permissoes-do-mac",
+      "area": "comecando",
+      "nivel": "basico",
+      "ordem": 2,
+      "titulo": {
+        "pt": "As permissões que o macOS pede",
+        "en": "The permissions macOS asks for",
+        "es": "Los permisos que pide macOS"
+      },
+      "resumo": {
+        "pt": "Cada permissão que o sistema pergunta, o que ela libera, o que quebra ao negar, e como fazer o Mac perguntar de novo.",
+        "en": "Each permission the system asks about, what it unlocks, what breaks if you deny it, and how to make the Mac ask again.",
+        "es": "Cada permiso que pregunta el sistema, qué desbloquea, qué se rompe al negarlo, y cómo hacer que el Mac pregunte de nuevo."
+      }
+    },
+    {
+      "slug": "escolher-o-projeto",
+      "area": "comecando",
+      "nivel": "basico",
+      "ordem": 3,
+      "titulo": {
+        "pt": "Escolher o projeto",
+        "en": "Choosing the project",
+        "es": "Elegir el proyecto"
+      },
+      "resumo": {
+        "pt": "Criar um projeto, apontar a pasta, trocar de projeto, e o que acontece com os agentes quando a pasta muda.",
+        "en": "Creating a project, pointing at the folder, switching projects, and what happens to the agents when the folder changes.",
+        "es": "Crear un proyecto, señalar la carpeta, cambiar de proyecto, y qué pasa con los agentes cuando la carpeta cambia."
+      }
+    },
+    {
+      "slug": "primeiro-agente",
+      "area": "comecando",
+      "nivel": "basico",
+      "ordem": 4,
+      "titulo": {
+        "pt": "O primeiro agente",
+        "en": "The first agent",
+        "es": "El primer agente"
+      },
+      "resumo": {
+        "pt": "Instalar o programa de agente, criar o painel, mandar a primeira tarefa e ler o estado dele.",
+        "en": "Installing the agent program, creating the panel, sending the first task and reading the agent's state.",
+        "es": "Instalar el programa de agente, crear el panel, mandar la primera tarea y leer su estado."
+      }
+    },
+    {
+      "slug": "mover-e-dar-zoom",
+      "area": "canvas",
+      "nivel": "basico",
+      "ordem": 5,
+      "titulo": {
+        "pt": "Mover e dar zoom",
+        "en": "Panning and zooming",
+        "es": "Mover y hacer zoom"
+      },
+      "resumo": {
+        "pt": "Os gestos que movem a câmera do canvas, os limites do zoom, e o que muda na tela quando você se afasta.",
+        "en": "The gestures that move the canvas camera, the zoom limits, and what changes on screen as you pull back.",
+        "es": "Los gestos que mueven la cámara del lienzo, los límites del zoom, y qué cambia en pantalla cuando te alejas."
+      }
+    },
+    {
+      "slug": "os-paineis-e-a-mesa",
+      "area": "canvas",
+      "nivel": "basico",
+      "ordem": 6,
+      "titulo": {
+        "pt": "Os painéis e a mesa",
+        "en": "Panels and the table",
+        "es": "Los paneles y la mesa"
+      },
+      "resumo": {
+        "pt": "Abrir, mover, redimensionar, selecionar e fechar painéis, e os dois modos em que a mesa se arruma.",
+        "en": "Opening, moving, resizing, selecting and closing panels, and the two modes the table arranges itself in.",
+        "es": "Abrir, mover, redimensionar, seleccionar y cerrar paneles, y los dos modos en que la mesa se ordena."
+      }
+    },
+    {
+      "slug": "minimizar-e-a-estante",
+      "area": "canvas",
+      "nivel": "basico",
+      "ordem": 7,
+      "titulo": {
+        "pt": "Minimizar e a estante",
+        "en": "Minimizing and the shelf",
+        "es": "Minimizar y el estante"
+      },
+      "resumo": {
+        "pt": "Guardar um painel sem fechá-lo, e a lista de tudo o que está aberto neste projeto.",
+        "en": "Putting a panel away without closing it, and the list of everything open in this project.",
+        "es": "Guardar un panel sin cerrarlo, y la lista de todo lo que está abierto en este proyecto."
+      }
+    },
+    {
+      "slug": "areas-de-trabalho",
+      "area": "canvas",
+      "nivel": "basico",
+      "ordem": 8,
+      "titulo": {
+        "pt": "Áreas de trabalho",
+        "en": "Work areas",
+        "es": "Áreas de trabajo"
+      },
+      "resumo": {
+        "pt": "As abas do canvas: o que cada uma guarda, como trocar, e como levar painéis de uma para a outra.",
+        "en": "The canvas tabs: what each one holds, how to switch, and how to take panels from one to another.",
+        "es": "Las pestañas del lienzo: qué guarda cada una, cómo cambiar, y cómo llevar paneles de una a otra."
+      }
+    },
+    {
+      "slug": "varios-canvases",
+      "area": "canvas",
+      "nivel": "basico",
+      "ordem": 9,
+      "titulo": {
+        "pt": "Vários canvases",
+        "en": "Several canvases",
+        "es": "Varios canvases"
+      },
+      "resumo": {
+        "pt": "Cada canvas é um projeto com a sua pasta: criar, trocar sem interromper ninguém, fechar, e a tela inicial.",
+        "en": "Each canvas is a project with its own folder: creating, switching without interrupting anyone, closing, and the home screen.",
+        "es": "Cada canvas es un proyecto con su carpeta: crear, cambiar sin interrumpir a nadie, cerrar, y la pantalla inicial."
+      }
+    },
+    {
+      "slug": "busca-e-comandos",
+      "area": "canvas",
+      "nivel": "basico",
+      "ordem": 10,
+      "titulo": {
+        "pt": "A busca do canvas",
+        "en": "Canvas search",
+        "es": "La búsqueda del lienzo"
+      },
+      "resumo": {
+        "pt": "O ⌘K: ir a um painel aberto, criar o que ainda não existe, chamar um agente de volta e abrir um endereço.",
+        "en": "⌘K: go to an open panel, create one that doesn't exist yet, recall an agent, and open an address.",
+        "es": "⌘K: ir a un panel abierto, crear el que aún no existe, recuperar un agente y abrir una dirección."
+      }
+    },
+    {
+      "slug": "aparencia",
+      "area": "canvas",
+      "nivel": "basico",
+      "ordem": 11,
+      "titulo": {
+        "pt": "A aparência do projeto",
+        "en": "The project's appearance",
+        "es": "La apariencia del proyecto"
+      },
+      "resumo": {
+        "pt": "Tema, paisagem de fundo, véu, papel de parede e fonte da interface, escolhidos por projeto.",
+        "en": "Theme, background scenery, veil, wallpaper and interface font, chosen per project.",
+        "es": "Tema, paisaje de fondo, velo, fondo de pantalla y fuente de la interfaz, elegidos por proyecto."
+      }
+    },
+    {
+      "slug": "organizar-sozinho",
+      "area": "canvas",
+      "nivel": "basico",
+      "ordem": 12,
+      "titulo": {
+        "pt": "Arrumar o canvas",
+        "en": "Tidying the canvas",
+        "es": "Organizar el lienzo"
+      },
+      "resumo": {
+        "pt": "O comando que desempilha os painéis, o modo em que o app arruma sozinho, e os arranjos guardados com nome.",
+        "en": "The command that unstacks the panels, the mode where the app arranges them for you, and named saved arrangements.",
+        "es": "El comando que desapila los paneles, el modo en que la app los ordena sola, y las disposiciones guardadas con nombre."
+      }
+    },
+    {
+      "slug": "imagens-no-canvas",
+      "area": "canvas",
+      "nivel": "basico",
+      "ordem": 13,
+      "titulo": {
+        "pt": "Imagens no canvas",
+        "en": "Images on the canvas",
+        "es": "Imágenes en el lienzo"
+      },
+      "resumo": {
+        "pt": "Colar e arrastar imagens para o espaço do canvas, movê-las, mudar a camada e apagá-las.",
+        "en": "Pasting and dragging images onto the canvas, moving them, changing their layer and deleting them.",
+        "es": "Pegar y arrastrar imágenes al lienzo, moverlas, cambiar su capa y borrarlas."
+      }
+    },
+    {
+      "slug": "o-que-e-um-agente",
+      "area": "agentes",
+      "nivel": "basico",
+      "ordem": 14,
+      "titulo": {
+        "pt": "O que é um agente",
+        "en": "What an agent is",
+        "es": "Qué es un agente"
+      },
+      "resumo": {
+        "pt": "Um CLI de agente rodando num terminal de verdade dentro do painel, na pasta do canvas, com nome próprio.",
+        "en": "An agent CLI running in a real terminal inside the panel, in the canvas folder, with a name of its own.",
+        "es": "Una CLI de agente corriendo en una terminal de verdad dentro del panel, en la carpeta del lienzo, con nombre propio."
+      }
+    },
+    {
+      "slug": "criar-e-fechar",
+      "area": "agentes",
+      "nivel": "basico",
+      "ordem": 15,
+      "titulo": {
+        "pt": "Criar e fechar agentes",
+        "en": "Creating and closing agents",
+        "es": "Crear y cerrar agentes"
+      },
+      "resumo": {
+        "pt": "Abrir um agente, dispensá-lo, chamá-lo de volta com a conversa, esquecê-lo de vez, e o que acontece quando ele dorme ou cai.",
+        "en": "Opening an agent, dismissing it, calling it back with its conversation, forgetting it for good, and what happens when it sleeps or crashes.",
+        "es": "Abrir un agente, despedirlo, llamarlo de vuelta con la conversación, olvidarlo del todo, y qué pasa cuando duerme o se cae."
+      }
+    },
+    {
+      "slug": "saber-o-que-fazem",
+      "area": "agentes",
+      "nivel": "basico",
+      "ordem": 16,
+      "titulo": {
+        "pt": "Saber o que eles estão fazendo",
+        "en": "Knowing what they're doing",
+        "es": "Saber qué están haciendo"
+      },
+      "resumo": {
+        "pt": "O estado de cada painel, o verso com o retrato do agente, os sinais fora da vista e o que dá para perguntar por voz.",
+        "en": "Each panel's state, the back of the panel with the agent's portrait, the signals outside your view and what you can ask by voice.",
+        "es": "El estado de cada panel, el reverso con el retrato del agente, las señales fuera de tu vista y lo que puedes preguntar por voz."
+      }
+    },
+    {
+      "slug": "falar-com-eles",
+      "area": "agentes",
+      "nivel": "basico",
+      "ordem": 17,
+      "titulo": {
+        "pt": "Falar com os agentes",
+        "en": "Talking to the agents",
+        "es": "Hablar con los agentes"
+      },
+      "resumo": {
+        "pt": "Mandar tarefa digitando, ditando ou falando, responder o que eles perguntam, destacar um painel e mandar continuar quem caiu.",
+        "en": "Sending a task by typing, dictating or speaking, answering what they ask, spotlighting a panel and telling a crashed agent to carry on.",
+        "es": "Mandar tarea escribiendo, dictando o hablando, responder lo que preguntan, destacar un panel y mandar continuar a quien se cayó."
+      }
+    },
+    {
+      "slug": "varios-provedores",
+      "area": "agentes",
+      "nivel": "basico",
+      "ordem": 18,
+      "titulo": {
+        "pt": "Vários CLIs de agente",
+        "en": "Several agent CLIs",
+        "es": "Varias CLIs de agente"
+      },
+      "resumo": {
+        "pt": "Claude Code, Codex, Grok e opencode no mesmo canvas: como ligá-los, o que funciona igual em todos e o que é de um só.",
+        "en": "Claude Code, Codex, Grok and opencode on the same canvas: how to enable them, what works the same in all of them and what belongs to one only.",
+        "es": "Claude Code, Codex, Grok y opencode en el mismo lienzo: cómo activarlas, qué funciona igual en todas y qué es de una sola."
+      }
+    },
+    {
+      "slug": "contas-e-perfis",
+      "area": "agentes",
+      "nivel": "basico",
+      "ordem": 19,
+      "titulo": {
+        "pt": "Contas e perfis",
+        "en": "Accounts and profiles",
+        "es": "Cuentas y perfiles"
+      },
+      "resumo": {
+        "pt": "Onde se cadastram as instalações do programa de agente, em qual delas cada projeto e cada agente nascem, e o que acontece com a conversa ao trocar.",
+        "en": "Where agent program installations are registered, which one each project and each agent is born on, and what happens to the conversation when you switch.",
+        "es": "Dónde se registran las instalaciones del programa de agente, en cuál nacen cada proyecto y cada agente, y qué pasa con la conversación al cambiar."
+      }
+    },
+    {
+      "slug": "skills-e-mcp",
+      "area": "agentes",
+      "nivel": "avancado",
+      "ordem": 20,
+      "titulo": {
+        "pt": "Skills e servidores MCP",
+        "en": "Skills and MCP servers",
+        "es": "Skills y servidores MCP"
+      },
+      "resumo": {
+        "pt": "O que uma skill e um servidor MCP dão aos agentes deste projeto, e o que dá para pedir a um agente sem abrir tela nenhuma.",
+        "en": "What a skill and an MCP server give the agents of this project, and what you can ask an agent to do without opening a single screen.",
+        "es": "Qué le dan una skill y un servidor MCP a los agentes de este proyecto, y qué se le puede pedir a un agente sin abrir ninguna pantalla."
+      }
+    },
+    {
+      "slug": "um-agente-chama-outro",
+      "area": "agentes",
+      "nivel": "basico",
+      "ordem": 21,
+      "titulo": {
+        "pt": "Um agente chama outro",
+        "en": "One agent calls another",
+        "es": "Un agente llama a otro"
+      },
+      "resumo": {
+        "pt": "Delegar por voz, agentes que trazem colegas para o canvas, os painéis de subagente e as conversas entre projetos.",
+        "en": "Delegating by voice, agents that bring colleagues onto the canvas, the subagent panels and conversations across projects.",
+        "es": "Delegar por voz, agentes que traen colegas al canvas, los paneles de subagente y las conversaciones entre proyectos."
+      }
+    },
+    {
+      "slug": "worktrees-e-isolamento",
+      "area": "agentes",
+      "nivel": "avancado",
+      "ordem": 22,
+      "titulo": {
+        "pt": "Cada agente na sua cópia",
+        "en": "Each agent in its own copy",
+        "es": "Cada agente en su copia"
+      },
+      "resumo": {
+        "pt": "O isolamento por worktree, o texto que instrui os agentes, a barra de frentes e a entrega de uma frente pronta.",
+        "en": "Isolation by worktree, the text that instructs the agents, the workstreams sidebar and handing off a finished workstream.",
+        "es": "El aislamiento por worktree, el texto que instruye a los agentes, la barra de frentes y la entrega de un frente terminado."
+      }
+    },
+    {
+      "slug": "painel-terminal",
+      "area": "paineis",
+      "nivel": "basico",
+      "ordem": 23,
+      "titulo": {
+        "pt": "O painel de terminal",
+        "en": "The terminal panel",
+        "es": "El panel de terminal"
+      },
+      "resumo": {
+        "pt": "Um shell na pasta do projeto, dentro do canvas: como abrir, o que os gestos fazem, e de onde vêm a fonte e o nome.",
+        "en": "A shell in the project folder, inside the canvas: how to open it, what the gestures do, and where the font and the name come from.",
+        "es": "Una shell en la carpeta del proyecto, dentro del lienzo: cómo abrirla, qué hacen los gestos, y de dónde vienen la fuente y el nombre."
+      }
+    },
+    {
+      "slug": "painel-navegador",
+      "area": "paineis",
+      "nivel": "basico",
+      "ordem": 24,
+      "titulo": {
+        "pt": "O painel do navegador",
+        "en": "The browser panel",
+        "es": "El panel del navegador"
+      },
+      "resumo": {
+        "pt": "Os controles da barra, o que a barra de endereço aceita, e o que separa o navegador que é seu do que é de um agente.",
+        "en": "The toolbar controls, what the address bar accepts, and what separates the browser that is yours from an agent's.",
+        "es": "Los controles de la barra, qué acepta la barra de direcciones, y qué separa el navegador que es tuyo del de un agente."
+      }
+    },
+    {
+      "slug": "painel-git",
+      "area": "paineis",
+      "nivel": "basico",
+      "ordem": 25,
+      "titulo": {
+        "pt": "O painel do Git",
+        "en": "The Git panel",
+        "es": "El panel de Git"
+      },
+      "resumo": {
+        "pt": "As três abas do repositório: o que está na sua pasta, as issues e as pull requests, com o que cada botão faz.",
+        "en": "The repository's three tabs: what is in your folder, the issues and the pull requests, with what each button does.",
+        "es": "Las tres pestañas del repositorio: lo que está en tu carpeta, las issues y las pull requests, con lo que hace cada botón."
+      }
+    },
+    {
+      "slug": "painel-arquivo",
+      "area": "paineis",
+      "nivel": "basico",
+      "ordem": 26,
+      "titulo": {
+        "pt": "O painel de arquivo",
+        "en": "The file panel",
+        "es": "El panel de archivo"
+      },
+      "resumo": {
+        "pt": "Ler um arquivo do projeto num painel, editá-lo quando o lápis aparece, e o que acontece quando o disco muda por baixo.",
+        "en": "Reading a project file in a panel, editing it when the pencil appears, and what happens when the disk changes underneath.",
+        "es": "Leer un archivo del proyecto en un panel, editarlo cuando aparece el lápiz, y qué pasa cuando el disco cambia por debajo."
+      }
+    },
+    {
+      "slug": "painel-elenco",
+      "area": "paineis",
+      "nivel": "basico",
+      "ordem": 27,
+      "titulo": {
+        "pt": "O painel do elenco",
+        "en": "The cast panel",
+        "es": "El panel del elenco"
+      },
+      "resumo": {
+        "pt": "A lista dos agentes deste projeto em quatro seções, o que a busca alcança, e o que cada botão faz com um agente guardado.",
+        "en": "This project's agents in four sections, what the search reaches, and what each button does to a stored agent.",
+        "es": "Los agentes de este proyecto en cuatro secciones, qué alcanza la búsqueda, y qué hace cada botón con un agente guardado."
+      }
+    },
+    {
+      "slug": "painel-tarefas",
+      "area": "paineis",
+      "nivel": "basico",
+      "ordem": 28,
+      "titulo": {
+        "pt": "O painel de tarefas",
+        "en": "The tasks panel",
+        "es": "El panel de tareas"
+      },
+      "resumo": {
+        "pt": "A lista do projeto: anotar, mudar de estado, pôr prazo, o histórico de cada linha e o aviso de vencimento.",
+        "en": "The project list: taking note, changing state, setting deadlines, the history of each line and the deadline alert.",
+        "es": "La lista del proyecto: anotar, cambiar de estado, poner plazo, el historial de cada línea y el aviso de vencimiento."
+      }
+    },
+    {
+      "slug": "painel-notas",
+      "area": "paineis",
+      "nivel": "basico",
+      "ordem": 29,
+      "titulo": {
+        "pt": "O painel de notas",
+        "en": "The notes panel",
+        "es": "El panel de notas"
+      },
+      "resumo": {
+        "pt": "Um bloco de texto por janela: trocar de nota, criar, renomear, apagar, e o que os agentes escrevem aqui.",
+        "en": "One text block per window: switching notes, creating, renaming, deleting, and what the agents write here.",
+        "es": "Un bloque de texto por ventana: cambiar de nota, crear, renombrar, borrar, y lo que los agentes escriben aquí."
+      }
+    },
+    {
+      "slug": "painel-recados",
+      "area": "paineis",
+      "nivel": "basico",
+      "ordem": 30,
+      "titulo": {
+        "pt": "Recados",
+        "en": "Messages",
+        "es": "Recados"
+      },
+      "resumo": {
+        "pt": "A correspondência com outras pessoas que usam o CanvasCode: contatos, o que chega, o que dá para fazer com o que chega.",
+        "en": "Correspondence with other people running CanvasCode: contacts, what arrives, and what you can do with what arrives.",
+        "es": "La correspondencia con otras personas que usan CanvasCode: contactos, qué llega y qué puedes hacer con lo que llega."
+      }
+    },
+    {
+      "slug": "painel-midia",
+      "area": "paineis",
+      "nivel": "basico",
+      "ordem": 31,
+      "titulo": {
+        "pt": "O painel de mídia",
+        "en": "The media panel",
+        "es": "El panel de medios"
+      },
+      "resumo": {
+        "pt": "YouTube e YouTube Music no canvas: os dois modos, o modo cinema, as duas formas de minimizar e o silêncio quando a voz entra.",
+        "en": "YouTube and YouTube Music in the canvas: the two modes, cinema mode, the two ways to minimize and the silence when voice takes over.",
+        "es": "YouTube y YouTube Music en el lienzo: los dos modos, el modo cine, las dos formas de minimizar y el silencio cuando entra la voz."
+      }
+    },
+    {
+      "slug": "painel-webcam-e-avatar",
+      "area": "paineis",
+      "nivel": "basico",
+      "ordem": 32,
+      "titulo": {
+        "pt": "A câmera e o avatar",
+        "en": "The camera and the avatar",
+        "es": "La cámara y el avatar"
+      },
+      "resumo": {
+        "pt": "O painel com a imagem da sua câmera e o painel com o rosto da assistente: onde ficam os controles, quando a câmera desliga sozinha, e o que muda ao soltar da grade.",
+        "en": "The panel with your camera image and the panel with the assistant's face: where the controls are, when the camera turns itself off, and what changes when the panel leaves the grid.",
+        "es": "El panel con la imagen de tu cámara y el panel con el rostro de la asistente: dónde están los controles, cuándo se apaga la cámara sola, y qué cambia al soltar el panel de la cuadrícula."
+      }
+    },
+    {
+      "slug": "painel-galeria",
+      "area": "paineis",
+      "nivel": "basico",
+      "ordem": 33,
+      "titulo": {
+        "pt": "A galeria de imagens",
+        "en": "The image gallery",
+        "es": "La galería de imágenes"
+      },
+      "resumo": {
+        "pt": "As imagens deste projeto guardadas em disco: recolocar no canvas, apagar de verdade, e o pedido que gerou cada uma.",
+        "en": "This project's images kept on disk: putting one back on the canvas, deleting for real, and the prompt that generated each one.",
+        "es": "Las imágenes de este proyecto guardadas en disco: devolverlas al lienzo, eliminarlas de verdad, y el prompt que generó cada una."
+      }
+    },
+    {
+      "slug": "painel-gravacao",
+      "area": "paineis",
+      "nivel": "basico",
+      "ordem": 34,
+      "titulo": {
+        "pt": "Gravar a tela",
+        "en": "Recording the screen",
+        "es": "Grabar la pantalla"
+      },
+      "resumo": {
+        "pt": "Gravar a janela do CanvasCode com áudio do app e microfone: formato, qualidade, e o que fazer com o arquivo depois.",
+        "en": "Recording the CanvasCode window with app audio and microphone: format, quality, and what to do with the file afterwards.",
+        "es": "Grabar la ventana de CanvasCode con el audio de la app y el micrófono: formato, calidad, y qué hacer con el archivo después."
+      }
+    },
+    {
+      "slug": "painel-custos-e-desempenho",
+      "area": "paineis",
+      "nivel": "basico",
+      "ordem": 35,
+      "titulo": {
+        "pt": "Uso e desempenho",
+        "en": "Usage and performance",
+        "es": "Uso y rendimiento"
+      },
+      "resumo": {
+        "pt": "Dois painéis: quanto da assinatura de cada provedor já foi e quanto cada agente custou, e quanta memória e CPU o app está usando, por processo.",
+        "en": "Two panels: how much of each provider's subscription is gone and what each agent cost, and how much memory and CPU the app is using, per process.",
+        "es": "Dos paneles: cuánto de la suscripción de cada proveedor se ha ido y cuánto costó cada agente, y cuánta memoria y CPU usa la app, por proceso."
+      }
+    },
+    {
+      "slug": "painel-jira",
+      "area": "paineis",
+      "nivel": "basico",
+      "ordem": 36,
+      "titulo": {
+        "pt": "O painel do Jira",
+        "en": "The Jira panel",
+        "es": "El panel de Jira"
+      },
+      "resumo": {
+        "pt": "O quadro do projeto conectado dentro do canvas: filtros, arrastar cartão, detalhe do issue e o caminho até um agente.",
+        "en": "The connected project's board inside the canvas: filters, dragging cards, issue detail and the path to an agent.",
+        "es": "El tablero del proyecto conectado dentro del lienzo: filtros, arrastrar tarjetas, detalle de la incidencia y el camino hasta un agente."
+      }
+    },
+    {
+      "slug": "design-no-canvas",
+      "area": "design",
+      "nivel": "basico",
+      "ordem": 37,
+      "titulo": {
+        "pt": "Design no canvas",
+        "en": "Design on the canvas",
+        "es": "Diseño en el lienzo"
+      },
+      "resumo": {
+        "pt": "A superfície onde os agentes desenham telas e você dirige apontando, com o arquivo versionado no projeto.",
+        "en": "The surface where agents draw screens and you direct by pointing, with the file versioned in the project.",
+        "es": "La superficie donde los agentes dibujan pantallas y tú diriges señalando, con el archivo versionado en el proyecto."
+      }
+    },
+    {
+      "slug": "painel-design",
+      "area": "design",
+      "nivel": "avancado",
+      "ordem": 38,
+      "titulo": {
+        "pt": "A superfície de design",
+        "en": "The design surface",
+        "es": "La superficie de diseño"
+      },
+      "resumo": {
+        "pt": "Onde os artboards ficam no canvas, como se navega neles, e como apontar um trecho vira um pedido a um agente.",
+        "en": "Where the artboards live on the canvas, how to navigate them, and how pointing at something turns into a request to an agent.",
+        "es": "Dónde viven los artboards en el lienzo, cómo se navega por ellos, y cómo señalar un trecho se vuelve un pedido a un agente."
+      }
+    },
+    {
+      "slug": "design-direcao",
+      "area": "design",
+      "nivel": "basico",
+      "ordem": 39,
+      "titulo": {
+        "pt": "A direção do design",
+        "en": "The design direction",
+        "es": "La dirección del diseño"
+      },
+      "resumo": {
+        "pt": "O briefing gravado dentro do arquivo de design, que todo agente que desenhar ali recebe antes do primeiro pixel.",
+        "en": "The brief stored inside the design file, which every agent that draws there receives before the first pixel.",
+        "es": "El briefing grabado dentro del archivo de diseño, que todo agente que dibuje ahí recibe antes del primer píxel."
+      }
+    },
+    {
+      "slug": "iniciativas-o-que-e",
+      "area": "iniciativas",
+      "nivel": "avancado",
+      "ordem": 40,
+      "titulo": {
+        "pt": "O que é uma Iniciativa",
+        "en": "What an Initiative is",
+        "es": "Qué es una Iniciativa"
+      },
+      "resumo": {
+        "pt": "O processo de trabalho do time escrito num arquivo do repositório, que o CanvasCode lê, desenha e conduz.",
+        "en": "Your team's working process written in a file in the repository, which CanvasCode reads, draws and conducts.",
+        "es": "El proceso de trabajo del equipo escrito en un archivo del repositorio, que CanvasCode lee, dibuja y conduce."
+      }
+    },
+    {
+      "slug": "iniciativas-escrever",
+      "area": "iniciativas",
+      "nivel": "avancado",
+      "ordem": 41,
+      "titulo": {
+        "pt": "Escrever uma Iniciativa",
+        "en": "Writing an Initiative",
+        "es": "Escribir una Iniciativa"
+      },
+      "resumo": {
+        "pt": "Os dois caminhos para criar o arquivo do processo conversando com um agente, e como mudá-lo depois.",
+        "en": "The two ways to create the process file by talking to an agent, and how to change it later.",
+        "es": "Los dos caminos para crear el archivo del proceso conversando con un agente, y cómo cambiarlo después."
+      }
+    },
+    {
+      "slug": "painel-iniciativas",
+      "area": "iniciativas",
+      "nivel": "avancado",
+      "ordem": 42,
+      "titulo": {
+        "pt": "O painel de Iniciativas",
+        "en": "The Initiatives panel",
+        "es": "El panel de Iniciativas"
+      },
+      "resumo": {
+        "pt": "As três telas do painel, o que cada botão de uma execução faz, e o que acontece quando ela para em você.",
+        "en": "The panel's three screens, what each button on a run does, and what happens when a run stops on you.",
+        "es": "Las tres pantallas del panel, qué hace cada botón de una ejecución, y qué pasa cuando se detiene en ti."
+      }
+    },
+    {
+      "slug": "modulos-o-que-e",
+      "area": "modulos",
+      "nivel": "avancado",
+      "ordem": 43,
+      "titulo": {
+        "pt": "O que é um módulo",
+        "en": "What a module is",
+        "es": "Qué es un módulo"
+      },
+      "resumo": {
+        "pt": "Um painel escrito por você, que vive no canvas como os nativos e conversa com o app.",
+        "en": "A panel written by you, which lives on the canvas like the native ones and talks to the app.",
+        "es": "Un panel escrito por ti, que vive en el lienzo como los nativos y habla con la app."
+      }
+    },
+    {
+      "slug": "modulos",
+      "area": "modulos",
+      "nivel": "avancado",
+      "ordem": 44,
+      "titulo": {
+        "pt": "Criar um módulo",
+        "en": "Creating a module",
+        "es": "Crear un módulo"
+      },
+      "resumo": {
+        "pt": "A pasta, o manifesto, as ações que viram ferramentas de voz e o que a página consegue fazer pela ponte do app.",
+        "en": "The folder, the manifest, the actions that become voice tools, and what the page can do through the app's bridge.",
+        "es": "La carpeta, el manifiesto, las acciones que se vuelven herramientas de voz y qué puede hacer la página con el puente de la app."
+      }
+    },
+    {
+      "slug": "modulos-capacidades",
+      "area": "modulos",
+      "nivel": "avancado",
+      "ordem": 45,
+      "titulo": {
+        "pt": "As capacidades de um módulo",
+        "en": "A module's capabilities",
+        "es": "Las capacidades de un módulo"
+      },
+      "resumo": {
+        "pt": "A ponte que o app injeta na página do módulo: rede, scripts, contexto, tema, armazenamento e notificações.",
+        "en": "The bridge the app injects into the module's page: network, scripts, context, theme, storage and notifications.",
+        "es": "El puente que la app inyecta en la página del módulo: red, scripts, contexto, tema, almacenamiento y notificaciones."
+      }
+    },
+    {
+      "slug": "painel-modulos",
+      "area": "modulos",
+      "nivel": "avancado",
+      "ordem": 46,
+      "titulo": {
+        "pt": "O painel de um módulo",
+        "en": "A module's panel",
+        "es": "El panel de un módulo"
+      },
+      "resumo": {
+        "pt": "Como abrir um painel que você mesmo escreveu, o que a barra dele faz, e os dois interruptores de cada módulo.",
+        "en": "How to open a panel you wrote yourself, what its bar does, and the two switches every module has.",
+        "es": "Cómo abrir un panel escrito por ti, qué hace su barra, y los dos interruptores de cada módulo."
+      }
+    },
+    {
+      "slug": "configurar-a-voz",
+      "area": "nina",
+      "nivel": "basico",
+      "ordem": 47,
+      "titulo": {
+        "pt": "Configurar a voz",
+        "en": "Setting up the voice",
+        "es": "Configurar la voz"
+      },
+      "resumo": {
+        "pt": "A chave da OpenAI, o microfone, quem fala com você, os timbres e as teclas da voz.",
+        "en": "The OpenAI key, the microphone, who speaks to you, the timbres and the voice shortcuts.",
+        "es": "La clave de OpenAI, el micrófono, quién habla contigo, los timbres y las teclas de la voz."
+      }
+    },
+    {
+      "slug": "falar-com-a-nina",
+      "area": "nina",
+      "nivel": "basico",
+      "ordem": 48,
+      "titulo": {
+        "pt": "Falar com a Nina",
+        "en": "Talking to Nina",
+        "es": "Hablar con Nina"
+      },
+      "resumo": {
+        "pt": "Abrir e encerrar a conversa por voz, o que fecha um turno, os dois relógios e o bom-dia.",
+        "en": "Opening and ending the voice conversation, what closes a turn, the two clocks and the greeting.",
+        "es": "Abrir y cerrar la conversación por voz, qué cierra un turno, los dos relojes y el saludo."
+      }
+    },
+    {
+      "slug": "o-modo-comando",
+      "area": "nina",
+      "nivel": "basico",
+      "ordem": 49,
+      "titulo": {
+        "pt": "O modo comando",
+        "en": "Command mode",
+        "es": "El modo comando"
+      },
+      "resumo": {
+        "pt": "Segurar ⌥X e falar uma ordem: o que ele aceita, o que ele recusa e como a frase vira ação.",
+        "en": "Holding ⌥X and speaking an order: what it accepts, what it refuses and how the sentence becomes action.",
+        "es": "Mantener ⌥X y decir una orden: qué acepta, qué rechaza y cómo la frase se vuelve acción."
+      }
+    },
+    {
+      "slug": "a-nina-por-texto",
+      "area": "nina",
+      "nivel": "basico",
+      "ordem": 50,
+      "titulo": {
+        "pt": "A Nina por texto",
+        "en": "Nina in writing",
+        "es": "Nina por escrito"
+      },
+      "resumo": {
+        "pt": "A caixa do ⌘J: o que ela mostra, quem pensa por trás dela, e como ditar dentro dela.",
+        "en": "The ⌘J box: what it shows, which brain answers, and how to dictate into it.",
+        "es": "La caja de ⌘J: qué muestra, qué cerebro responde y cómo dictar dentro de ella."
+      }
+    },
+    {
+      "slug": "o-que-ela-consegue-fazer",
+      "area": "nina",
+      "nivel": "basico",
+      "ordem": 51,
+      "titulo": {
+        "pt": "O que dá para pedir",
+        "en": "What you can ask for",
+        "es": "Lo que se puede pedir"
+      },
+      "resumo": {
+        "pt": "O repertório da Nina por assunto: a frase que você diz e o que acontece no canvas.",
+        "en": "Nina's repertoire by subject: the sentence you say, and what happens on the canvas.",
+        "es": "El repertorio de Nina por tema: la frase que dices, y lo que pasa en el lienzo."
+      }
+    },
+    {
+      "slug": "ditado",
+      "area": "nina",
+      "nivel": "basico",
+      "ordem": 52,
+      "titulo": {
+        "pt": "Ditado",
+        "en": "Dictation",
+        "es": "Dictado"
+      },
+      "resumo": {
+        "pt": "⌥D e falar: para onde o texto vai, o que vira símbolo, os dois motores e o ditado longo.",
+        "en": "⌥D and speak: where the text goes, what becomes a symbol, the two engines and long-form dictation.",
+        "es": "⌥D y hablar: adónde va el texto, qué se vuelve símbolo, los dos motores y el dictado largo."
+      }
+    },
+    {
+      "slug": "quanto-custa",
+      "area": "nina",
+      "nivel": "basico",
+      "ordem": 53,
+      "titulo": {
+        "pt": "Quanto custa a voz",
+        "en": "What the voice costs",
+        "es": "Cuánto cuesta la voz"
+      },
+      "resumo": {
+        "pt": "O que usa créditos da OpenAI, o que pesa na conta da conversa, os dois tetos e onde ver o gasto.",
+        "en": "What spends OpenAI credits, what weighs on the conversation bill, the two ceilings and where to see the spending.",
+        "es": "Qué gasta créditos de OpenAI, qué pesa en la cuenta de la conversación, los dos techos y dónde ver el gasto."
+      }
+    },
+    {
+      "slug": "o-agente-ve-o-navegador",
+      "area": "agentes-fazem",
+      "nivel": "basico",
+      "ordem": 54,
+      "titulo": {
+        "pt": "O navegador do agente",
+        "en": "The agent's browser",
+        "es": "El navegador del agente"
+      },
+      "resumo": {
+        "pt": "O que um agente faz numa página aberta no canvas, e como pedir que ele confira o próprio trabalho.",
+        "en": "What an agent can do on a page open in the canvas, and how to ask it to check its own work.",
+        "es": "Qué hace un agente en una página abierta en el lienzo, y cómo pedirle que revise su propio trabajo."
+      }
+    },
+    {
+      "slug": "o-agente-mexe-no-canvas",
+      "area": "agentes-fazem",
+      "nivel": "basico",
+      "ordem": 55,
+      "titulo": {
+        "pt": "O agente mexe no canvas",
+        "en": "The agent works the canvas",
+        "es": "El agente trabaja el lienzo"
+      },
+      "resumo": {
+        "pt": "Abrir painéis, mostrar arquivos, tocar mídia, escrever o assunto do painel e disparar anúncios.",
+        "en": "Opening panels, showing files, playing media, writing the panel's subject and firing announcements.",
+        "es": "Abrir paneles, mostrar archivos, reproducir contenido, escribir el asunto del panel y disparar anuncios."
+      }
+    },
+    {
+      "slug": "o-agente-chama-colegas",
+      "area": "agentes-fazem",
+      "nivel": "basico",
+      "ordem": 56,
+      "titulo": {
+        "pt": "O agente chama colegas",
+        "en": "The agent calls colleagues",
+        "es": "El agente llama colegas"
+      },
+      "resumo": {
+        "pt": "Trazer outros agentes, ler o que os vizinhos fizeram, devolver resultado e falar com um agente de outro projeto.",
+        "en": "Bringing in other agents, reading what the neighbours did, sending results back, and talking to an agent in another project.",
+        "es": "Traer otros agentes, leer lo que hicieron los vecinos, devolver el resultado y hablar con un agente de otro proyecto."
+      }
+    },
+    {
+      "slug": "o-agente-usa-suas-listas",
+      "area": "agentes-fazem",
+      "nivel": "basico",
+      "ordem": 57,
+      "titulo": {
+        "pt": "O agente usa as suas listas",
+        "en": "The agent uses your lists",
+        "es": "El agente usa tus listas"
+      },
+      "resumo": {
+        "pt": "O que um agente lê e escreve nas suas tarefas, nas suas notas e nos seus recados, e o que ele não consegue fazer nelas.",
+        "en": "What an agent reads and writes in your tasks, notes and messages, and what it cannot do in them.",
+        "es": "Qué lee y escribe un agente en tus tareas, tus notas y tus mensajes, y qué no puede hacer en ellas."
+      }
+    },
+    {
+      "slug": "o-agente-e-o-git",
+      "area": "agentes-fazem",
+      "nivel": "avancado",
+      "ordem": 58,
+      "titulo": {
+        "pt": "O agente e o repositório",
+        "en": "The agent and the repository",
+        "es": "El agente y el repositorio"
+      },
+      "resumo": {
+        "pt": "Ler o estado do repositório com a autoria do que ainda não foi commitado, resolver issues e revisar pull requests do GitHub.",
+        "en": "Reading repository state with authorship for uncommitted files, resolving issues and reviewing GitHub pull requests.",
+        "es": "Leer el estado del repositorio con la autoría de lo aún no confirmado, resolver issues y revisar pull requests de GitHub."
+      }
+    },
+    {
+      "slug": "o-agente-desenha-e-gera",
+      "area": "agentes-fazem",
+      "nivel": "avancado",
+      "ordem": 59,
+      "titulo": {
+        "pt": "O agente desenha e gera imagens",
+        "en": "The agent designs and generates images",
+        "es": "El agente diseña y genera imágenes"
+      },
+      "resumo": {
+        "pt": "Pedir telas na superfície de design, apontar o que mudar, gerar imagens no canvas e usar as referências que você colou.",
+        "en": "Asking for screens on the design surface, pointing at what to change, generating images in the canvas and using the references you pasted.",
+        "es": "Pedir pantallas en la superficie de diseño, señalar qué cambiar, generar imágenes en el lienzo y usar las referencias que pegaste."
+      }
+    },
+    {
+      "slug": "ajustes-projeto",
+      "area": "projeto",
+      "nivel": "basico",
+      "ordem": 60,
+      "titulo": {
+        "pt": "Ajustes do projeto",
+        "en": "Project settings",
+        "es": "Ajustes del proyecto"
+      },
+      "resumo": {
+        "pt": "A janela do canvas: a máquina onde ele mora, a pasta em que os agentes nascem, o nome, e as outras seções.",
+        "en": "The canvas window: the machine it lives on, the folder agents are born in, the name, and the other sections.",
+        "es": "La ventana del canvas: la máquina donde vive, la carpeta en la que nacen los agentes, el nombre, y las demás secciones."
+      }
+    },
+    {
+      "slug": "ajustes-aparencia",
+      "area": "projeto",
+      "nivel": "basico",
+      "ordem": 61,
+      "titulo": {
+        "pt": "Aparência do projeto",
+        "en": "Project appearance",
+        "es": "Apariencia del proyecto"
+      },
+      "resumo": {
+        "pt": "A aba onde se escolhem o tema, o véu, o papel de parede e a fonte deste projeto, e onde fica o idioma do app.",
+        "en": "The tab where this project's theme, veil, wallpaper and font are chosen, and where the app's language lives.",
+        "es": "La pestaña donde se eligen el tema, el velo, el fondo y la fuente de este proyecto, y dónde está el idioma de la app."
+      }
+    },
+    {
+      "slug": "ajustes-navegador",
+      "area": "projeto",
+      "nivel": "basico",
+      "ordem": 62,
+      "titulo": {
+        "pt": "Página inicial do navegador",
+        "en": "Browser home page",
+        "es": "Página de inicio del navegador"
+      },
+      "resumo": {
+        "pt": "Em que endereço um navegador novo abre neste projeto, e quando essa escolha não vale.",
+        "en": "Which address a new browser opens in this project, and when that choice does not apply.",
+        "es": "En qué dirección abre un navegador nuevo en este proyecto, y cuándo esa elección no vale."
+      }
+    },
+    {
+      "slug": "ajustes-skills",
+      "area": "projeto",
+      "nivel": "avancado",
+      "ordem": 63,
+      "titulo": {
+        "pt": "Ajustes · Skills",
+        "en": "Settings · Skills",
+        "es": "Ajustes · Skills"
+      },
+      "resumo": {
+        "pt": "A tela que lista as skills à mão deste projeto, liga e desliga cada uma aqui, e instala do registro público.",
+        "en": "The screen that lists the skills this project has at hand, turns each one on and off here, and installs from the public registry.",
+        "es": "La pantalla que lista las skills que este proyecto tiene a mano, activa y desactiva cada una aquí, e instala desde el registro público."
+      }
+    },
+    {
+      "slug": "ajustes-mcp",
+      "area": "projeto",
+      "nivel": "avancado",
+      "ordem": 64,
+      "titulo": {
+        "pt": "Ajustes · MCP",
+        "en": "Settings · MCP",
+        "es": "Ajustes · MCP"
+      },
+      "resumo": {
+        "pt": "A tela que escolhe os servidores MCP que os agentes deste projeto sobem, instala novos do registro oficial e diz o que cada um custa.",
+        "en": "The screen that picks the MCP servers this project's agents spawn, installs new ones from the official registry and says what each one costs.",
+        "es": "La pantalla que elige los servidores MCP que levantan los agentes de este proyecto, instala nuevos desde el registro oficial y dice lo que cuesta cada uno."
+      }
+    },
+    {
+      "slug": "ajustes-anuncios",
+      "area": "projeto",
+      "nivel": "basico",
+      "ordem": 65,
+      "titulo": {
+        "pt": "Anúncios",
+        "en": "Announcements",
+        "es": "Anuncios"
+      },
+      "resumo": {
+        "pt": "Alertas visuais que você desenha e os agentes deste projeto disparam ao cumprir uma regra sua: os campos, os marcadores e quando eles aparecem na tela.",
+        "en": "Visual alerts you design and this project's agents fire when they meet a rule of yours: the fields, the placeholders, and when they reach the screen.",
+        "es": "Alertas visuales que tú diseñas y que los agentes de este proyecto disparan al cumplir una regla tuya: los campos, los marcadores y cuándo llegan a la pantalla."
+      }
+    },
+    {
+      "slug": "ajustes-agentes",
+      "area": "ajustes",
+      "nivel": "basico",
+      "ordem": 66,
+      "titulo": {
+        "pt": "Configurações dos agentes",
+        "en": "Agent settings",
+        "es": "Configuración de los agentes"
+      },
+      "resumo": {
+        "pt": "A aba Agentes, controle a controle, e os três ajustes de agente que moram na aba Interface.",
+        "en": "The Agents tab, control by control, and the three agent settings that live in the Interface tab.",
+        "es": "La pestaña Agentes, control por control, y los tres ajustes de agente que viven en la pestaña Interfaz."
+      }
+    },
+    {
+      "slug": "ajustes-integracoes",
+      "area": "ajustes",
+      "nivel": "basico",
+      "ordem": 67,
+      "titulo": {
+        "pt": "Integrações",
+        "en": "Integrations",
+        "es": "Integraciones"
+      },
+      "resumo": {
+        "pt": "A agenda do Mac nas Configurações, o que a Nina vê dela, e por que o Jira se conecta na edição do projeto.",
+        "en": "The Mac calendar in Settings, what Nina sees of it, and why Jira is connected in the project's settings.",
+        "es": "La agenda del Mac en Configuración, qué ve Nina de ella, y por qué Jira se conecta en la edición del proyecto."
+      }
+    },
+    {
+      "slug": "avisos-e-sons",
+      "area": "ajustes",
+      "nivel": "basico",
+      "ordem": 68,
+      "titulo": {
+        "pt": "Avisos e sons",
+        "en": "Alerts and sounds",
+        "es": "Avisos y sonidos"
+      },
+      "resumo": {
+        "pt": "Notificações do CanvasCode no canvas e no macOS: quais eventos avisam, som e leitura em voz alta.",
+        "en": "CanvasCode notifications on the canvas and on macOS: which events alert you, sound and spoken alerts.",
+        "es": "Notificaciones de CanvasCode en el lienzo y en macOS: qué eventos avisan, sonido y lectura en voz alta."
+      }
+    },
+    {
+      "slug": "jira-e-confluence",
+      "area": "integracoes",
+      "nivel": "basico",
+      "ordem": 69,
+      "titulo": {
+        "pt": "Jira e Confluence",
+        "en": "Jira and Confluence",
+        "es": "Jira y Confluence"
+      },
+      "resumo": {
+        "pt": "Conectar um projeto à sua conta Atlassian, escolher o projeto do Jira, ligar os avisos e desconectar.",
+        "en": "Connecting a project to your Atlassian account, choosing the Jira project, turning the alerts on, and disconnecting.",
+        "es": "Conectar un proyecto a tu cuenta Atlassian, elegir el proyecto de Jira, encender los avisos y desconectar."
+      }
+    },
+    {
+      "slug": "agenda-e-reunioes",
+      "area": "integracoes",
+      "nivel": "basico",
+      "ordem": 70,
+      "titulo": {
+        "pt": "Agenda e reuniões",
+        "en": "Calendar and meetings",
+        "es": "Agenda y reuniones"
+      },
+      "resumo": {
+        "pt": "Conectar o calendário do Mac, o que a Nina pode ver dele, o aviso antes da hora e o modo reunião.",
+        "en": "Connecting the Mac calendar, what Nina may see of it, the alert before the hour and meeting mode.",
+        "es": "Conectar el calendario del Mac, qué puede ver Nina de él, el aviso antes de la hora y el modo reunión."
+      }
+    },
+    {
+      "slug": "iphone-companion",
+      "area": "integracoes",
+      "nivel": "basico",
+      "ordem": 71,
+      "titulo": {
+        "pt": "O iPhone pareado",
+        "en": "The paired iPhone",
+        "es": "El iPhone emparejado"
+      },
+      "resumo": {
+        "pt": "Parear o iPhone com este Mac, revogar um aparelho, o que dá para fazer de longe e quando o telefone avisa.",
+        "en": "Pairing an iPhone with this Mac, revoking a device, what you can do from far away and when the phone alerts you.",
+        "es": "Emparejar el iPhone con este Mac, revocar un aparato, qué puedes hacer desde lejos y cuándo avisa el teléfono."
+      }
+    },
+    {
+      "slug": "canvas-remoto",
+      "area": "integracoes",
+      "nivel": "avancado",
+      "ordem": 72,
+      "titulo": {
+        "pt": "O canvas num servidor",
+        "en": "The canvas on a server",
+        "es": "El canvas en un servidor"
+      },
+      "resumo": {
+        "pt": "Como apontar um projeto para outra máquina, o que o teste de conexão verifica, o que acontece quando a rede cai e o que ainda não funciona à distância.",
+        "en": "How to point a project at another machine, what the connection test checks, what happens when the network drops and what still does not work at a distance.",
+        "es": "Cómo apuntar un proyecto a otra máquina, qué comprueba la prueba de conexión, qué pasa cuando se cae la red y qué todavía no funciona a distancia."
+      }
+    },
+    {
+      "slug": "licenca",
+      "area": "conta",
+      "nivel": "basico",
+      "ordem": 73,
+      "titulo": {
+        "pt": "Licença",
+        "en": "License",
+        "es": "Licencia"
+      },
+      "resumo": {
+        "pt": "A avaliação, ativar a chave, trocar de Mac, o que o app faz sem internet e o que cada erro de ativação quer dizer.",
+        "en": "The trial, activating a key, moving to another Mac, what the app does offline, and what each activation error means.",
+        "es": "La evaluación, activar la clave, cambiar de Mac, qué hace la app sin internet y qué significa cada error de activación."
+      }
+    },
+    {
+      "slug": "atualizacoes",
+      "area": "conta",
+      "nivel": "basico",
+      "ordem": 74,
+      "titulo": {
+        "pt": "Atualizações",
+        "en": "Updates",
+        "es": "Actualizaciones"
+      },
+      "resumo": {
+        "pt": "A checagem automática, o botão de buscar agora, o que acontece com os agentes na hora de instalar, e as novidades de cada versão.",
+        "en": "The automatic check, the button to check now, what happens to the agents at install time, and each version's release notes.",
+        "es": "La comprobación automática, el botón para buscar ahora, qué pasa con los agentes al instalar y las novedades de cada versión."
+      }
+    },
+    {
+      "slug": "onde-ficam-meus-dados",
+      "area": "conta",
+      "nivel": "basico",
+      "ordem": 75,
+      "titulo": {
+        "pt": "Onde ficam os seus dados",
+        "en": "Where your data lives",
+        "es": "Dónde están tus datos"
+      },
+      "resumo": {
+        "pt": "O que o CanvasCode guarda na sua máquina, onde ele guarda os segredos, e o que sai daqui, para onde e a mando de quê.",
+        "en": "What CanvasCode keeps on your machine, where it keeps the secrets, and what leaves here, for where and because of what.",
+        "es": "Qué guarda CanvasCode en tu máquina, dónde guarda los secretos, y qué sale de aquí, hacia dónde y por qué."
+      }
+    },
+    {
+      "slug": "quando-algo-nao-funciona",
+      "area": "conta",
+      "nivel": "basico",
+      "ordem": 76,
+      "titulo": {
+        "pt": "Quando algo não funciona",
+        "en": "When something doesn't work",
+        "es": "Cuando algo no funciona"
+      },
+      "resumo": {
+        "pt": "Sintoma e ação: o que fazer diante de cada falha comum do CanvasCode, e onde o app já mostra a causa.",
+        "en": "Symptom and action: what to do about each common CanvasCode failure, and where the app already shows the cause.",
+        "es": "Síntoma y acción: qué hacer ante cada fallo común de CanvasCode, y dónde la app ya muestra la causa."
+      }
+    }
+  ]
+}
