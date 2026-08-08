@@ -3,19 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.50.0</title>
-            <pubDate>Sat, 08 Aug 2026 01:19:23 -0300</pubDate>
-            <sparkle:version>202608080113</sparkle:version>
-            <sparkle:shortVersionString>1.50.0</sparkle:shortVersionString>
+            <title>1.50.1</title>
+            <pubDate>Sat, 08 Aug 2026 02:31:25 -0300</pubDate>
+            <sparkle:version>202608080224</sparkle:version>
+            <sparkle:shortVersionString>1.50.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>Um painel, a tela inteira.</b> O cabeçalho ganhou o botão de maximizar, vizinho do minimizar e o contrário dele: em vez de guardar este painel, guarda todos os outros e deixa o que ficou ocupando o app inteiro. É o jeito de ler um navegador, um terminal ou um design sem nada em volta. Clique de novo e todo mundo volta exatamente para onde estava — inclusive o que você já tinha guardado antes, que continua guardado.</li>
-  <li><b>Logue uma vez e todo navegador do projeto entra junto.</b> Em Editar canvas → Navegador há uma escolha nova: <b>Sessão dos navegadores</b>. Em &quot;Compartilhada no projeto&quot;, o navegador que você abre e os que os agentes abrem passam a dividir os mesmos logins — o cliente entra no sistema uma vez e continua dentro em cada preview que alguém abrir, hoje e amanhã. Cada projeto tem o seu, e nenhum enxerga o do outro. O padrão continua sendo sessões separadas, e é o mais seguro: o que você tem logado nos seus navegadores nunca é entregue a um agente sem você mandar.</li>
-  <li><b>Mande um print do celular direto para o agente.</b> No Canvas Companion, o campo de mensagem ganhou um clipe: tire uma foto ou escolha da galeria, escreva a pergunta junto se quiser, e mande. No Mac a imagem cola no canvas ao lado do painel dele e o caminho dela já entra na linha de prompt — o mesmo que acontece quando você arrasta uma foto para cima de um agente aqui. Dá para mandar só a imagem, sem escrever nada: aí o caminho fica esperando na caixa dele e a pergunta você escreve quando quiser, do celular ou da mesa.</li>
-  <li><b>Um navegador que não conhece ninguém, quando você quiser.</b> No clique-direito de qualquer painel de navegador há <b>Sessão limpa</b>: ele esquece tudo e passa a navegar como um visitante — bom para testar o cadastro do zero ou ver o site como quem chega pela primeira vez. Ao lado, <b>Sair de todas as sessões do projeto</b>. E dá para pedir a um agente: &quot;abre o preview deslogado&quot;.</li>
+  <li>Melhorias de estabilidade e pequenos consertos.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.50.0.dmg" length="53722482" type="application/octet-stream" sparkle:edSignature="ql8SWIIS6+QQw6Aw2AxcPpMGoCZ2ctTLQXkceLbP8GH+NRZIfg/CivxOdeUMioNYsXoDh4WB/D40syI+XBAfAg=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.50.1.dmg" length="53653242" type="application/octet-stream" sparkle:edSignature="+80bNgvNYsCtoVRKr1ffFHjCu5Y4d0qifCd4F4kM2R2mYlC5EOAVNYS/+M3ne48SeeScqwg7bnFHQYN5jc5TDw=="/>
         </item>
     </channel>
 </rss>
