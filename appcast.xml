@@ -3,17 +3,19 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.49.0</title>
-            <pubDate>Thu, 06 Aug 2026 15:22:32 -0300</pubDate>
-            <sparkle:version>202608061516</sparkle:version>
-            <sparkle:shortVersionString>1.49.0</sparkle:shortVersionString>
+            <title>1.50.0</title>
+            <pubDate>Sat, 08 Aug 2026 01:19:23 -0300</pubDate>
+            <sparkle:version>202608080113</sparkle:version>
+            <sparkle:shortVersionString>1.50.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>O manual do CanvasCode, dentro do app.</b> Aperte <code>⌘K</code> e digite <b>ajuda</b>: o manual inteiro abre num painel do canvas, no idioma em que você usa o app. São 77 páginas sobre tudo o que existe aqui, de como criar o primeiro agente ao que pedir para a Nina, e elas vêm do site, então o texto continua atualizado mesmo numa versão instalada há meses.</li>
-  <li><b>O aviso que você desligou no celular fica desligado.</b> Nos Ajustes do Canvas Companion você escolhe para o que quer ser chamado — um agente que pergunta, um que termina, um que caiu — e o silêncio da noite. Essa escolha não saía do telefone, e o Mac tocava tudo assim mesmo. Agora ele obedece, e cada aparelho tem a sua: o iPhone de cabeceira pode ficar só com as perguntas enquanto o outro recebe tudo. O que você desligou continua aparecendo na Atividade do app — some a campainha, não o registro.</li>
+  <li><b>Um painel, a tela inteira.</b> O cabeçalho ganhou o botão de maximizar, vizinho do minimizar e o contrário dele: em vez de guardar este painel, guarda todos os outros e deixa o que ficou ocupando o app inteiro. É o jeito de ler um navegador, um terminal ou um design sem nada em volta. Clique de novo e todo mundo volta exatamente para onde estava — inclusive o que você já tinha guardado antes, que continua guardado.</li>
+  <li><b>Logue uma vez e todo navegador do projeto entra junto.</b> Em Editar canvas → Navegador há uma escolha nova: <b>Sessão dos navegadores</b>. Em &quot;Compartilhada no projeto&quot;, o navegador que você abre e os que os agentes abrem passam a dividir os mesmos logins — o cliente entra no sistema uma vez e continua dentro em cada preview que alguém abrir, hoje e amanhã. Cada projeto tem o seu, e nenhum enxerga o do outro. O padrão continua sendo sessões separadas, e é o mais seguro: o que você tem logado nos seus navegadores nunca é entregue a um agente sem você mandar.</li>
+  <li><b>Mande um print do celular direto para o agente.</b> No Canvas Companion, o campo de mensagem ganhou um clipe: tire uma foto ou escolha da galeria, escreva a pergunta junto se quiser, e mande. No Mac a imagem cola no canvas ao lado do painel dele e o caminho dela já entra na linha de prompt — o mesmo que acontece quando você arrasta uma foto para cima de um agente aqui. Dá para mandar só a imagem, sem escrever nada: aí o caminho fica esperando na caixa dele e a pergunta você escreve quando quiser, do celular ou da mesa.</li>
+  <li><b>Um navegador que não conhece ninguém, quando você quiser.</b> No clique-direito de qualquer painel de navegador há <b>Sessão limpa</b>: ele esquece tudo e passa a navegar como um visitante — bom para testar o cadastro do zero ou ver o site como quem chega pela primeira vez. Ao lado, <b>Sair de todas as sessões do projeto</b>. E dá para pedir a um agente: &quot;abre o preview deslogado&quot;.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.49.0.dmg" length="53524170" type="application/octet-stream" sparkle:edSignature="koOG3zPlI0KYLGS56jJDjCqkBSu54AmzriyjL/1HR8B1UrPtnjZp50wL1ao4HBWfIzO8CquU5fL1fdbWu+t7CQ=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.50.0.dmg" length="53722482" type="application/octet-stream" sparkle:edSignature="ql8SWIIS6+QQw6Aw2AxcPpMGoCZ2ctTLQXkceLbP8GH+NRZIfg/CivxOdeUMioNYsXoDh4WB/D40syI+XBAfAg=="/>
         </item>
     </channel>
 </rss>
