@@ -3,20 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.51.1</title>
-            <pubDate>Sun, 09 Aug 2026 18:55:10 -0300</pubDate>
-            <sparkle:version>202608091848</sparkle:version>
-            <sparkle:shortVersionString>1.51.1</sparkle:shortVersionString>
+            <title>1.51.2</title>
+            <pubDate>Sun, 09 Aug 2026 20:40:13 -0300</pubDate>
+            <sparkle:version>202608092033</sparkle:version>
+            <sparkle:shortVersionString>1.51.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>Pedir variações de design agora rende opções de verdade.</b> Peça &quot;3 telas bem diferentes&quot; e o agente que rege o trabalho dá a cada tela uma direção de arte própria e extrema — uma neo-brutalista, uma de vidro, uma cinemática — em vez de devolver três vezes a mesma ideia com outra cor. E as telas começam a aparecer mais rápido: quem desenha já nasce sabendo o terreno, sem gastar tempo relendo o arquivo.</li>
-  <li><b>O cardápio de estilos de design cresceu.</b> Sete direções novas ao criar ou editar um design: Bento, Neo-brutalista, Vidro/aurora, Blueprint, Monumental, Cinemático e Zine/colagem — dezessete ao todo, cada uma agora com uma doutrina rica de verdade (tese, estrutura, material e a armadilha a evitar), em vez de uma frase solta.</li>
-  <li><b>Os agentes desenham muito mais rápido — e sem pisar um no outro.</b> Uma lista de dez itens ou uma grade de cards, que antes eram dez inserções, agora nascem numa operação só; um cartão que se repete vira componente de verdade: monta-se uma vez, instancia-se N vezes com o dado de cada um, e polir o original atualiza todas as cópias. E quando vários agentes desenham juntos, cada um fica travado no próprio artboard pelo motor — não por promessa.</li>
-  <li><b>Fundos com clima, de graça.</b> Uma estante de texturas embutida (grade, pontos, linhas, scanlines, xadrez, cruzes, ondas e grão de ruído) dá atmosfera a qualquer tela com uma linha — na cor e na intensidade que o design pedir — sem depender de imagem externa.</li>
-  <li><b>Gráficos e tabelas com receita.</b> Os agentes agora sabem de fábrica como montar barras, linhas, anéis, tabelas com zebra e cards de métrica — os padrões que todo dashboard pede paravam de sair cada hora de um jeito.</li>
+  <li><b>O vidro fosco dos designs aparece nas fotos.</b> O efeito de vidro (backdropBlur) sempre funcionou na tela, mas as fotos que os agentes tiram para conferir o trabalho saíam sem ele — e havia agente &quot;consertando&quot; um vidro que não tinha defeito. Agora a foto mostra o vidro como a tela mostra.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.51.1.dmg" length="54491858" type="application/octet-stream" sparkle:edSignature="qdiUqcc6OwEi9pT2+3+YGZfuRMcqSjxlzW7fZqRvYAf1dRPT9z/SMNdQbGHV0Hlk83CoCHUz/DeDa933FjMvBA=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.51.2.dmg" length="57266355" type="application/octet-stream" sparkle:edSignature="dN2fkurNCV0983FwzhPfziH2Q0KZs8DBFIembG/uhoPmfFVHb98E3NUVk+J3tKV9K7ph1W9AFalPI8dWBZNfBw=="/>
         </item>
     </channel>
 </rss>
