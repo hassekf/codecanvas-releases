@@ -3,16 +3,19 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.51.2</title>
-            <pubDate>Sun, 09 Aug 2026 20:40:13 -0300</pubDate>
-            <sparkle:version>202608092033</sparkle:version>
-            <sparkle:shortVersionString>1.51.2</sparkle:shortVersionString>
+            <title>1.51.3</title>
+            <pubDate>Mon, 10 Aug 2026 21:50:32 -0300</pubDate>
+            <sparkle:version>202608102143</sparkle:version>
+            <sparkle:shortVersionString>1.51.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>O vidro fosco dos designs aparece nas fotos.</b> O efeito de vidro (backdropBlur) sempre funcionou na tela, mas as fotos que os agentes tiram para conferir o trabalho saíam sem ele — e havia agente &quot;consertando&quot; um vidro que não tinha defeito. Agora a foto mostra o vidro como a tela mostra.</li>
+  <li><b>Selecionar e copiar no Markdown renderizado.</b> No arquivo <code>.md</code> aberto no canvas, agora dá para arrastar a seleção do título ao parágrafo, atravessando listas, tabelas e blocos de código — e copiar o trecho inteiro. Antes a seleção parava na fronteira de cada bloco.</li>
+  <li><b>O uso do Grok entrou no rodapé e no painel de uso.</b> O anel de porcentagem que o Claude e o Codex já tinham agora existe para o Grok também: quanto da semana de créditos já foi, quando ela zera, e o teto do mês quando o plano tem um. Basta estar logado no CLI do Grok — nada para configurar.</li>
+  <li><b>A lista de arquivos abre espaço para si — e nada mais fica por cima dela.</b> O explorador da lateral agora empurra o canvas em vez de flutuar sobre ele, então os selos do rodapé (o Git, os provedores) não tampam mais a lista nem roubam o clique dos arquivos. Clicou fora dela? Ela sai da frente sozinha. E se você mora nela, um pino novo no topo, ao lado do olho dos arquivos ocultos, a deixa fixa — e fixa ela volta aberta na próxima vez que o app abrir.</li>
+  <li><b>O arquivo que vai junto no prompt deixou de ser invisível.</b> Quando há um arquivo selecionado para acompanhar a próxima mensagem, o botão da pastinha no rodapé ganha uma bolinha — mesmo com a lista fechada, você sabe que tem carona antes de mandar.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.51.2.dmg" length="57266355" type="application/octet-stream" sparkle:edSignature="dN2fkurNCV0983FwzhPfziH2Q0KZs8DBFIembG/uhoPmfFVHb98E3NUVk+J3tKV9K7ph1W9AFalPI8dWBZNfBw=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.51.3.dmg" length="57268740" type="application/octet-stream" sparkle:edSignature="DDVRK1BVImi52uwa05Wv4kHtXFTab4TkA7PyNG2UhHTlWlneE4O7JpzhEmG8YJzUUKupkbr4CRAu1/TcIXXlBw=="/>
         </item>
     </channel>
 </rss>
