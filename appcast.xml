@@ -3,16 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.51.4</title>
-            <pubDate>Mon, 10 Aug 2026 22:09:09 -0300</pubDate>
-            <sparkle:version>202608102202</sparkle:version>
-            <sparkle:shortVersionString>1.51.4</sparkle:shortVersionString>
+            <title>1.51.5</title>
+            <pubDate>Mon, 10 Aug 2026 23:42:42 -0300</pubDate>
+            <sparkle:version>202608102336</sparkle:version>
+            <sparkle:shortVersionString>1.51.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>Melhorias de estabilidade.</b> As Configurações abrem na hora — sem segurar o resto do app (nem o vídeo do papel de parede) enquanto a tela aparece.</li>
+  <li><b>Você escolhe quanto ar existe entre os painéis.</b> Um controle novo em Configurações › Interface abre ou fecha o vão entre os painéis arrumados na grade, e a folga até as bordas da janela vai junto. Eles se rearranjam enquanto você arrasta, então dá para parar exatamente onde ficou bom: colados, para aproveitar cada pixel num notebook, ou bem soltos, num monitor grande. Quem não mexer não vê diferença nenhuma.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.51.4.dmg" length="57182659" type="application/octet-stream" sparkle:edSignature="FF7jp0GvLNqXrOT7R3yMcZZbpcFGg8267BGen7zYgGMTNBWuWfQod4QqZUOSId6JyfNoT3+tHm1MNFnMmMUeCg=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.51.5.dmg" length="57181618" type="application/octet-stream" sparkle:edSignature="rwroz5zOVMw67TBygl6S38wtd8l9KJVfYbZ5kyOAnGdSqgzjQI2+bESdgfcFxxZNHya8qFyzelRmpXQOp9ZfBw=="/>
         </item>
     </channel>
 </rss>
