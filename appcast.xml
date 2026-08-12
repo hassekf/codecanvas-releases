@@ -3,17 +3,19 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.51.6</title>
-            <pubDate>Tue, 11 Aug 2026 17:37:17 -0300</pubDate>
-            <sparkle:version>202608111730</sparkle:version>
-            <sparkle:shortVersionString>1.51.6</sparkle:shortVersionString>
+            <title>1.52.0</title>
+            <pubDate>Wed, 12 Aug 2026 02:49:17 -0300</pubDate>
+            <sparkle:version>202608120242</sparkle:version>
+            <sparkle:shortVersionString>1.52.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>O app manda na própria aparência.</b> Quem usa o Mac no modo claro via a letra dos terminais quase preta sobre o fundo escuro dos painéis, ilegível. O tema do canvas agora decide sozinho como o app se veste, e o macOS lá fora não opina mais.</li>
-  <li><b>O terminal ganhou cor própria.</b> Em Configurações › Terminal você escolhe de que lado vive o console: seguindo o tema, sempre escuro, ou sempre claro. E pode pintar o fundo dele da cor que quiser — o texto se ajusta sozinho, claro sobre fundo escuro e escuro sobre fundo claro. Trocar de lado troca junto as cores que os programas usam, então um terminal claro continua legível: o aviso amarelo e o destaque branco não somem no papel. O tema Marfim agora nasce com o terminal claro, e no escuro sem cor própria o terminal segue de vidro, com o canvas aparecendo através do texto.</li>
+  <li><b>Os avisos podem falar com a sua voz.</b> Se você clonou a sua voz no Voicebox, o app passa a oferecê-la ao lado das outras duas: escolha qual delas em Configurações → Áudio e Voz, e o &quot;o Marshall terminou&quot; chega na sua voz em vez da voz de um app. Roda na sua máquina, sem custo nenhum e sem internet. Em troca, ela demora mais a sair do que as outras, e a tela diz isso antes de você escolher.</li>
+  <li><b>E o app prepara os avisos enquanto o agente ainda trabalha.</b> Como ele sabe o nome do agente e o do projeto desde a hora em que você o abre, ele já vai deixando a frase pronta em segundo plano. Quando o agente termina, o aviso sai na hora, sem a espera da voz clonada.</li>
+  <li><b>As configurações da assistente agora são uma tela só, e ela leva o nome dela.</b> A aba &quot;Conversa&quot; virou a aba da sua assistente — com o nome que você deu a ela — e separa as duas conversas em abas: a escrita, que roda na assinatura que você já paga, e a falada, que é da OpenAI e cobra por minuto. Cada ajuste está do lado de quem ele afeta, e a chave da OpenAI deixou de parecer condição para o que nunca dependeu dela. A saudação do dia e as ferramentas passaram a viver dentro dessa tela, em vez de ocuparem duas linhas do menu.</li>
+  <li><b>A conversa escrita passa a usar todas as ferramentas, sempre.</b> Desligar um grupo em Ferramentas serve para encurtar o que a conversa falada carrega, que é cobrada por minuto — e estava encurtando também a escrita, que não custa nada a mais por isso. Agora quem economiza na voz não perde nada no ⌘J.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.51.6.dmg" length="57272034" type="application/octet-stream" sparkle:edSignature="D0GupYfXCC8XSgyNavhOI0igTvxVE2Ms4ap74sHbd0pUhQshh8sXG2UcsjjWY2SE9Hy2LEDGzmNym4XmCVhNAw=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.52.0.dmg" length="57692136" type="application/octet-stream" sparkle:edSignature="hwmUFluPUy/Gcs69TKM9b5nUtBVI0g7927tZmsgjwLl9IxLL3EkwqU1X6dQLVvA2zTkudPINXn7SO1opyiGVAA=="/>
         </item>
     </channel>
 </rss>
