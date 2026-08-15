@@ -3,17 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.52.1</title>
-            <pubDate>Wed, 12 Aug 2026 11:59:17 -0300</pubDate>
-            <sparkle:version>202608121152</sparkle:version>
-            <sparkle:shortVersionString>1.52.1</sparkle:shortVersionString>
+            <title>1.52.2</title>
+            <pubDate>Sat, 15 Aug 2026 00:27:33 -0300</pubDate>
+            <sparkle:version>202608150020</sparkle:version>
+            <sparkle:shortVersionString>1.52.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>O comando de voz pode rodar na assinatura que você já paga.</b> Em Configurações → Áudio e Voz, o modelo do comando ganha duas opções novas: Claude Code no Opus ou no Sonnet. Escolhida uma delas, falar com o canvas deixa de custar por comando — o que você já paga faz o trabalho. Ele responde em pouco mais de dois segundos, contra pouco mais de um da opção cobrada, e acerta praticamente o mesmo. A tabela da tela mostra os três números lado a lado para você escolher sabendo.</li>
-  <li><b>A resposta falada dos comandos sai na voz que você escolheu.</b> Ela vinha do sintetizador do sistema mesmo com a sua voz clonada ligada e em primeiro lugar — o aviso saía na sua voz e a resposta ao comando, na voz de um app, no mesmo minuto.</li>
+  <li><b>Peça a imagem ao agente e ela aparece no canvas — mesmo que ele não a tenha desenhado.</b> Até agora ele só conseguia colar o que ele mesmo gerava. Agora vale qualquer imagem: a que está no projeto, a que mora em qualquer pasta do seu computador, ou uma que ele achou na internet. Diga &quot;pega o logo em assets e põe aqui do lado&quot;, &quot;cola o print que você tirou&quot;, &quot;traz essa foto do meu Downloads&quot; — ela nasce ao lado do painel dele, com legenda se ele quiser, e fica guardada na galeria do projeto.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.52.1.dmg" length="57788319" type="application/octet-stream" sparkle:edSignature="0IvtEy0Rcm4F2Gri93nzSPhBoFtiHlZy9Y4IAJ5Ijnkd6TDB9LA10/YOAsUeGuxRkJmku1fZzDlBo2UIfRi7AA=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.52.2.dmg" length="57711778" type="application/octet-stream" sparkle:edSignature="TFpdxl2B5LPsrbfNQQ6/qinMzrjcJ1Qf6aPkjlNoYVcsTWjkcKKYJi5RXNWLBykXPyWOoRCr3qpVAZF1iS2ECg=="/>
         </item>
     </channel>
 </rss>
