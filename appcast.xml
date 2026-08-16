@@ -3,16 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.52.2</title>
-            <pubDate>Sat, 15 Aug 2026 00:27:33 -0300</pubDate>
-            <sparkle:version>202608150020</sparkle:version>
-            <sparkle:shortVersionString>1.52.2</sparkle:shortVersionString>
+            <title>1.52.3</title>
+            <pubDate>Sat, 15 Aug 2026 22:21:06 -0300</pubDate>
+            <sparkle:version>202608152214</sparkle:version>
+            <sparkle:shortVersionString>1.52.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>Peça a imagem ao agente e ela aparece no canvas — mesmo que ele não a tenha desenhado.</b> Até agora ele só conseguia colar o que ele mesmo gerava. Agora vale qualquer imagem: a que está no projeto, a que mora em qualquer pasta do seu computador, ou uma que ele achou na internet. Diga &quot;pega o logo em assets e põe aqui do lado&quot;, &quot;cola o print que você tirou&quot;, &quot;traz essa foto do meu Downloads&quot; — ela nasce ao lado do painel dele, com legenda se ele quiser, e fica guardada na galeria do projeto.</li>
+  <li><b>O clique direito no navegador agora abre o inspetor.</b> &quot;Inspecionar elemento&quot; passa a estar no menu, como no Chrome e no Safari: você vê o DOM, mexe no CSS ao vivo, acompanha a rede e usa o console de verdade, sem sair do canvas. Vale também nos painéis de módulo.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.52.2.dmg" length="57711778" type="application/octet-stream" sparkle:edSignature="TFpdxl2B5LPsrbfNQQ6/qinMzrjcJ1Qf6aPkjlNoYVcsTWjkcKKYJi5RXNWLBykXPyWOoRCr3qpVAZF1iS2ECg=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.52.3.dmg" length="57710258" type="application/octet-stream" sparkle:edSignature="DDz7bY+7gfiHJlctQzPtDyQvkAtfsBZPCfVzBBkyOn+bB4lNp8mK2uLe8ZCO90BSXxsm9dklGtN8fQ41gMBcDQ=="/>
         </item>
     </channel>
 </rss>
