@@ -3,16 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.52.3</title>
-            <pubDate>Sat, 15 Aug 2026 22:21:06 -0300</pubDate>
-            <sparkle:version>202608152214</sparkle:version>
-            <sparkle:shortVersionString>1.52.3</sparkle:shortVersionString>
+            <title>1.52.4</title>
+            <pubDate>Thu, 20 Aug 2026 12:33:44 -0300</pubDate>
+            <sparkle:version>202608201226</sparkle:version>
+            <sparkle:shortVersionString>1.52.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>O clique direito no navegador agora abre o inspetor.</b> &quot;Inspecionar elemento&quot; passa a estar no menu, como no Chrome e no Safari: você vê o DOM, mexe no CSS ao vivo, acompanha a rede e usa o console de verdade, sem sair do canvas. Vale também nos painéis de módulo.</li>
+  <li>Abrir um vídeo direto no navegador passou a mostrar o vídeo, e nada mais. Antes ele tocava atrás de um aviso de erro que não tinha o que avisar.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.52.3.dmg" length="57710258" type="application/octet-stream" sparkle:edSignature="DDz7bY+7gfiHJlctQzPtDyQvkAtfsBZPCfVzBBkyOn+bB4lNp8mK2uLe8ZCO90BSXxsm9dklGtN8fQ41gMBcDQ=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.52.4.dmg" length="57711478" type="application/octet-stream" sparkle:edSignature="If4bzoWUWPJRgzC9ZgI8sYiW5upFKM9UEiEvj5rxuRQA3FJKvRsC6lz8gLgU6VOAUc2NEk8g/wRu2jSEuZ4sCw=="/>
         </item>
     </channel>
 </rss>
