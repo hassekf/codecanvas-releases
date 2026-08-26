@@ -3,16 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.52.4</title>
-            <pubDate>Thu, 20 Aug 2026 12:33:44 -0300</pubDate>
-            <sparkle:version>202608201226</sparkle:version>
-            <sparkle:shortVersionString>1.52.4</sparkle:shortVersionString>
+            <title>1.52.5</title>
+            <pubDate>Wed, 26 Aug 2026 14:02:05 -0300</pubDate>
+            <sparkle:version>202608261353</sparkle:version>
+            <sparkle:shortVersionString>1.52.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li>Abrir um vídeo direto no navegador passou a mostrar o vídeo, e nada mais. Antes ele tocava atrás de um aviso de erro que não tinha o que avisar.</li>
+  <li><b>O Canvas Code passou a falar com um teclado de mesa.</b> Um Ulanzi ou um Stream Deck ligado a este Mac já consegue perguntar ao app em que pé estão os seus projetos e os seus agentes, e levar você até qualquer um deles com uma tecla só. Falta a outra metade, o plugin que desenha as teclas, e é ela que vem a seguir.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.52.4.dmg" length="57711478" type="application/octet-stream" sparkle:edSignature="If4bzoWUWPJRgzC9ZgI8sYiW5upFKM9UEiEvj5rxuRQA3FJKvRsC6lz8gLgU6VOAUc2NEk8g/wRu2jSEuZ4sCw=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.52.5.dmg" length="57870218" type="application/octet-stream" sparkle:edSignature="OnJry2nPsAg4uxblbWTHoWp91HzEbYFGkjOwvqTXXsVV+Wi+Y25ERXAy9D20M6b/ev8zVyTrNk2T88Kv0RdgDw=="/>
         </item>
     </channel>
 </rss>
