@@ -3,17 +3,21 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.53.0</title>
-            <pubDate>Mon, 31 Aug 2026 16:13:18 -0300</pubDate>
-            <sparkle:version>202608311605</sparkle:version>
-            <sparkle:shortVersionString>1.53.0</sparkle:shortVersionString>
+            <title>1.53.1</title>
+            <pubDate>Mon, 31 Aug 2026 19:17:20 -0300</pubDate>
+            <sparkle:version>202608311910</sparkle:version>
+            <sparkle:shortVersionString>1.53.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>Um terceiro motor de ditado, para quem fala o jargão do próprio trabalho.</b> Em Ajustes › Áudio e Voz, ao lado do Sistema e do Parakeet, entra o <b>Whisper</b>. Ele é o único que acerta nome técnico e gíria: numa fala de teste, &quot;gateway&quot; — dita cinco vezes — saía &quot;ghetto&quot; e &quot;getway&quot; nas cinco, e com ele sai certo nas cinco. A troca é honesta e está escrita no card: ele demora alguns segundos a mais depois que você solta a tecla, e baixa 1,5 GB uma vez só. Quem quer o texto no ato continua no Parakeet; a escolha é sua, e dá para trocar quantas vezes quiser.</li>
-  <li><b>O modelo do ditado passa a vir da nossa casa.</b> O download do modelo — a única peça que o app precisa buscar para o ditado funcionar — deixou de depender do serviço de terceiros que o publica. Na prática: quem instala o app hoje consegue ditar mesmo num dia em que aquele serviço esteja fora do ar. E se o nosso estiver, o app busca lá como sempre buscou.</li>
+  <li><b>O navegador agora baixa arquivos.</b> Clique num link de download e o arquivo vai para a sua pasta Downloads, com a barrinha de progresso na própria barra do painel. Um clique na seta abre a bandeja com tudo o que chegou: clique numa linha para abrir o arquivo, ou use o botão direito para mostrá-lo no Finder. Baixar duas vezes a mesma coisa não sobrescreve nada, vira &quot;(2)&quot;.</li>
+  <li><b>A página consegue falar com você.</b> Os avisos, as perguntas de sim ou não e os campos que um site abre (o &quot;tem certeza que deseja excluir?&quot;, por exemplo) aparecem dentro do painel, com o endereço de quem está perguntando. Antes eles não apareciam: o site decidia sozinho, sempre pelo &quot;cancelou&quot;, e vários botões pareciam simplesmente não funcionar.</li>
+  <li><b>Dá para anexar arquivo, e usar câmera e microfone.</b> O botão de escolher arquivo de um site abre o seletor do Mac, e uma página que peça a câmera ou o microfone pergunta antes, uma vez, e você responde. Chamada de vídeo, gravador de voz e formulário com anexo passam a funcionar aqui dentro.</li>
+  <li><b>Site com senha ou certificado próprio abre.</b> Se o servidor pedir usuário e senha, o painel pergunta e guarda pela sessão. E o seu servidor de desenvolvimento em HTTPS, aquele cujo certificado o Mac não reconhece, agora mostra o aviso com a saída &quot;continuar assim mesmo&quot; em vez de recusar a abrir sem explicar por quê.</li>
+  <li><b>A barra de endereço também procura.</b> Escreva uma frase em vez de um endereço e ele busca na web. Antes, apertar Enter numa frase não fazia absolutamente nada.</li>
+  <li><b>⌘F procura dentro da página</b>, com anterior e próximo, e Esc fecha. E no menu do painel entraram copiar o endereço, abrir a página no navegador do sistema e imprimir ou salvar em PDF.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.53.0.dmg" length="59246854" type="application/octet-stream" sparkle:edSignature="bVUE0ja+Gcrk0rw6t9qVTiWQCJwQpm6xkzLrVg3ImYcsCH2ltAROVZqxhFzt4VfsvxsfaZaCjozgx21nsVkZCg=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.53.1.dmg" length="59468410" type="application/octet-stream" sparkle:edSignature="SEXiPj3zoLFLGfgRhERkDD+06Ybi0dfiN0vk2pSJ8zU86kzQkmiLi79PiuxribIUgBCP8QTeHIRGgR1B56G+DQ=="/>
         </item>
     </channel>
 </rss>
