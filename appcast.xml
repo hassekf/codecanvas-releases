@@ -3,16 +3,17 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.52.5</title>
-            <pubDate>Wed, 26 Aug 2026 14:02:05 -0300</pubDate>
-            <sparkle:version>202608261353</sparkle:version>
-            <sparkle:shortVersionString>1.52.5</sparkle:shortVersionString>
+            <title>1.53.0</title>
+            <pubDate>Mon, 31 Aug 2026 16:13:18 -0300</pubDate>
+            <sparkle:version>202608311605</sparkle:version>
+            <sparkle:shortVersionString>1.53.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>O Canvas Code passou a falar com um teclado de mesa.</b> Um Ulanzi ou um Stream Deck ligado a este Mac já consegue perguntar ao app em que pé estão os seus projetos e os seus agentes, e levar você até qualquer um deles com uma tecla só. Falta a outra metade, o plugin que desenha as teclas, e é ela que vem a seguir.</li>
+  <li><b>Um terceiro motor de ditado, para quem fala o jargão do próprio trabalho.</b> Em Ajustes › Áudio e Voz, ao lado do Sistema e do Parakeet, entra o <b>Whisper</b>. Ele é o único que acerta nome técnico e gíria: numa fala de teste, &quot;gateway&quot; — dita cinco vezes — saía &quot;ghetto&quot; e &quot;getway&quot; nas cinco, e com ele sai certo nas cinco. A troca é honesta e está escrita no card: ele demora alguns segundos a mais depois que você solta a tecla, e baixa 1,5 GB uma vez só. Quem quer o texto no ato continua no Parakeet; a escolha é sua, e dá para trocar quantas vezes quiser.</li>
+  <li><b>O modelo do ditado passa a vir da nossa casa.</b> O download do modelo — a única peça que o app precisa buscar para o ditado funcionar — deixou de depender do serviço de terceiros que o publica. Na prática: quem instala o app hoje consegue ditar mesmo num dia em que aquele serviço esteja fora do ar. E se o nosso estiver, o app busca lá como sempre buscou.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.52.5.dmg" length="57870218" type="application/octet-stream" sparkle:edSignature="OnJry2nPsAg4uxblbWTHoWp91HzEbYFGkjOwvqTXXsVV+Wi+Y25ERXAy9D20M6b/ev8zVyTrNk2T88Kv0RdgDw=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.53.0.dmg" length="59246854" type="application/octet-stream" sparkle:edSignature="bVUE0ja+Gcrk0rw6t9qVTiWQCJwQpm6xkzLrVg3ImYcsCH2ltAROVZqxhFzt4VfsvxsfaZaCjozgx21nsVkZCg=="/>
         </item>
     </channel>
 </rss>
