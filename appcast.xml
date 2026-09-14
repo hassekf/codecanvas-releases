@@ -3,21 +3,17 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.53.1</title>
-            <pubDate>Mon, 31 Aug 2026 19:17:20 -0300</pubDate>
-            <sparkle:version>202608311910</sparkle:version>
-            <sparkle:shortVersionString>1.53.1</sparkle:shortVersionString>
+            <title>1.54.0</title>
+            <pubDate>Mon, 14 Sep 2026 17:24:24 -0300</pubDate>
+            <sparkle:version>202609141717</sparkle:version>
+            <sparkle:shortVersionString>1.54.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>O navegador agora baixa arquivos.</b> Clique num link de download e o arquivo vai para a sua pasta Downloads, com a barrinha de progresso na própria barra do painel. Um clique na seta abre a bandeja com tudo o que chegou: clique numa linha para abrir o arquivo, ou use o botão direito para mostrá-lo no Finder. Baixar duas vezes a mesma coisa não sobrescreve nada, vira &quot;(2)&quot;.</li>
-  <li><b>A página consegue falar com você.</b> Os avisos, as perguntas de sim ou não e os campos que um site abre (o &quot;tem certeza que deseja excluir?&quot;, por exemplo) aparecem dentro do painel, com o endereço de quem está perguntando. Antes eles não apareciam: o site decidia sozinho, sempre pelo &quot;cancelou&quot;, e vários botões pareciam simplesmente não funcionar.</li>
-  <li><b>Dá para anexar arquivo, e usar câmera e microfone.</b> O botão de escolher arquivo de um site abre o seletor do Mac, e uma página que peça a câmera ou o microfone pergunta antes, uma vez, e você responde. Chamada de vídeo, gravador de voz e formulário com anexo passam a funcionar aqui dentro.</li>
-  <li><b>Site com senha ou certificado próprio abre.</b> Se o servidor pedir usuário e senha, o painel pergunta e guarda pela sessão. E o seu servidor de desenvolvimento em HTTPS, aquele cujo certificado o Mac não reconhece, agora mostra o aviso com a saída &quot;continuar assim mesmo&quot; em vez de recusar a abrir sem explicar por quê.</li>
-  <li><b>A barra de endereço também procura.</b> Escreva uma frase em vez de um endereço e ele busca na web. Antes, apertar Enter numa frase não fazia absolutamente nada.</li>
-  <li><b>⌘F procura dentro da página</b>, com anterior e próximo, e Esc fecha. E no menu do painel entraram copiar o endereço, abrir a página no navegador do sistema e imprimir ou salvar em PDF.</li>
+  <li><b>O iPhone agora roda dentro do canvas.</b> Abra o painel <b>Simulador</b> (⌘K, &quot;simulador&quot;), escolha um aparelho e ele aparece ali mesmo, ao lado do agente que está escrevendo o app: a tela ao vivo, o clique virando toque, o seu teclado escrevendo lá dentro, e os gestos do iOS funcionando: arraste de baixo para cima para voltar à tela inicial. Não é uma foto da janela do Xcode; é o aparelho, com moldura e fundo transparente, pousado no canvas. Quando quiser a janela de sempre, o menu do painel tem &quot;Abrir no Simulador do Xcode&quot;.</li>
+  <li><b>Os agentes veem e mexem no aparelho.</b> Quem está desenvolvendo o app pode conferir o resultado com os próprios olhos e tocar na tela para chegar até ele, sem passar pelo seu mouse. Quando um agente mexe, o nome dele aparece no alto do painel, e você sabe de quem é a mão.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.53.1.dmg" length="59468410" type="application/octet-stream" sparkle:edSignature="SEXiPj3zoLFLGfgRhERkDD+06Ybi0dfiN0vk2pSJ8zU86kzQkmiLi79PiuxribIUgBCP8QTeHIRGgR1B56G+DQ=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.54.0.dmg" length="59733504" type="application/octet-stream" sparkle:edSignature="mOVooRRSgPWtUArkw7sbFcTfi+qo8yHLVwMNWKd60Ywsvo9oTIvlU5/SahByzSZMa+gx8lvV7ezNxIxCgks5AA=="/>
         </item>
     </channel>
 </rss>
