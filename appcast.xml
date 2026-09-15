@@ -3,17 +3,17 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.54.0</title>
-            <pubDate>Mon, 14 Sep 2026 17:24:24 -0300</pubDate>
-            <sparkle:version>202609141717</sparkle:version>
-            <sparkle:shortVersionString>1.54.0</sparkle:shortVersionString>
+            <title>1.55.0</title>
+            <pubDate>Tue, 15 Sep 2026 20:30:03 -0300</pubDate>
+            <sparkle:version>202609152022</sparkle:version>
+            <sparkle:shortVersionString>1.55.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>O iPhone agora roda dentro do canvas.</b> Abra o painel <b>Simulador</b> (⌘K, &quot;simulador&quot;), escolha um aparelho e ele aparece ali mesmo, ao lado do agente que está escrevendo o app: a tela ao vivo, o clique virando toque, o seu teclado escrevendo lá dentro, e os gestos do iOS funcionando: arraste de baixo para cima para voltar à tela inicial. Não é uma foto da janela do Xcode; é o aparelho, com moldura e fundo transparente, pousado no canvas. Quando quiser a janela de sempre, o menu do painel tem &quot;Abrir no Simulador do Xcode&quot;.</li>
-  <li><b>Os agentes veem e mexem no aparelho.</b> Quem está desenvolvendo o app pode conferir o resultado com os próprios olhos e tocar na tela para chegar até ele, sem passar pelo seu mouse. Quando um agente mexe, o nome dele aparece no alto do painel, e você sabe de quem é a mão.</li>
+  <li><b>As tarefas ganham &quot;Bloqueada&quot; — e os status passam a ser seus.</b> Uma tarefa travada esperando outra pessoa agora tem onde ficar, em vez de posar de &quot;em andamento&quot;. E, no fim da barra de abas do painel, você cria os status que o seu projeto precisa (&quot;Em revisão&quot;, &quot;Aguardando cliente&quot;), muda nome, cor e símbolo, reordena e apaga — ao apagar um que está em uso, o app pergunta para onde vão as tarefas que estavam nele, e registra a mudança no histórico de cada uma. Cada projeto tem os seus.</li>
+  <li><b>A lista de tarefas agora tem abas.</b> No topo do painel: &quot;Tudo&quot; e uma aba para cada status, com a contagem ao lado. Em &quot;Tudo&quot; a lista continua inteira e agrupada, e agora qualquer seção pode ser recolhida — não só as Feitas.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.54.0.dmg" length="59733504" type="application/octet-stream" sparkle:edSignature="mOVooRRSgPWtUArkw7sbFcTfi+qo8yHLVwMNWKd60Ywsvo9oTIvlU5/SahByzSZMa+gx8lvV7ezNxIxCgks5AA=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.55.0.dmg" length="59818346" type="application/octet-stream" sparkle:edSignature="ZUtja2YZ+k3frgAhmFUVBXlquvRyCsdw8rVXwUjD/usmAJz7m2mistTv9iBItMN2peMezBzsuEeGIyxNc3+ICQ=="/>
         </item>
     </channel>
 </rss>
