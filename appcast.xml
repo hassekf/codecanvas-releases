@@ -3,17 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.55.0</title>
-            <pubDate>Tue, 15 Sep 2026 20:30:03 -0300</pubDate>
-            <sparkle:version>202609152022</sparkle:version>
-            <sparkle:shortVersionString>1.55.0</sparkle:shortVersionString>
+            <title>1.55.1</title>
+            <pubDate>Thu, 17 Sep 2026 12:40:10 -0300</pubDate>
+            <sparkle:version>202609171232</sparkle:version>
+            <sparkle:shortVersionString>1.55.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>As tarefas ganham &quot;Bloqueada&quot; — e os status passam a ser seus.</b> Uma tarefa travada esperando outra pessoa agora tem onde ficar, em vez de posar de &quot;em andamento&quot;. E, no fim da barra de abas do painel, você cria os status que o seu projeto precisa (&quot;Em revisão&quot;, &quot;Aguardando cliente&quot;), muda nome, cor e símbolo, reordena e apaga — ao apagar um que está em uso, o app pergunta para onde vão as tarefas que estavam nele, e registra a mudança no histórico de cada uma. Cada projeto tem os seus.</li>
-  <li><b>A lista de tarefas agora tem abas.</b> No topo do painel: &quot;Tudo&quot; e uma aba para cada status, com a contagem ao lado. Em &quot;Tudo&quot; a lista continua inteira e agrupada, e agora qualquer seção pode ser recolhida — não só as Feitas.</li>
+  <li><b>Um canvas com um simulador de iPhone volta a abrir.</b> Ele fechava o app na hora, sem aviso.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.55.0.dmg" length="59818346" type="application/octet-stream" sparkle:edSignature="ZUtja2YZ+k3frgAhmFUVBXlquvRyCsdw8rVXwUjD/usmAJz7m2mistTv9iBItMN2peMezBzsuEeGIyxNc3+ICQ=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.55.1.dmg" length="59833355" type="application/octet-stream" sparkle:edSignature="bngoYagVLBS5oBHeGxnAj3DKV4sx1WaokVt2aul30rRrcJMhC7UTVs9HLxsWNKfFG3URsBoji4+nNuFZxXQDBw=="/>
         </item>
     </channel>
 </rss>
