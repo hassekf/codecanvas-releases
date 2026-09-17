@@ -3,16 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.55.1</title>
-            <pubDate>Thu, 17 Sep 2026 12:40:10 -0300</pubDate>
-            <sparkle:version>202609171232</sparkle:version>
-            <sparkle:shortVersionString>1.55.1</sparkle:shortVersionString>
+            <title>1.55.2</title>
+            <pubDate>Thu, 17 Sep 2026 20:18:39 -0300</pubDate>
+            <sparkle:version>202609172011</sparkle:version>
+            <sparkle:shortVersionString>1.55.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>Um canvas com um simulador de iPhone volta a abrir.</b> Ele fechava o app na hora, sem aviso.</li>
+  <li><b>Pedir para rodar um app iOS abre o Simulador do Xcode, e não mais um painel aqui dentro.</b> O agente só traz o aparelho para o canvas quando você pede o simulador aqui dentro. Em Configurações › Simulador você inverte isso: escolha &quot;No painel do canvas&quot; e ele passa a abrir sempre aqui, com o Simulador do Xcode virando o que se pede.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.55.1.dmg" length="59833355" type="application/octet-stream" sparkle:edSignature="bngoYagVLBS5oBHeGxnAj3DKV4sx1WaokVt2aul30rRrcJMhC7UTVs9HLxsWNKfFG3URsBoji4+nNuFZxXQDBw=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.55.2.dmg" length="59840499" type="application/octet-stream" sparkle:edSignature="cYnvW8zJjN501YNuALILYopstR3cVeApIEQwBEoZd2WVJggF1U0vNQq7eqZsznN43ZIDFpvY2enXL8q483UdAg=="/>
         </item>
     </channel>
 </rss>
