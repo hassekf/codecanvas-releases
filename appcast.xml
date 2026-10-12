@@ -3,19 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.56.0</title>
-            <pubDate>Wed, 07 Oct 2026 19:44:35 -0300</pubDate>
-            <sparkle:version>202610071934</sparkle:version>
-            <sparkle:shortVersionString>1.56.0</sparkle:shortVersionString>
+            <title>1.56.1</title>
+            <pubDate>Mon, 12 Oct 2026 15:12:02 -0300</pubDate>
+            <sparkle:version>202610121503</sparkle:version>
+            <sparkle:shortVersionString>1.56.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>O omp chega ao canvas.</b> O oh-my-pi vira mais um tipo de agente, ao lado do Claude, do Codex, do Grok, do opencode e do Cursor: abra pelo ⌘K, pelo seletor ou pela voz (&quot;abre um agente do omp&quot;). Ele trabalha com os modelos das contas que você logou nele, usa as ferramentas do canvas, conversa com os outros agentes e volta com a conversa quando você reabre o app.</li>
-  <li><b>O opencode 2 funciona no canvas.</b> Atualizou o opencode para a versão 2? Os agentes dele continuam acendendo, usando as ferramentas do canvas, recebendo as instruções do projeto e voltando com a conversa — e quem ainda está na versão 1 não precisa fazer nada.</li>
-  <li><b>Feche um agente agrupado direto na aba dele.</b> Passe o cursor sobre a aba e um X aparece, como nas abas do navegador: dá para fechar quem está escondido no grupo sem precisar trazê-lo para a frente antes.</li>
-  <li><b>Agentes trabalham juntos mesmo longe da sua vista.</b> Quando um agente chama um colega ou manda uma mensagem para outro, isso acontece na hora, mesmo que você esteja em outra área ou em outro projeto. E o colega nasce na área de quem o chamou, não na que você está olhando.</li>
+  <li><b>O Mac não dorme no meio do trabalho dos agentes.</b> Pode deixar os agentes trabalhando e se afastar: enquanto algum deles estiver no meio de uma tarefa, o Mac não entra em repouso por inatividade, e volta às regras normais de energia assim que o último termina ou fica esperando você. Um selo &quot;Mac acordado&quot; no rodapé mostra quando isso está valendo. Vem ligado; em Configurações › Agentes você desliga, ou pede para a tela também ficar acesa.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.56.0.dmg" length="59965983" type="application/octet-stream" sparkle:edSignature="6I7fnwLLsytDFvNMLKXnS2xyI+cotnfoKIRMpZL595OIQgXjab4Dx2zIN67lx4c/40GoJ9VKHd8cgiLeBCY/Ag=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.56.1.dmg" length="59944707" type="application/octet-stream" sparkle:edSignature="hSURABs1erItNxPfLRkIbMkQ9c12K2+XMcoCGobSBlMFxlsqsc4RUz0UP0NqHzB4m3/vfDXalK6vQlGZ+/YzBw=="/>
         </item>
     </channel>
 </rss>
