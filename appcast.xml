@@ -3,16 +3,18 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.56.1</title>
-            <pubDate>Mon, 12 Oct 2026 15:12:02 -0300</pubDate>
-            <sparkle:version>202610121503</sparkle:version>
-            <sparkle:shortVersionString>1.56.1</sparkle:shortVersionString>
+            <title>1.57.0</title>
+            <pubDate>Tue, 13 Oct 2026 15:46:26 -0300</pubDate>
+            <sparkle:version>202610131538</sparkle:version>
+            <sparkle:shortVersionString>1.57.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>O Mac não dorme no meio do trabalho dos agentes.</b> Pode deixar os agentes trabalhando e se afastar: enquanto algum deles estiver no meio de uma tarefa, o Mac não entra em repouso por inatividade, e volta às regras normais de energia assim que o último termina ou fica esperando você. Um selo &quot;Mac acordado&quot; no rodapé mostra quando isso está valendo. Vem ligado; em Configurações › Agentes você desliga, ou pede para a tela também ficar acesa.</li>
+  <li><b>Os agentes podem conversar entre si, se você deixar.</b> Em Configurações › Agentes há um interruptor novo, <b>Conversa livre entre agentes</b>. Ligado, qualquer agente do projeto manda mensagem para qualquer outro, em qualquer área, na tela ou minimizado. Desligado (o padrão), cada um só fala com quem chamou ou com quem o chamou. Quem manda diz se quer resposta, então eles não ficam se agradecendo sem parar. E se você pedir para falar com um agente que já foi fechado, ele volta à tela com a memória dele para receber o recado.</li>
+  <li><b>Os agentes arrumam a tela por você.</b> Peça a um agente para minimizar, tirar da estante, maximizar, destacar, soltar da grade ou mudar de área qualquer painel do canvas, e ele faz. A sua tela e o painel que você está usando ficam onde estão, e quando algo sai da vista aparece um aviso com o botão para desfazer.</li>
+  <li><b>Você pode escrever à vontade enquanto os agentes conversam.</b> O recado que um agente manda a outro não entra mais pelo campo onde você digita. Nos agentes do Claude, ele chega por dentro, como mensagem de um colega, e a frase que você deixou pela metade continua lá, intacta. Nos outros, o recado espera você enviar ou apagar o que estava escrevendo.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.56.1.dmg" length="59944707" type="application/octet-stream" sparkle:edSignature="hSURABs1erItNxPfLRkIbMkQ9c12K2+XMcoCGobSBlMFxlsqsc4RUz0UP0NqHzB4m3/vfDXalK6vQlGZ+/YzBw=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.57.0.dmg" length="60056237" type="application/octet-stream" sparkle:edSignature="yfW+A3Jl99FyiRzJEmbDzJOUAPUDlQF0jx73rMOIoKw7Wh2BGK/JlQ1jBjov1ttfe6WYHTmOs7ONj1LXq9whAA=="/>
         </item>
     </channel>
 </rss>
