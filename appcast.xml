@@ -3,18 +3,17 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.57.0</title>
-            <pubDate>Tue, 13 Oct 2026 15:46:26 -0300</pubDate>
-            <sparkle:version>202610131538</sparkle:version>
-            <sparkle:shortVersionString>1.57.0</sparkle:shortVersionString>
+            <title>1.57.1</title>
+            <pubDate>Thu, 22 Oct 2026 23:47:45 -0300</pubDate>
+            <sparkle:version>202610222338</sparkle:version>
+            <sparkle:shortVersionString>1.57.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>Os agentes podem conversar entre si, se você deixar.</b> Em Configurações › Agentes há um interruptor novo, <b>Conversa livre entre agentes</b>. Ligado, qualquer agente do projeto manda mensagem para qualquer outro, em qualquer área, na tela ou minimizado. Desligado (o padrão), cada um só fala com quem chamou ou com quem o chamou. Quem manda diz se quer resposta, então eles não ficam se agradecendo sem parar. E se você pedir para falar com um agente que já foi fechado, ele volta à tela com a memória dele para receber o recado.</li>
-  <li><b>Os agentes arrumam a tela por você.</b> Peça a um agente para minimizar, tirar da estante, maximizar, destacar, soltar da grade ou mudar de área qualquer painel do canvas, e ele faz. A sua tela e o painel que você está usando ficam onde estão, e quando algo sai da vista aparece um aviso com o botão para desfazer.</li>
-  <li><b>Você pode escrever à vontade enquanto os agentes conversam.</b> O recado que um agente manda a outro não entra mais pelo campo onde você digita. Nos agentes do Claude, ele chega por dentro, como mensagem de um colega, e a frase que você deixou pela metade continua lá, intacta. Nos outros, o recado espera você enviar ou apagar o que estava escrevendo.</li>
+  <li><b>Os modelos GPT-6 chegam aos agentes do Codex.</b> O seletor de modelo do Codex passa a oferecer o gpt-6.1-sol, o gpt-6-sol, o gpt-6-luna e o gpt-6-astra, ao lado da geração 5.6.</li>
+  <li>Melhorias de estabilidade e pequenos consertos.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.57.0.dmg" length="60056237" type="application/octet-stream" sparkle:edSignature="yfW+A3Jl99FyiRzJEmbDzJOUAPUDlQF0jx73rMOIoKw7Wh2BGK/JlQ1jBjov1ttfe6WYHTmOs7ONj1LXq9whAA=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.57.1.dmg" length="60079168" type="application/octet-stream" sparkle:edSignature="oY5v1OLJsTQymVzqwsEb3h50Oz5OAyKX1vTM4LpxGKzY212cI4rJF61KCh7pHMdGySNXqKxF073JZ2n9IISRAA=="/>
         </item>
     </channel>
 </rss>
