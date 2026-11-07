@@ -3,23 +3,18 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.58.0</title>
-            <pubDate>Wed, 04 Nov 2026 23:13:04 -0300</pubDate>
-            <sparkle:version>202611042304</sparkle:version>
-            <sparkle:shortVersionString>1.58.0</sparkle:shortVersionString>
+            <title>1.59.0</title>
+            <pubDate>Sat, 07 Nov 2026 13:33:54 -0300</pubDate>
+            <sparkle:version>202611071325</sparkle:version>
+            <sparkle:shortVersionString>1.59.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>O seu Telegram dentro do canvas.</b> Abra pelo ⌘K, entre com o QR code do celular e converse com a sua conta de verdade: grupos, canais e conversas, num painel ao lado do trabalho. Abra quantos painéis quiser, em qualquer projeto, e destaque uma conversa num painel só dela para deixá-la perto do que você está fazendo. Tudo se ajusta em Configurações › Telegram.</li>
-  <li><b>As pastas, a mídia e os links do Telegram.</b> As suas pastas viram abas no topo da lista. Fotos abrem no canvas, vídeos e GIFs tocam na conversa, áudios têm player, e arquivos baixam e abrem no canvas ou no app do Mac. Arraste arquivos para a conversa para mandá-los. Links do Telegram abrem a conversa ali mesmo, e os da web abrem no navegador do canvas.</li>
-  <li><b>Fotos e vídeos do Telegram em grande.</b> Clique numa foto, ou expanda um vídeo, e ela abre num painel ao lado da conversa, com setas para passar pelas outras mídias. Nada fica por cima da imagem: as setas, a legenda e os controles do vídeo moram numa barra embaixo dela. O vídeo continua de onde parou, tem picture-in-picture e cresce com o maximizar do painel.</li>
-  <li><b>A gaveta do Telegram, os avisos e as ações.</b> O ícone do Telegram no rodapé (ou ⌘⇧T) abre as suas conversas numa gaveta à esquerda, com as não lidas no ícone. Mensagem nova avisa, menos nas conversas que você silenciou no Telegram. No clique direito de uma mensagem: responder, reagir, encaminhar, editar e apagar. E a busca acha conversas e mensagens no Telegram inteiro.</li>
-  <li><b>Áudio de voz e ditado no Telegram.</b> Grave e mande áudio de voz pelo microfone ao lado da caixa de texto. E com o painel do Telegram selecionado, o ditado escreve direto na caixa da conversa, esperando você revisar e mandar.</li>
-  <li><b>Os agentes e a Nina no seu Telegram.</b> Peça &quot;o que chegou no Telegram?&quot;, &quot;o que o Wesley falou no áudio?&quot; ou &quot;responde pro grupo que a reunião mudou&quot;, e eles leem, ouvem os áudios e escrevem por você. Em cada conversa, o botão ao lado do nome decide o que eles podem: não mexer, só ler, propor a resposta (que espera na sua caixa de texto até você enviar) ou enviar direto. Embaixo de cada mensagem que um agente escreveu, aparece quem foi. E o clique direito numa mensagem a manda para um agente, que já existe ou novo.</li>
-  <li><b>Mande do canvas para o Telegram.</b> O clique direito num arquivo, numa imagem da galeria ou num item da gaveta de arquivos tem &quot;Enviar para o Telegram&quot;, com as Mensagens Salvas primeiro: o jeito mais curto de levar algo do Mac para o celular.</li>
-  <li><b>Fale com os agentes de longe, pelas Mensagens Salvas.</b> Do celular, escreva &quot;@Apolo roda os testes&quot; nas suas Mensagens Salvas: o recado chega ao agente, e quando ele termina, a resposta volta para lá, como lembrete, e o celular avisa. Liga em Configurações › Telegram.</li>
+  <li><b>As worktrees que os agentes deixam para trás saem do seu disco.</b> De tempos em tempos, o app procura em todos os projetos as que ninguém mexe há mais de um dia e mostra a lista, com quanto cada uma ocupa: as que não têm nada a perder já vêm marcadas, e as que guardam trabalho não integrado vêm desmarcadas, dizendo o que há em cada uma. A pasta de compilação do Xcode de cada uma vai junto. Em Configurações › Agentes você escolhe a frequência, manda procurar na hora, ou deixa o app limpar as seguras sem perguntar.</li>
+  <li><b>Ande pelo canvas com dois dedos no trackpad.</b> Deslize dois dedos sobre o fundo do canvas e a vista vai junto, com a inércia de sempre do Mac. Em cima de um painel, os dois dedos continuam rolando o painel. Sem mouse, você não precisa mais do clique secundário para se mover.</li>
+  <li><b>O selo &quot;Mac acordado&quot; pode sair do rodapé.</b> Em Configurações › Interface, desligue o selo e o Mac continua acordado enquanto os agentes trabalham, só que sem avisar.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.58.0.dmg" length="89446749" type="application/octet-stream" sparkle:edSignature="gX/oGyLISVoRWyVuX69WYq9SEWqZL67krqYv+FdUEzVh5aTbRmqa0UG7Oza+YUIuVSlSpXTn/28d8k/gAPxRCg=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.59.0.dmg" length="89757623" type="application/octet-stream" sparkle:edSignature="pV64cKPS6cyoYVMHg24NSf2rROk89ZV76Ds8zR2T6XnQ6QcNgkjqu/dm/cuwVyvv1jvJBlQzynGI5+tB++W5AQ=="/>
         </item>
     </channel>
 </rss>
