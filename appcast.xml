@@ -3,18 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.59.0</title>
-            <pubDate>Sat, 07 Nov 2026 13:33:54 -0300</pubDate>
-            <sparkle:version>202611071325</sparkle:version>
-            <sparkle:shortVersionString>1.59.0</sparkle:shortVersionString>
+            <title>1.59.1</title>
+            <pubDate>Mon, 09 Nov 2026 15:26:28 -0300</pubDate>
+            <sparkle:version>202611091517</sparkle:version>
+            <sparkle:shortVersionString>1.59.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>As worktrees que os agentes deixam para trás saem do seu disco.</b> De tempos em tempos, o app procura em todos os projetos as que ninguém mexe há mais de um dia e mostra a lista, com quanto cada uma ocupa: as que não têm nada a perder já vêm marcadas, e as que guardam trabalho não integrado vêm desmarcadas, dizendo o que há em cada uma. A pasta de compilação do Xcode de cada uma vai junto. Em Configurações › Agentes você escolhe a frequência, manda procurar na hora, ou deixa o app limpar as seguras sem perguntar.</li>
-  <li><b>Ande pelo canvas com dois dedos no trackpad.</b> Deslize dois dedos sobre o fundo do canvas e a vista vai junto, com a inércia de sempre do Mac. Em cima de um painel, os dois dedos continuam rolando o painel. Sem mouse, você não precisa mais do clique secundário para se mover.</li>
-  <li><b>O selo &quot;Mac acordado&quot; pode sair do rodapé.</b> Em Configurações › Interface, desligue o selo e o Mac continua acordado enquanto os agentes trabalham, só que sem avisar.</li>
+  <li><b>O Canvas Companion volta a encontrar o seu Mac.</b> Quem instalou o app do iPhone pela App Store ficava em &quot;Procurando o seu Mac&quot; e depois via o aviso de Mac desligado, com o Mac ligado na frente. Com esta versão, o celular volta a mostrar os seus projetos e agentes e a falar com eles, sem precisar atualizar nada no iPhone.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.59.0.dmg" length="89757623" type="application/octet-stream" sparkle:edSignature="pV64cKPS6cyoYVMHg24NSf2rROk89ZV76Ds8zR2T6XnQ6QcNgkjqu/dm/cuwVyvv1jvJBlQzynGI5+tB++W5AQ=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.59.1.dmg" length="89766567" type="application/octet-stream" sparkle:edSignature="vW9kaDJvLIeqScJK3ri8K05wHLz9Mgm42zxkybt76tvJN+FDBazz9TGfmyGk/8kyzL4BLGnxb/ZhnFfkCQXjCg=="/>
         </item>
     </channel>
 </rss>
