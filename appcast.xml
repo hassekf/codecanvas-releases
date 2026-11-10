@@ -3,18 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.60.0</title>
-            <pubDate>Mon, 09 Nov 2026 23:01:07 -0300</pubDate>
-            <sparkle:version>202611092252</sparkle:version>
-            <sparkle:shortVersionString>1.60.0</sparkle:shortVersionString>
+            <title>1.60.1</title>
+            <pubDate>Tue, 10 Nov 2026 15:10:42 -0300</pubDate>
+            <sparkle:version>202611101501</sparkle:version>
+            <sparkle:shortVersionString>1.60.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>Rotinas: ordens com hora marcada que os agentes cumprem sozinhos.</b> Peça a qualquer agente (ou à Nina) &quot;cria uma rotina que todo dia útil às 8h30 monta o plano do dia&quot;, &quot;a cada 15 minutos, vê se alguém me chamou no Slack&quot; ou &quot;me lembra toda sexta às 17h de fechar a semana&quot;, e na hora o canvas entrega a ordem a um agente, roda um comando ou faz o lembrete chegar. Elas rodam em todos os projetos abertos, mesmo os que não estão na tela, e cada uma lembra o que já viu de uma vez para a outra.</li>
-  <li><b>Uma caixa para o que as rotinas acharam.</b> O resumo do dia, a pergunta que o agente quer que você decida e o rascunho de resposta para alguém chegam no painel <b>Rotinas</b>: você aprova (ou edita) e o agente envia. Execução sem nada a dizer não incomoda ninguém, e o que importa também pode chegar no seu Telegram ou ser dito em voz alta. A Nina conta no bom-dia o que as rotinas trouxeram.</li>
-  <li><b>Vigias que só acordam um agente quando há algo novo.</b> Uma rotina pode conferir antes, com um comando rápido, se algo mudou (um PR, uma mensagem, um ticket), e o agente só é chamado para o que ainda não viu. Ela também pode ser disparada de fora: um comando copiado do painel a roda a partir de um agendador, de um hook do git ou de um Atalho do macOS.</li>
+  <li><b>O seu Ulanzi mostra, ao vivo, quem está te esperando.</b> Com o plugin do CanvasCode instalado no Ulanzi Studio, cada projeto vira uma tecla que acende em âmbar quando algum agente parou esperando você (para aprovar, responder ou mandar um rascunho) e em vermelho quando um deles caiu, com o número no canto. Uma tecla <b>Quem me espera</b> leva direto ao agente parado há mais tempo, em qualquer projeto, e a cada aperto vai para o seguinte. Na tecla larga do D200X fica o placar do dia: quantos te esperam, quantos trabalham e o que o mais antigo está pedindo. As teclas usam a fonte e as cores de cada projeto, e seguem o idioma do app. Faz parte do plano Team.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.60.0.dmg" length="90728708" type="application/octet-stream" sparkle:edSignature="YCPl1CNLwVVo94ZgXrkNtPwjfs2FvQuKzdpD7q86cQu3rb2dkta21KedW7V5t0HYLDxQp3GuorPeu9ENGrv6Bw=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.60.1.dmg" length="90878827" type="application/octet-stream" sparkle:edSignature="wlgca8Kc4lqT6KB/j1yASQ9hcyKDBkzk/qjEvrk83HiYzcipLwcnTgFgNmKTD019B1H7RnNjl8jFHq6dMDk3Bw=="/>
         </item>
     </channel>
 </rss>
