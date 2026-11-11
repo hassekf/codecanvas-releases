@@ -3,16 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.60.1</title>
-            <pubDate>Tue, 10 Nov 2026 15:10:42 -0300</pubDate>
-            <sparkle:version>202611101501</sparkle:version>
-            <sparkle:shortVersionString>1.60.1</sparkle:shortVersionString>
+            <title>1.60.2</title>
+            <pubDate>Wed, 11 Nov 2026 10:46:45 -0300</pubDate>
+            <sparkle:version>202611111038</sparkle:version>
+            <sparkle:shortVersionString>1.60.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>O seu Ulanzi mostra, ao vivo, quem está te esperando.</b> Com o plugin do CanvasCode instalado no Ulanzi Studio, cada projeto vira uma tecla que acende em âmbar quando algum agente parou esperando você (para aprovar, responder ou mandar um rascunho) e em vermelho quando um deles caiu, com o número no canto. Uma tecla <b>Quem me espera</b> leva direto ao agente parado há mais tempo, em qualquer projeto, e a cada aperto vai para o seguinte. Na tecla larga do D200X fica o placar do dia: quantos te esperam, quantos trabalham e o que o mais antigo está pedindo. As teclas usam a fonte e as cores de cada projeto, e seguem o idioma do app. Faz parte do plano Team.</li>
+  <li><b>As teclas do seu Ulanzi mantêm a cara que você deu a elas, e só acendem pelo que é de agora.</b> Cada tecla de projeto continua com o seu ícone, e ganha um número no canto quando há alguém te esperando lá: âmbar para quem acabou de terminar e deixou algo para você, vermelho para quem está travado pedindo permissão ou caiu. O que terminou há mais de duas horas deixa de acender (a pendência continua no cartão do agente), e o deck para de ficar sempre aceso. Apertar a tecla do projeto leva ao projeto, como o ⌃1…⌃9, e traz o CanvasCode para a frente mesmo que você esteja noutro app. A tecla <b>Quem me espera</b> leva um a um, os travados primeiro. O placar da tecla larga saiu: o D200X desenha o relógio dele por cima.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.60.1.dmg" length="90878827" type="application/octet-stream" sparkle:edSignature="wlgca8Kc4lqT6KB/j1yASQ9hcyKDBkzk/qjEvrk83HiYzcipLwcnTgFgNmKTD019B1H7RnNjl8jFHq6dMDk3Bw=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.60.2.dmg" length="90865693" type="application/octet-stream" sparkle:edSignature="h2VMTg6invaxQ/p74LPOLMJucxN46MFczBbkGwqkArVcus/uUsh5D5VeZWZPzjszdqux/WlIo7x/aYC8Pz2nDg=="/>
         </item>
     </channel>
 </rss>
