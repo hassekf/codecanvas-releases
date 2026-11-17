@@ -3,23 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.61.0</title>
-            <pubDate>Tue, 17 Nov 2026 01:23:39 -0300</pubDate>
-            <sparkle:version>202611170114</sparkle:version>
-            <sparkle:shortVersionString>1.61.0</sparkle:shortVersionString>
+            <title>1.61.1</title>
+            <pubDate>Tue, 17 Nov 2026 10:40:16 -0300</pubDate>
+            <sparkle:version>202611171031</sparkle:version>
+            <sparkle:shortVersionString>1.61.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>CanvaBots: ajudantes com nome, que ficam no projeto.</b> Descreva numa frase o que você quer (&quot;um bot que revisa meus PRs antes de abrir&quot;) e o cartão do bot se monta na sua frente: nome, cara, o que ele faz e quando entra. Você só aperta <b>Criar</b>. Ou comece por uma sugestão pronta: Revisor de PR, Caixa de e-mail, Vigia de build, Tradutor, QA, Documentador. O mesmo bot volta sempre, com a memória dele, e quem clona o projeto recebe os bots junto.</li>
-  <li><b>Chame pelo nome, ou deixe que entrem sozinhos.</b> Escreva <code>@Revisor</code> na sala, ou configure quando ele entra: num horário, quando um agente abre um PR, dá push, termina um turno, edita um caminho, pede ajuda ou roda um comando, quando algo chegar de fora, ou por uma regra que vale para todos os agentes do projeto.</li>
-  <li><b>Um bot pode segurar um comando até dar o veredito.</b> O agente vai abrir o PR, o Revisor olha antes e responde: liberou, devolveu com o que corrigir, ou chamou você. O <b>Liberar</b> é sempre seu, e um bot que não consegue responder nunca deixa o comando preso.</li>
-  <li><b>Cada bot enxerga só o que você der a ele.</b> O bot do Gmail acessa o Gmail, o resto do canvas não. Um bot <b>só lê</b> de verdade: o app barra a edição de arquivos, o commit e o push dele.</li>
-  <li><b>Eles aprendem com você, se você deixar.</b> Cada bot guarda notas de uma vez para a outra. Quando você o corrige, ele propõe uma regra nova, e ela só vale depois do seu sim.</li>
-  <li><b>A sala é o lugar da conversa.</b> O bot responde ali, e só ali; para falar só com ele, <b>Conversar a sós</b> traz o painel dele para o canvas. Crie salas em grupo com alguns bots, onde todos ouvem o que você escreve. A sala abre com ⌘⇧S ou pelo ícone dos bots na barra, e pode morar no canvas como um painel.</li>
-  <li><b>Um bot que chega pelo repositório espera o seu sim neste Mac</b> antes de rodar, e você liga e desliga cada um no seu computador.</li>
-  <li><b>Fale pela voz.</b> &quot;Cria um bot que olha meus e-mails às 9h&quot;, &quot;desliga o Vigia de build&quot;, &quot;manda na sala pro Revisor olhar o login&quot;.</li>
+  <li><b>A barra de frentes encaixada lembra como você a deixou.</b> Fechou, ela continua fechada: não reabre mais sozinha a cada projeto que você abre, nem quando o app volta.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.61.0.dmg" length="93062210" type="application/octet-stream" sparkle:edSignature="GuB2+coQbU1WKC2x2yOwzPyp2dNt4+50Xg9fkg6xRrPfAdRyc4N0Y5gFgATCM10/NpcrcIC0qvKEYq0RRUljDw=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.61.1.dmg" length="92061661" type="application/octet-stream" sparkle:edSignature="RW4Yu0Hc/b/hNn09eVY8BJFDunajKUNAh6CVqysqs6jvVc10bMXW39oE/PVfS3LGaO9yOEZFTMwferA1eEu/DQ=="/>
         </item>
     </channel>
 </rss>
