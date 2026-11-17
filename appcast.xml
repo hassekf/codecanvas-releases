@@ -3,16 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.61.1</title>
-            <pubDate>Tue, 17 Nov 2026 10:40:16 -0300</pubDate>
-            <sparkle:version>202611171031</sparkle:version>
-            <sparkle:shortVersionString>1.61.1</sparkle:shortVersionString>
+            <title>1.62.0</title>
+            <pubDate>Tue, 17 Nov 2026 20:55:39 -0300</pubDate>
+            <sparkle:version>202611172046</sparkle:version>
+            <sparkle:shortVersionString>1.62.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>A barra de frentes encaixada lembra como você a deixou.</b> Fechou, ela continua fechada: não reabre mais sozinha a cada projeto que você abre, nem quando o app volta.</li>
+  <li><b>Um CanvaBot pode usar os conectores da sua conta.</b> Em &quot;O que acessa&quot;, ligue <b>Conectores da sua conta</b> e o bot passa a enxergar o Slack, o Jira, o Gmail, o Granola e os outros que você conectou no claude.ai, sem carregar junto os servidores locais que pesam na memória.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.61.1.dmg" length="92061661" type="application/octet-stream" sparkle:edSignature="RW4Yu0Hc/b/hNn09eVY8BJFDunajKUNAh6CVqysqs6jvVc10bMXW39oE/PVfS3LGaO9yOEZFTMwferA1eEu/DQ=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.62.0.dmg" length="92160771" type="application/octet-stream" sparkle:edSignature="CB5YVDVDNrg4VfAkWI0r+ztxScQ7Nlt7fA6IUzpIuilncKLUQWWwOr2P2TWjmkKNK/4KXCkr59KdIyPJPbsMCQ=="/>
         </item>
     </channel>
 </rss>
