@@ -3,16 +3,18 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.62.1</title>
-            <pubDate>Wed, 18 Nov 2026 00:05:15 -0300</pubDate>
-            <sparkle:version>202611172356</sparkle:version>
-            <sparkle:shortVersionString>1.62.1</sparkle:shortVersionString>
+            <title>1.63.0</title>
+            <pubDate>Wed, 18 Nov 2026 08:30:44 -0300</pubDate>
+            <sparkle:version>202611180821</sparkle:version>
+            <sparkle:shortVersionString>1.63.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>Quando um agente faz várias perguntas de uma vez, a sua resposta pelo iPhone chega até ele.</b> Antes, as respostas entravam, mas a tela final de revisão ficava parada no Mac esperando um Enter, e o agente não seguia. Vale também para a resposta por voz. E nas perguntas de múltipla escolha você pode marcar opções e escrever uma resposta sua, as duas juntas.</li>
+  <li><b>A sala mostra o bot trabalhando.</b> Enquanto um CanvaBot trabalha para você, a sala mostra os passos dele (o que leu, o que rodou), um batimento dos últimos minutos e há quanto tempo ele está nisso. Se ele ficar calado tempo demais, a sala avisa &quot;sem sinal&quot; e depois &quot;parece travado&quot;, e oferece ver o terminal dele ou dar um cutucão. Um build demorado aparece como comando longo, sem alarme falso.</li>
+  <li><b>Responda o bot com um clique.</b> Quando um bot precisa de uma decisão sua, a pergunta aparece na sala com as opções para clicar, uma guia para cada pergunta e um campo para escrever outra resposta. O que você escolheu fica na conversa.</li>
+  <li><b>Um time por aba.</b> Uma sala em grupo pode ser só de uma aba do canvas: ela aparece apenas ali, e ao trocar para aquela aba a sala dos bots já abre no time dela. Os times sem aba e a Geral continuam em todas as abas.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.62.1.dmg" length="92163395" type="application/octet-stream" sparkle:edSignature="zcHYkvGMm7egzQmaiWeCkrjyDofswDPBgNaVwO+aB4QHCsUrZHAUXOaOchx8dzxPXnI0aBqGMjSS/KrRT2e6DQ=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.63.0.dmg" length="92322200" type="application/octet-stream" sparkle:edSignature="n/jA5u9YICx4oNlDYc3kQAqSVIulmXMwEnnHnmd+UySo7SBNARc2FsUrzopyaTBkoNzgpU7C3ZyByujgJbpmBw=="/>
         </item>
     </channel>
 </rss>
