@@ -3,18 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.64.0</title>
-            <pubDate>Wed, 18 Nov 2026 11:47:08 -0300</pubDate>
-            <sparkle:version>202611181137</sparkle:version>
-            <sparkle:shortVersionString>1.64.0</sparkle:shortVersionString>
+            <title>1.65.0</title>
+            <pubDate>Wed, 18 Nov 2026 13:24:24 -0300</pubDate>
+            <sparkle:version>202611181315</sparkle:version>
+            <sparkle:shortVersionString>1.65.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>Chame um bot na sala sem tirar a mão do teclado.</b> Depois do <code>@</code>, o Tab completa o nome, as setas andam pela lista e o Esc a fecha.</li>
-  <li><b>Veja o time conversando num mapa.</b> Um painel novo desenha quem fala com quem nas salas, quem está trabalhando, quem espera você e o que cada bot ainda tem para fazer. Clique num bot para ver o que ele está fazendo e responder o que ele perguntou; clique numa seta para ler aquela conversa.</li>
-  <li><b>Mande vários pedidos ao mesmo bot sem que um atropele o outro.</b> Eles entram numa fila e são feitos um de cada vez, cada um com a sua resposta. Você vê o que espera a vez, e pode tirar um pedido da fila antes de ele começar.</li>
+  <li><b>Responda à fala certa de um bot.</b> Passe o mouse numa mensagem e clique em Responder: a sua resposta vai só para aquele bot, com a fala dele citada, mesmo que outros tenham falado depois. Quando um bot termina com uma pergunta, o campo já abre respondendo a ela, e o Esc desfaz.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.64.0.dmg" length="92542202" type="application/octet-stream" sparkle:edSignature="BujUqFsE7lhZfJwSrnA8RnYhnbRgJLsux2LSLOWp/9tL4iVEHSsH+WvORBbpSvFvJNBtycfh8q4jQgpwP4/oCw=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.65.0.dmg" length="92661217" type="application/octet-stream" sparkle:edSignature="DUgJgHFKf3e0DrIiAFpcQkjmTeOtfxKVEt3LmhpvCrvVXx4bXPZORF/u9+ZMRGcyUTCYfEeRDHDeRrrh78tIBQ=="/>
         </item>
     </channel>
 </rss>
