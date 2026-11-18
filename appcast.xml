@@ -3,16 +3,16 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.62.0</title>
-            <pubDate>Tue, 17 Nov 2026 20:55:39 -0300</pubDate>
-            <sparkle:version>202611172046</sparkle:version>
-            <sparkle:shortVersionString>1.62.0</sparkle:shortVersionString>
+            <title>1.62.1</title>
+            <pubDate>Wed, 18 Nov 2026 00:05:15 -0300</pubDate>
+            <sparkle:version>202611172356</sparkle:version>
+            <sparkle:shortVersionString>1.62.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li><b>Um CanvaBot pode usar os conectores da sua conta.</b> Em &quot;O que acessa&quot;, ligue <b>Conectores da sua conta</b> e o bot passa a enxergar o Slack, o Jira, o Gmail, o Granola e os outros que você conectou no claude.ai, sem carregar junto os servidores locais que pesam na memória.</li>
+  <li><b>Quando um agente faz várias perguntas de uma vez, a sua resposta pelo iPhone chega até ele.</b> Antes, as respostas entravam, mas a tela final de revisão ficava parada no Mac esperando um Enter, e o agente não seguia. Vale também para a resposta por voz. E nas perguntas de múltipla escolha você pode marcar opções e escrever uma resposta sua, as duas juntas.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.62.0.dmg" length="92160771" type="application/octet-stream" sparkle:edSignature="CB5YVDVDNrg4VfAkWI0r+ztxScQ7Nlt7fA6IUzpIuilncKLUQWWwOr2P2TWjmkKNK/4KXCkr59KdIyPJPbsMCQ=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.62.1.dmg" length="92163395" type="application/octet-stream" sparkle:edSignature="zcHYkvGMm7egzQmaiWeCkrjyDofswDPBgNaVwO+aB4QHCsUrZHAUXOaOchx8dzxPXnI0aBqGMjSS/KrRT2e6DQ=="/>
         </item>
     </channel>
 </rss>
