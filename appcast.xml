@@ -3,16 +3,20 @@
     <channel>
         <title>codeCanvas</title>
         <item>
-            <title>1.65.2</title>
-            <pubDate>Mon, 23 Nov 2026 14:21:07 -0300</pubDate>
-            <sparkle:version>202611231412</sparkle:version>
-            <sparkle:shortVersionString>1.65.2</sparkle:shortVersionString>
+            <title>1.66.0</title>
+            <pubDate>Mon, 23 Nov 2026 15:00:20 -0300</pubDate>
+            <sparkle:version>202611231451</sparkle:version>
+            <sparkle:shortVersionString>1.66.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <description><![CDATA[<ul>
-  <li>Melhorias de estabilidade e pequenos consertos.</li>
+  <li><b>&quot;Precisa de você&quot;, no topo da sala.</b> Tudo o que os CanvaBots esperam de você (um comando para decidir, uma pergunta, um bot que parece travado, uma regra que ele quer aprender) numa caixa só, com quem, do que se trata e há quanto tempo. Um clique leva ao lugar onde se resolve.</li>
+  <li><b>A conversa entre bots vira uma linha.</b> Quando os bots conversam entre si, a sala mostra &quot;Revisor falou com Escriba · 6 mensagens&quot;, e a conversa que é sua fica à vista. Um clique abre a troca.</li>
+  <li><b>Sempre liberar.</b> No comando que um bot segurou, além de liberar desta vez, você pode liberar aquele gesto daquele agente para sempre, ou devolvê-lo com o que o bot achou. As regras ficam no cartão do bot, e se desfazem com um clique.</li>
+  <li><b>Pergunta com prazo.</b> Quando o bot marca uma opção como recomendada, ele espera você por meia hora e depois segue com ela, avisando na sala. O prazo se ajusta no cartão do bot, ou se desliga.</li>
+  <li><b>O que chegou enquanto você não olhava.</b> A sala marca onde você parou de ler e mostra quantas mensagens novas há abaixo. O time se ordena por quem precisa de você primeiro.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.65.2.dmg" length="92660472" type="application/octet-stream" sparkle:edSignature="7I3Gml88trHZXmv7TBJWsIrOgHeehXmWeQc6ayZoR2Fa6h5DBCzHb+Qsxqq6hVRg0nbrcHblWmFNsCaTwXZJDw=="/>
+            <enclosure url="https://fls-a24afedb-901a-4345-bf2b-b15b8ad195c7.laravel.cloud/releases/codeCanvas-1.66.0.dmg" length="92974295" type="application/octet-stream" sparkle:edSignature="su4jFECNqhpaK6ilubkdpVU/I1WXf7hb+yVmb39jDrjKcJWRMNa8+uvbKiscCYVy4UmhQ9bZz1E68aRVbUG3Bg=="/>
         </item>
     </channel>
 </rss>
